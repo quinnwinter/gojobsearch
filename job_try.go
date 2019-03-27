@@ -2,14 +2,14 @@
 package main
 
 import (
-    "os"
-    "fmt"
+	"os"
+	"fmt"
 	"strings"
 	"bufio"
 	"strconv"
-    "log"
-    "net/http"
-    "github.com/PuerkitoBio/goquery"
+	"log"
+	"net/http"
+	"github.com/PuerkitoBio/goquery"
 )
 
 /* Example URL's to base making URL's off of 
@@ -236,22 +236,22 @@ func main() {
 		fmt.Println(indeedURL, '\n')
 
 		// HTTP Get request for URL
-    	indeedResp, err := http.Get(indeedURL)
-    	// Check for an error getting the URL
-    	if err != nil {
-        	log.Fatal(err)
-    	}
-    	defer indeedResp.Body.Close()
+		indeedResp, err := http.Get(indeedURL)
+		// Check for an error getting the URL
+		if err != nil {
+			log.Fatal(err)
+		}
+		defer indeedResp.Body.Close()
 
 		// Create a goquery document
-    	indeedDoc, err := goquery.NewDocumentFromReader(indeedResp.Body)
-    	// Check for goquery error
-    	if err != nil {
-    	    log.Fatal(err)
-    	}
+		indeedDoc, err := goquery.NewDocumentFromReader(indeedResp.Body)
+		// Check for goquery error
+		if err != nil {
+			log.Fatal(err)
+		}
 
-    	// Find elements in the document
-    	indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
+		// Find elements in the document
+		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
 	}
 }
 
