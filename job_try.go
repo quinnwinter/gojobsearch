@@ -9,6 +9,7 @@ import (
 	"strconv"
 	"log"
 	"net/http"
+	"container/heap"
 	"github.com/PuerkitoBio/goquery"
 )
 
@@ -20,6 +21,41 @@ https://www.indeed.com/jobs?q=software+engineer+$70,000&l=Denver,+CO&radius=10&e
 https://www.indeed.com/jobs?q=software+engineer+$75,000&l=San+Diego,+CA&radius=10&jt=fulltime&explvl=entry_level
 */
 
+// Struct for keeping track of job listings
+type JobListing struct {
+	Company string
+	Title string
+	Location string
+	Salary string
+	JobLink string
+	Description string
+	KeywordMatches int
+	Index int	// index in the Priority Queue
+}
+
+// Build a PriorityQueue so jobs can be added to it
+// Example code used from Go documentation: https://golang.org/pkg/container/heap
+type PriorityQueue []*JobListing
+
+func (pq PriorityQueue) Len() int { return len(pq) }
+
+// Use greater than to get a max heap to get the most keyword matches
+func (pq PriorityQueue) Less(i, j int) bool {
+	return pq[i].KeywordMatches > pq[j].KeywordMatches
+}
+
+func (pq PriorityQueue) Swap(i, j int) {
+	pq[i], pq[j] = pq[j], pq[i]
+	pq[i].Index = i
+	pq[j].Index = j
+}
+
+func (pq *PriorityQueue) Push(x interface{}) {
+	n := len(*pq)
+	job := x.(*JobListing)
+	job.Index = n
+	*pq.append(*pq, job)
+}
 
 // Global variable to keep track of keywords
 var keywords string
