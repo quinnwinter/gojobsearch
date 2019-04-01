@@ -337,6 +337,13 @@ func main() {
 	// Get a list of the jobs, and only return the highest match job
 	var companyList = make([]string, 0, pq.Len())
 
+	// Create a file to write to
+	file, err := os.Create("job_output.txt")
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer file.Close()
+
 	// Get JobListings From Priority Queue
 	for pq.Len() > 0 {
 		job := pq.Pop().(*JobListing)
@@ -346,16 +353,20 @@ func main() {
 			fmt.Println("Company:", job.Company)
 			fmt.Println("Location:", job.Location)
 			fmt.Println("Link:", job.JobLink)
-			if job.Salary != "" { 
-				fmt.Println("Salary:", job.Salary)
-			}
-			if job.KeywordMatches == -1 {
-				fmt.Println("No Job Description")
-			} else {
-				fmt.Println("Matches:", job.KeywordMatches, "out of", numKeywords, "keywords matched")
-				fmt.Println("Keywords:", strings.Join(job.Keywords, ", "))
-			}
+			fmt.Println("Salary:", job.Salary)
+			fmt.Println("Matches:", job.KeywordMatches, "out of", numKeywords, "keywords matched")
+			fmt.Println("Keywords:", strings.Join(job.Keywords, ", "))
 			fmt.Println()  
+			
+			// Write to file
+			fmt.Fprintln(file, "Title:", job.Title)
+			fmt.Fprintln(file, "Company:", job.Company)
+			fmt.Fprintln(file, "Location:", job.Location)
+			fmt.Fprintln(file, "Link:", job.JobLink)
+			fmt.Fprintln(file, "Salary:", job.Salary)
+			fmt.Fprintln(file, "Matches:", job.KeywordMatches, "out of", numKeywords, "keywords matched")
+			fmt.Fprintln(file, "Keywords:", strings.Join(job.Keywords, ", "))
+			fmt.Fprintln(file)
 		}
 	}
 }
