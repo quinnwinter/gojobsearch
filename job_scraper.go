@@ -1,4 +1,3 @@
-// job_try.go
 package main
 
 import (
@@ -30,12 +29,12 @@ type JobListing struct {
 	JobLink string
 	Description string
 	Keywords []string
-	KeywordMatches int
+	NumMatches int
 }
 
 // Priority Queue library used from https://github.com/gansidui/priority_queue
 func (this *JobListing) Less(other interface{}) bool {
-	return this.KeywordMatches > other.(*JobListing).KeywordMatches
+	return this.NumMatches > other.(*JobListing).NumMatches
 }
 
 // Make a global priority queue
@@ -211,7 +210,7 @@ func getDocInfoIndeed(idx int, element *goquery.Selection) {
 				JobLink: jobDescrURL,
 				Description: jobDescrText,
 				Keywords: matches,
-				KeywordMatches: jobMatches,
+				NumMatches: jobMatches,
 			}
 
 			// Push onto the Priority Queue
@@ -284,11 +283,6 @@ func containsCompany(arr []string, company string) bool {
 func main() {
 	// Declare variables for user input
 	jobTitle, salary, city, state, radius, jobType, experience := getUserInput()
-	
-	// Initialize the heap
-	//heap.Init(&pq)
-	//tempJob := &JobListing{KeywordMatches: -5, Index: 0}
-	//pq = make(PriorityQueue, len(temp)
 
 	// Variable to see how many jobs there are
 	var jobCount int = 1
@@ -359,7 +353,7 @@ func main() {
 			fmt.Println("Location:", job.Location)
 			fmt.Println("Link:", job.JobLink)
 			fmt.Println("Salary:", job.Salary)
-			fmt.Println("Matches:", job.KeywordMatches, "out of", numKeywords, "keywords matched")
+			fmt.Println("Matches:", job.NumMatches, "out of", numKeywords, "keywords matched")
 			fmt.Println("Keywords:", strings.Join(job.Keywords, ", "))
 			fmt.Println()  
 			
@@ -369,7 +363,7 @@ func main() {
 			fmt.Fprintln(file, "Location:", job.Location)
 			fmt.Fprintln(file, "Link:", job.JobLink)
 			fmt.Fprintln(file, "Salary:", job.Salary)
-			fmt.Fprintln(file, "Matches:", job.KeywordMatches, "out of", numKeywords, "keywords matched")
+			fmt.Fprintln(file, "Matches:", job.NumMatches, "out of", numKeywords, "keywords matched")
 			fmt.Fprintln(file, "Keywords:", strings.Join(job.Keywords, ", "))
 			fmt.Fprintln(file)
 		}
