@@ -202,19 +202,21 @@ func getDocInfoIndeed(idx int, element *goquery.Selection) {
 		// fmt.Println(jobDescrURL)
 		jobDescrText, jobMatches, matches = searchJobDescriptionIndeed(jobDescrURL)
 		// Create the JobListing struct and add to the priority queue
-		jl := &JobListing{
-			Company: company,
-			Title: jobTitle,
-			Location: location,
-			Salary: salary,
-			JobLink: jobDescrURL,
-			Description: jobDescrText,
-			Keywords: matches,
-			KeywordMatches: jobMatches,
-		}
+		if jobMatches > 0 {
+			jl := &JobListing{
+				Company: company,
+				Title: jobTitle,
+				Location: location,
+				Salary: salary,
+				JobLink: jobDescrURL,
+				Description: jobDescrText,
+				Keywords: matches,
+				KeywordMatches: jobMatches,
+			}
 
-		// Push onto the Priority Queue
-		pq.Push(jl)
+			// Push onto the Priority Queue
+			pq.Push(jl)
+		}	
 	} 
 
 	// fmt.Println()
@@ -338,11 +340,14 @@ func main() {
 	var companyList = make([]string, 0, pq.Len())
 
 	// Create a file to write to
-	file, err := os.Create("job_output.txt")
+	file, err := os.Create("output.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
 	defer file.Close()
+
+	// Create a Header for the file
+	fmt.Fprintln(file, "Parameters:", "\nTitle:", jobTitle, "\nSalary:", salary, "\nLocation:", city, state, "\nRadius:", radius, "miles\nJob Type:", jobType, "\nExperience:", experience, "\nJobs searched:", jobCount, "\nJob matches:", pq.Len(), "\nKeywords:", keywords, "\nJob Matches:")
 
 	// Get JobListings From Priority Queue
 	for pq.Len() > 0 {
