@@ -43,6 +43,7 @@ var pq = priority_queue.New()
 // Global variable to keep track of keywords
 var keywords string
 var numKeywords int
+var minMatches int
 
 // Function to make the URL for indeed web scraping
 func makeIndeedURL(title string, salary string, city string, state string, radius string, jobType string, expr string, start int) string {
@@ -197,6 +198,17 @@ func getUserInput() (string, string, string, string, string, string, string) {
 	fmt.Println("Enter keywords to search description for, separated by a comma:")
 	keywords, _ = reader.ReadString('\n')
 
+	// Get minimum number of keywords matched to put in 
+	fmt.Println("Enter minimum amount of keywords you would liked matched (default is half the number of keywords)")
+	minNumMatches, _ := reader.ReadString('\n')
+	minNumMatches = strings.TrimRight(minNumMatches, "\n")
+	// If nothing entered, match half the keywords
+	if minNumMatches == "" {
+		minMatches = len(strings.Split(keywords, ", ")) / 2
+	} else {
+		minMatches, _ = strconv.Atoi(minNumMatches)
+	}
+
 	return jobTitle, salary, city, state, radius, jobType, experience
 }
 
@@ -237,7 +249,7 @@ func getDocInfoIndeed(idx int, element *goquery.Selection) {
 		// fmt.Println(jobDescrURL)
 		jobDescrText, jobMatches, matches = searchJobDescriptionIndeed(jobDescrURL)
 		// Create the JobListing struct and add to the priority queue
-		if jobMatches > 0 {
+		if jobMatches > minMatches {
 			jl := &JobListing{
 				Company: company,
 				Title: jobTitle,
@@ -339,7 +351,7 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 	if hasDescrURL {
 		jobDescrText, jobMatches, matches = searchJobDescriptionZR(jobDescrURL)
 		// Create the JobListing struct and add to the priority queue
-		if jobMatches > 0 {
+		if jobMatches > minMatches {
 			jl := &JobListing{
 				Company: company,
 				Title: jobTitle,
@@ -423,7 +435,7 @@ func main() {
 
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
-	for start := 0; start < 5 /*indeedCount*/; start += 10 {
+	for start := 0; start < indeedCount; start += 10 {
 		// Get the indeed URL to search for jobs
 		indeedURL := makeIndeedURL(jobTitle, salary, city, state, radius, jobType, experience, start)
 
@@ -447,14 +459,20 @@ func main() {
 			numJobs := indeedDoc.Find("#searchCount").Text()
 			numJobs = strings.TrimSpace(numJobs)
 			searchCount := strings.Split(numJobs, " ")
-			maxJobs := searchCount[3]
-			maxJobs = strings.ReplaceAll(maxJobs, ",", "")
-			indeedCount, _ = strconv.Atoi(maxJobs)
-			indeedCount -= 40 // Add some breathing room
+			// Make sure count is scraped correctly otherwise just do 100 jobs
+			if len(searchCount) >= 4 {
+				maxJobs := searchCount[3]
+				maxJobs = strings.ReplaceAll(maxJobs, ",", "")
+				indeedCount, _ = strconv.Atoi(maxJobs)
+				// Add Some breathing room so it doesn't search everything
+				indeedCount /= 2
+			} else {
+				indeedCount = 100
+			}
 		}
 
 		// Print status of jobs searched
-		fmt.Println("Jobs searched:", start, "out of", indeedCount)
+		fmt.Println("Indeed Jobs Searched:", start, "out of", indeedCount)
 
 		// Find elements in the document
 		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
@@ -462,7 +480,9 @@ func main() {
 
 
 	// Get Jobs from Zip Recruiter
-	for page := 0; page < 1 /* zrCount/20 */; page += 1 {
+	// About 20 jobs per page
+	zrJobsPerPage := 20
+	for page := 0; page < zrCount; page += 1 {
 		// Get Zip Recruiter URL
 		zrURL := makeZipRecruiterURL(jobTitle, salary, city, state, radius, jobType, experience, page)
 		// fmt.Println(zrURL)
@@ -491,11 +511,13 @@ func main() {
 			maxJobs = strings.ReplaceAll(maxJobs, ",", "")
 			maxJobs = strings.ReplaceAll(maxJobs, "+", "")
 			zrCount, _ = strconv.Atoi(maxJobs)
-			zrCount -= 40 // Add Some breathing room
+			// Add Some breathing room so it doesn't search everything
+			zrCount /= 2
+			zrCount /= zrJobsPerPage
 		}
 
 		// Print status of jobs searched
-		fmt.Println("Jobs searched:", page * 20, "out of", zrCount)
+		fmt.Println("ZipRecruiter Jobs Searched:", page * zrJobsPerPage, "out of", zrCount * zrJobsPerPage)
 	
 		// Find elements in the document
 		zrDoc.Find(".job_result").Each(getDocInfoZR)

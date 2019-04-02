@@ -1,148 +1,316 @@
 Parameters: 
-Title: software 
+Title: software engineer 
 Salary:  
-Location: denver co 
+Location: san diego ca 
 Radius: 10 miles
-Job Type:  
-Experience:  
-Jobs searched: 0 
-Job matches: 17 
-Keywords: c++, java, python
+Job Type: full time 
+Experience: entry level 
+Jobs searched: 182 
+Job matches: 52 
+Keywords: c++, java, python, go, html, css, php, javascript, sql, linux, aws, bachelor, bs, computer science, django, docker, entry, new grad, university, git
  
 Job Matches:
-Title: Software Design Engineer
-Company: Brewer Consultants
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Brewer-Consultants/Jobs
+Title: Software Engineer, Sr.
+Company: Manpower
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Manpower/Jobs
 Salary: 
-Matches: 2 out of 3 keywords matched
-Keywords: c++, java
+Matches: 12 out of 20 keywords matched
+Keywords: c++, java, python, go, javascript, sql, linux, aws, bachelor, computer science, django, docker
+
+Title: #98506 Web Programmer
+Company: University of California - San Diego
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/University-of-California-San-Diego/Jobs
+Salary: 
+Matches: 12 out of 20 keywords matched
+Keywords: java, python, go, html, css, php, javascript, sql, linux, bachelor, bs, university
+
+Title: Staff Software Engineer (UI)
+Company: ServiceNow, Inc.
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/ServiceNow-Inc/Jobs
+Salary: 
+Matches: 11 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, linux, bachelor, bs, computer science, entry
+
+Title: 2019 Summer Intern Program - Software Developer Intern
+Company: Epsilon
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=daefd23730d5889a&fccid=d20278fc46c90d65&vjs=3
+Salary: 
+Matches: 10 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, aws, bachelor, computer science, university
+
+Title: Financial Systems Engineer
+Company: Sony Interactive Entertainment PlayStation
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=de84612c60ac6d2f&fccid=dc156e4b91443100&vjs=3
+Salary: 
+Matches: 10 out of 20 keywords matched
+Keywords: c++, java, python, go, javascript, sql, linux, aws, bs, university
+
+Title: 2019 Summer Intern Program - Software Developer Intern
+Company: AllianceData
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=db1fc1911d14372f&fccid=9edcedb2997876d2&vjs=3
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, html, css, javascript, sql, aws, bachelor, computer science, university
+
+Title: BIOVIA Software Test Internship, April - October 2019
+Company: Dassault Systèmes
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=680269321afa5a5b&fccid=29d37d43c382c8fe&vjs=3
+Salary: $75,000 - $111,000 a year (Indeed est.)
+Matches: 9 out of 20 keywords matched
+Keywords: c++, java, go, html, sql, linux, bachelor, bs, computer science
+
+Title: 2019 Summer Intern Program - Software Developer Intern
+Company: ADS Alliance Data Systems
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/ADS-Alliance-Data-Systems/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, html, css, javascript, sql, aws, bachelor, computer science, university
+
+Title: Software Developer/Data Scientist
+Company: General Atomics and Affiliated Companies
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=fed6b4e22b01e90f&fccid=7e8e6982c3236938&vjs=3
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: c++, java, python, go, sql, linux, bachelor, bs, computer science
+
+Title: Software Developer
+Company: Bridgepoint Education
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Bridgepoint-Education/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, bachelor, computer science, university
+
+Title: Documentum Developer
+Company: Talentry
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Talentry/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, linux, bachelor, computer science
+
+Title: Software Engineer III
+Company: TakeLessons, Inc.
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/TakeLessons-Inc/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, go, html, css, php, javascript, sql, linux, docker
+
+Title: Software Developer C++
+Company: Mount Indie
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Mount-Indie/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: c++, java, python, go, html, css, javascript, sql, linux
+
+Title: Full-Stack Software Engineer
+Company: Lawn Love
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Lawn-Love/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, go, html, css, php, javascript, sql, aws, bs
+
+Title: Senior Software Engineer C++ Real-Time Networking Solutions, Telecommute
+Company: TriStaff Group
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/TriStaff-Group/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: c++, java, python, go, sql, linux, bachelor, bs, computer science
+
+Title: Software Engineering Intern – Application Development (Summe...
+Company: ServiceNow
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=68e7cc3f8d1921f4&fccid=7442885bc0fa7c14&vjs=3
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, python, go, html, css, javascript, sql, bachelor, computer science
+
+Title: Software Devops, QA and validation Engineer
+Company: Qualcomm
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=75b0f0ffa48a88d3&fccid=d40ebe11fc879426&vjs=3
+Salary: $82,000 - $122,000 a year (Indeed est.)
+Matches: 9 out of 20 keywords matched
+Keywords: c++, java, python, go, html, sql, linux, bachelor, computer science
+
+Title: Jr. Web Developer
+Company: Ue.co
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Ue-co/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: go, html, css, php, sql, linux, aws, bs, computer science
+
+Title: Sr. .NET Developer
+Company: AIG
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Aig/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, bachelor, bs, computer science, university
+
+Title: QA Engineer
+Company: Laurel Road
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=96183106f14aa9ed&fccid=7fb7c87730eebfc5&vjs=3
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: c++, java, python, go, javascript, sql, linux, bachelor, bs
+
+Title: Cyber Identity & Access Management Senior Consultant - Sailpoint
+Company: Deloitte
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Deloitte/Jobs
+Salary: 
+Matches: 9 out of 20 keywords matched
+Keywords: java, go, html, javascript, sql, bs, computer science, entry, university
+
+Title: Sr Software Engineer - Manufacturing Applications
+Company: Illumina
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Illumina/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, javascript, sql, linux, aws, computer science, docker
+
+Title: Watson Health - Software Developer
+Company: IBM
+Location: SAN DIEGO, CA
+Link: https://www.ziprecruiter.com/c/Ibm/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: c++, java, html, css, javascript, bachelor, computer science, docker
+
+Title: Sr Full-Stack .NET Engineer
+Company: Robert Half Technology
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Robert-Half-Technology/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, aws, bs
+
+Title: Back-End Developer
+Company: MK Decision
+Location: San Diego, CA 92101
+Link: https://www.indeed.com/rc/clk?jk=c8fd7601f826f26f&fccid=5c7a24508aae1658&vjs=3
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, python, html, css, php, javascript, bs, computer science
+
+Title: Staff Software Engineer Knowledge Engine Platform Team
+Company: Intuit
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Intuit/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: c++, java, go, html, javascript, linux, bs, computer science
+
+Title: Software Engineer - AutoAnything.com
+Company: AutoAnything.com
+Location: San Diego, CA 92111
+Link: https://www.indeed.com/rc/clk?jk=bb5969cdc3dd41f4&fccid=32c4c062ae473188&vjs=3
+Salary: $108,000 - $162,000 a year (Indeed est.)
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, bs, university
+
+Title: Developer - Java/J2EE (Senior)
+Company: Genuent
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Genuent/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, bs, computer science
+
+Title: Principal Software Engineer
+Company: Cubic
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Cubic/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: c++, java, python, go, javascript, linux, bs, computer science
+
+Title: Fullstack .NET Engineer
+Company: PetDesk
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/PetDesk/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, sql, aws, bs
+
+Title: Web Developer
+Company: San Diego State University Research Foundation
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/San-Diego-State-University-Research-Foundation/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, python, go, php, sql, bachelor, bs, computer science
+
+Title: Sr. Dynamics 365 Developer - Team Lead
+Company: Perspecta
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Perspecta/Jobs
+Salary: 
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, html, css, javascript, bachelor, bs, computer science
 
 Title: Software Engineer
-Company: Trustech, Inc.
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Trustech-Inc/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
+Company: Pattern Insight
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=93bc5718faec6aa6&fccid=8d1f6c9087324806&vjs=3
+Salary: $101,000 - $152,000 a year (Indeed est.)
+Matches: 8 out of 20 keywords matched
+Keywords: c++, java, python, go, sql, linux, bs, computer science
 
-Title: Software Development Engineering Manager
-Company: Blackstone Talent Group
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Blackstone-Talent-Group/Jobs
+Title: Backend Developer  - Javascript (San Diego)
+Company: Kitu Systems, Inc.
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Kitu-Systems-Inc/Jobs
 Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Senior Software Engineer - Highly Popular Software Company!
-Company: Cybercoders
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Cybercoders/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Senior Software Engineer - React
-Company: RampUp, Inc
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/RampUp-Inc/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
+Matches: 8 out of 20 keywords matched
+Keywords: java, python, go, html, css, javascript, sql, linux
 
 Title: Senior Software Engineer
-Company: Hostway
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Hostway/Jobs
+Company: Digital Force Technologies
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Digital-Force-Technologies/Jobs
 Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
+Matches: 8 out of 20 keywords matched
+Keywords: c++, java, python, go, sql, linux, bachelor, bs
 
-Title: Senior Software Engineer (C++)
-Company: Agile Partnering
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Agile-Partnering/Jobs
+Title: Senior Messaging Architect/Developer for Kafka/San Diego, CA
+Company: Adwait Algorithm
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Adwait-Algorithm/Jobs
 Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: c++
+Matches: 8 out of 20 keywords matched
+Keywords: java, python, go, javascript, sql, linux, aws, docker
 
-Title: Software Engineer
-Company: Veterans Sourcing Group
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Veterans-Sourcing-Group/Jobs
+Title: Web Developer (PHP)
+Company: TargetCW
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/TargetCW/Jobs
 Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
+Matches: 8 out of 20 keywords matched
+Keywords: java, go, css, php, javascript, sql, aws, docker
 
-Title: Software Engineer (Remote)
-Company: Psychometric
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Psychometric/Jobs
+Title: Sr Software Developer - UUV
+Company: SAIC
+Location: San Diego, CA
+Link: https://www.ziprecruiter.com/c/Saic/Jobs
 Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Cloud-Software Eng III (US)
-Company: E-Talent Network
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/E-Talent-Network/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: .Net Senior Software Engineer
-Company: Talteam
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Talteam/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Software Engineer || Top Secret Cleared
-Company: McLean Intelligent Workforce
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/McLean-Intelligent-Workforce/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Senior Software Engineer – Program Modernization Consulting
-Company: Mastech
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Mastech/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Software Engineer
-Company: Blue Water Staffing
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Blue-Water-Staffing/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: c++
-
-Title: Software Engineer - Media Asset Management
-Company: HireX, Inc.
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/HireX-Inc/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Senior Software Engineer – Program Modernization Consulting
-Company: SAT Healthcare
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/SAT-Healthcare/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
-
-Title: Sr. Software Developer
-Company: Flexential
-Location: Denver, CO
-Link: https://www.ziprecruiter.com/c/Flexential/Jobs
-Salary: 
-Matches: 1 out of 3 keywords matched
-Keywords: java
+Matches: 8 out of 20 keywords matched
+Keywords: java, python, go, php, javascript, sql, bs, computer science
 
