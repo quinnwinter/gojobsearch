@@ -331,6 +331,11 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 	var matches []string
 
 	jobDescrURL, hasDescrURL := element.Find(".job_snippet").Find("a").Attr("href")
+
+	// Get Company link on ZipRecruiter
+	companyLink, _ := element.Find(".job_org").Find("a").Attr("href")
+	companyLink = "https://www.ziprecruiter.com" + companyLink
+
 	if hasDescrURL {
 		jobDescrText, jobMatches, matches = searchJobDescriptionZR(jobDescrURL)
 		// Create the JobListing struct and add to the priority queue
@@ -339,7 +344,7 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 				Company: company,
 				Title: jobTitle,
 				Location: location,
-				JobLink: jobDescrURL,
+				JobLink: companyLink,
 				Description: jobDescrText,
 				Keywords: matches,
 				NumMatches: jobMatches,
@@ -413,12 +418,12 @@ func main() {
 
 	// Variable to see how many jobs there are
 	var jobCount int
-	//var indeedCount int = 1
+	var indeedCount int = 1
 	var zrCount int = 1
-/*
+
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
-	for start := 0; start < 5 indeedCount; start += 10 {
+	for start := 0; start < 5 /*indeedCount*/; start += 10 {
 		// Get the indeed URL to search for jobs
 		indeedURL := makeIndeedURL(jobTitle, salary, city, state, radius, jobType, experience, start)
 
@@ -445,6 +450,7 @@ func main() {
 			maxJobs := searchCount[3]
 			maxJobs = strings.ReplaceAll(maxJobs, ",", "")
 			indeedCount, _ = strconv.Atoi(maxJobs)
+			indeedCount -= 40 // Add some breathing room
 		}
 
 		// Print status of jobs searched
@@ -453,10 +459,10 @@ func main() {
 		// Find elements in the document
 		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
 	}
-*/
+
 
 	// Get Jobs from Zip Recruiter
-	for page := 0; page < 5 /* zrCount/20 */; page += 1 {
+	for page := 0; page < 1 /* zrCount/20 */; page += 1 {
 		// Get Zip Recruiter URL
 		zrURL := makeZipRecruiterURL(jobTitle, salary, city, state, radius, jobType, experience, page)
 		// fmt.Println(zrURL)
@@ -485,6 +491,7 @@ func main() {
 			maxJobs = strings.ReplaceAll(maxJobs, ",", "")
 			maxJobs = strings.ReplaceAll(maxJobs, "+", "")
 			zrCount, _ = strconv.Atoi(maxJobs)
+			zrCount -= 40 // Add Some breathing room
 		}
 
 		// Print status of jobs searched
@@ -505,7 +512,8 @@ func main() {
 	defer file.Close()
 
 	// Create a Header for the file
-	//jobCount += indeedCount + zrCount
+	jobCount += indeedCount + zrCount
+	
 	fmt.Fprintln(file, "Parameters:", "\nTitle:", jobTitle, "\nSalary:", salary, "\nLocation:", city, state, "\nRadius:", radius, "miles\nJob Type:", jobType, "\nExperience:", experience, "\nJobs searched:", jobCount, "\nJob matches:", pq.Len(), "\nKeywords:", keywords, "\nJob Matches:")
 
 	// Get JobListings From Priority Queue
