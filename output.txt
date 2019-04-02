@@ -1,0 +1,148 @@
+Parameters: 
+Title: software 
+Salary:  
+Location: denver co 
+Radius: 10 miles
+Job Type:  
+Experience:  
+Jobs searched: 0 
+Job matches: 17 
+Keywords: c++, java, python
+ 
+Job Matches:
+Title: Software Design Engineer
+Company: Brewer Consultants
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Brewer-Consultants/Jobs
+Salary: 
+Matches: 2 out of 3 keywords matched
+Keywords: c++, java
+
+Title: Software Engineer
+Company: Trustech, Inc.
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Trustech-Inc/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Software Development Engineering Manager
+Company: Blackstone Talent Group
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Blackstone-Talent-Group/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Senior Software Engineer - Highly Popular Software Company!
+Company: Cybercoders
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Cybercoders/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Senior Software Engineer - React
+Company: RampUp, Inc
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/RampUp-Inc/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Senior Software Engineer
+Company: Hostway
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Hostway/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Senior Software Engineer (C++)
+Company: Agile Partnering
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Agile-Partnering/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: c++
+
+Title: Software Engineer
+Company: Veterans Sourcing Group
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Veterans-Sourcing-Group/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Software Engineer (Remote)
+Company: Psychometric
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Psychometric/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Cloud-Software Eng III (US)
+Company: E-Talent Network
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/E-Talent-Network/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: .Net Senior Software Engineer
+Company: Talteam
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Talteam/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Software Engineer || Top Secret Cleared
+Company: McLean Intelligent Workforce
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/McLean-Intelligent-Workforce/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Senior Software Engineer – Program Modernization Consulting
+Company: Mastech
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Mastech/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Software Engineer
+Company: Blue Water Staffing
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Blue-Water-Staffing/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: c++
+
+Title: Software Engineer - Media Asset Management
+Company: HireX, Inc.
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/HireX-Inc/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Senior Software Engineer – Program Modernization Consulting
+Company: SAT Healthcare
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/SAT-Healthcare/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
+Title: Sr. Software Developer
+Company: Flexential
+Location: Denver, CO
+Link: https://www.ziprecruiter.com/c/Flexential/Jobs
+Salary: 
+Matches: 1 out of 3 keywords matched
+Keywords: java
+
