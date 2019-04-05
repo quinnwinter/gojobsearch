@@ -328,10 +328,6 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 
 	jobDescrURL, hasDescrURL := element.Find(".job_snippet").Find("a").Attr("href")
 
-	// Get Company link on ZipRecruiter
-	companyLink, _ := element.Find(".job_org").Find("a").Attr("href")
-	companyLink = "https://www.ziprecruiter.com" + companyLink
-
 	if hasDescrURL {
 		jobDescrText, jobMatches, matches = searchJobDescriptionZR(jobDescrURL)
 		// Create the JobListing struct and add to the priority queue
@@ -340,7 +336,7 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 				Company:     company,
 				Title:       jobTitle,
 				Location:    location,
-				JobLink:     companyLink,
+				JobLink:     jobDescrURL,
 				Description: jobDescrText,
 				Keywords:    matches,
 				NumMatches:  jobMatches,
