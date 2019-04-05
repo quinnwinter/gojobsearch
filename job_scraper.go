@@ -411,7 +411,6 @@ func main() {
 	// Variable to see how many jobs there are
 	var jobCount int
 	var indeedCount = 1
-	var zrCount = 1
 
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
@@ -455,49 +454,50 @@ func main() {
 		// Find elements in the document
 		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
 	}
+	/*
+		// Get Jobs from Zip Recruiter
+		// About 20 jobs per page
+		zrJobsPerPage := 20
+		var zrCount = 1
+		for page := 0; page < zrCount; page++ {
+			// Get Zip Recruiter URL
+			zrURL := makeZipRecruiterURL(jobTitle, salary, city, state, radius, jobType, experience, page)
+			// fmt.Println(zrURL)
 
-	// Get Jobs from Zip Recruiter
-	// About 20 jobs per page
-	zrJobsPerPage := 20
-	for page := 0; page < zrCount; page++ {
-		// Get Zip Recruiter URL
-		zrURL := makeZipRecruiterURL(jobTitle, salary, city, state, radius, jobType, experience, page)
-		// fmt.Println(zrURL)
+			// HTTP Get request for URL
+			zrResp, err := http.Get(zrURL)
+			// Check for an error getting the URL
+			if err != nil {
+				log.Fatal(err)
+			}
+			defer zrResp.Body.Close()
 
-		// HTTP Get request for URL
-		zrResp, err := http.Get(zrURL)
-		// Check for an error getting the URL
-		if err != nil {
-			log.Fatal(err)
+			// Create a goquery document
+			zrDoc, err := goquery.NewDocumentFromReader(zrResp.Body)
+			// Check for goquery error
+			if err != nil {
+				log.Fatal(err)
+			}
+
+			// Get number of jobs from the website
+			if zrCount <= 1 {
+				numJobs := zrDoc.Find("h1.headline").Text()
+				numJobs = strings.TrimSpace(numJobs)
+				searchCount := strings.Split(numJobs, " ")
+				maxJobs := searchCount[0]
+				maxJobs = strings.ReplaceAll(maxJobs, ",", "")
+				maxJobs = strings.ReplaceAll(maxJobs, "+", "")
+				zrCount, _ = strconv.Atoi(maxJobs)
+				zrCount /= zrJobsPerPage
+			}
+
+			// Print status of jobs searched
+			fmt.Println("ZipRecruiter Jobs Searched:", page*zrJobsPerPage, "out of", zrCount*zrJobsPerPage)
+
+			// Find elements in the document
+			zrDoc.Find(".job_result").Each(getDocInfoZR)
 		}
-		defer zrResp.Body.Close()
-
-		// Create a goquery document
-		zrDoc, err := goquery.NewDocumentFromReader(zrResp.Body)
-		// Check for goquery error
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		// Get number of jobs from the website
-		if zrCount <= 1 {
-			numJobs := zrDoc.Find("h1.headline").Text()
-			numJobs = strings.TrimSpace(numJobs)
-			searchCount := strings.Split(numJobs, " ")
-			maxJobs := searchCount[0]
-			maxJobs = strings.ReplaceAll(maxJobs, ",", "")
-			maxJobs = strings.ReplaceAll(maxJobs, "+", "")
-			zrCount, _ = strconv.Atoi(maxJobs)
-			zrCount /= zrJobsPerPage
-		}
-
-		// Print status of jobs searched
-		fmt.Println("ZipRecruiter Jobs Searched:", page*zrJobsPerPage, "out of", zrCount*zrJobsPerPage)
-
-		// Find elements in the document
-		zrDoc.Find(".job_result").Each(getDocInfoZR)
-	}
-
+	*/
 	// Get a list of the jobs, and only return the highest match job
 	var companyList = make([]string, 0, pq.Len())
 
@@ -509,7 +509,7 @@ func main() {
 	defer file.Close()
 
 	// Create a Header for the file
-	jobCount += indeedCount + zrCount
+	jobCount += indeedCount //+ zrCount
 
 	fmt.Fprintln(file, "Parameters:", "\nTitle:", jobTitle, "\nSalary:", salary, "\nLocation:", city, state, "\nRadius:", radius, "miles\nJob Type:", jobType, "\nExperience:", experience, "\nJobs searched:", jobCount, "\nJob matches:", pq.Len(), "\nKeywords:", keywords, "\nJob Matches:")
 
@@ -518,14 +518,14 @@ func main() {
 		job := pq.Pop().(*JobListing)
 		if !containsCompany(companyList, job.Company) {
 			companyList = append(companyList, job.Company)
-			fmt.Println("Title:", job.Title)
-			fmt.Println("Company:", job.Company)
-			fmt.Println("Location:", job.Location)
-			fmt.Println("Link:", job.JobLink)
-			fmt.Println("Salary:", job.Salary)
-			fmt.Println("Matches:", job.NumMatches, "out of", numKeywords, "keywords matched")
-			fmt.Println("Keywords:", strings.Join(job.Keywords, ", "))
-			fmt.Println()
+			// fmt.Println("Title:", job.Title)
+			// fmt.Println("Company:", job.Company)
+			// fmt.Println("Location:", job.Location)
+			// fmt.Println("Link:", job.JobLink)
+			// fmt.Println("Salary:", job.Salary)
+			// fmt.Println("Matches:", job.NumMatches, "out of", numKeywords, "keywords matched")
+			// fmt.Println("Keywords:", strings.Join(job.Keywords, ", "))
+			// fmt.Println()
 
 			// Write to file
 			fmt.Fprintln(file, "Title:", job.Title)
