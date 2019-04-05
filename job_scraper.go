@@ -1,40 +1,33 @@
 package main
 
 import (
-	"os"
-	"fmt"
-	"strings"
 	"bufio"
-	"strconv"
+	"fmt"
 	"log"
 	"net/http"
-	"github.com/gansidui/priority_queue"
+	"os"
+	"strconv"
+	"strings"
+
 	"github.com/PuerkitoBio/goquery"
+	"github.com/gansidui/priority_queue"
 )
 
-/* Example URL's to base making URL's off of 
-https://www.indeed.com/jobs?q=software+engineer&l=Denver%2C+CO
-
-https://www.indeed.com/jobs?q=software+engineer+$70,000&l=Denver,+CO&radius=10&explvl=entry_level
-
-https://www.indeed.com/jobs?q=software+engineer+$75,000&l=San+Diego,+CA&radius=10&jt=fulltime&explvl=entry_level
-*/
-
-// Struct for keeping track of job listings
+// JobListing Struct for keeping track of job listings
 type JobListing struct {
-	Company string
-	Title string
-	Location string
-	Salary string
-	JobLink string
+	Company     string
+	Title       string
+	Location    string
+	Salary      string
+	JobLink     string
 	Description string
-	Keywords []string
-	NumMatches int
+	Keywords    []string
+	NumMatches  int
 }
 
-// Priority Queue library used from https://github.com/gansidui/priority_queue
-func (this *JobListing) Less(other interface{}) bool {
-	return this.NumMatches > other.(*JobListing).NumMatches
+// Less - Priority Queue library used from https://github.com/gansidui/priority_queue
+func (curr *JobListing) Less(other interface{}) bool {
+	return curr.NumMatches > other.(*JobListing).NumMatches
 }
 
 // Make a global priority queue
@@ -46,10 +39,13 @@ var numKeywords int
 var minMatches int
 
 // Function to make the URL for indeed web scraping
+/* Example URL's to base making URL's off of
+https://www.indeed.com/jobs?q=software+engineer+$75,000&l=San+Diego,+CA&radius=10&jt=fulltime&explvl=entry_level
+*/
 func makeIndeedURL(title string, salary string, city string, state string, radius string, jobType string, expr string, start int) string {
 	// Begining of the indeed job search URL
 	baseURL := "https://www.indeed.com/jobs?q="
-	
+
 	// Add title to URL
 	baseURL += strings.ReplaceAll(title, " ", "+")
 
@@ -61,7 +57,7 @@ func makeIndeedURL(title string, salary string, city string, state string, radiu
 	// Add location to URL
 	baseURL += "&l=" + strings.ReplaceAll(strings.Title(strings.ToLower(city)), " ", "+")
 	baseURL += ",+" + strings.ToUpper(state)
-	
+
 	// Add radius
 	if radius != "" {
 		baseURL += "&radius=" + radius
@@ -83,7 +79,7 @@ func makeIndeedURL(title string, salary string, city string, state string, radiu
 	return baseURL
 }
 
-// Function to make the URL for indeed web scraping
+// Function to make the URL for ZipRecruiter web scraping
 /* https://www.ziprecruiter.com/candidate/search?search=Software+Engineer&location=San+Diego%2C+CA&days=&
 radius=10&refine_by_salary=80000&
 refine_by_tags=full+time
@@ -91,7 +87,7 @@ refine_by_tags=full+time
 func makeZipRecruiterURL(title string, salary string, city string, state string, radius string, jobType string, expr string, page int) string {
 	// Begining of the indeed job search URL
 	baseURL := "https://www.ziprecruiter.com/candidate/search?search="
-	
+
 	// Add title to URL
 	baseURL += strings.ReplaceAll(title, " ", "+")
 
@@ -112,7 +108,7 @@ func makeZipRecruiterURL(title string, salary string, city string, state string,
 
 	// Add job type
 	baseURL += "&refine_by_tags=" + strings.ReplaceAll(jobType, " ", "+")
-	
+
 	// Add page
 	baseURL += "&page=" + strconv.Itoa(page)
 
@@ -125,13 +121,14 @@ func getUserInput() (string, string, string, string, string, string, string) {
 	reader := bufio.NewReader(os.Stdin)
 
 	var jobTitle, salary, city, state, radius, jobType, experience string
-	
+
 	// Get Job title for job search
 	for {
 		fmt.Println("Enter the desired job title (required):")
 		jobTitle, _ = reader.ReadString('\n')
 		// Get rid of newline character at the end
 		jobTitle = strings.TrimRight(jobTitle, "\n")
+
 		// Loop until something is entered in the job title
 		if jobTitle != "" {
 			break
@@ -153,7 +150,7 @@ func getUserInput() (string, string, string, string, string, string, string) {
 			break
 		} else {
 			fmt.Println("City and State required.")
-		}	
+		}
 	}
 
 	// Get desired salary
@@ -165,7 +162,8 @@ func getUserInput() (string, string, string, string, string, string, string) {
 	fmt.Println("Enter radius in miles (optional, default = 10, ex: 25):")
 	radius, _ = reader.ReadString('\n')
 	radius = strings.TrimRight(radius, "\n")
-	// Set default radius to 10 miles	
+
+	// Set default radius to 10 miles
 	if radius == "" {
 		radius = "10"
 	}
@@ -175,7 +173,7 @@ func getUserInput() (string, string, string, string, string, string, string) {
 		fmt.Println("Enter job type (optional, options: full time, internship, part time):")
 		jobType, _ = reader.ReadString('\n')
 		jobType = strings.TrimRight(jobType, "\n")
-		if jobType == "" || jobType == "full time" || jobType == "full time" || jobType == "internship" || jobType == "part time" || jobType == "parttime" {
+		if jobType == "" || jobType == "full time" || jobType == "internship" || jobType == "part time" {
 			break
 		} else {
 			fmt.Println("Job type must be: full time, internship, part time")
@@ -198,10 +196,11 @@ func getUserInput() (string, string, string, string, string, string, string) {
 	fmt.Println("Enter keywords to search description for, separated by a comma:")
 	keywords, _ = reader.ReadString('\n')
 
-	// Get minimum number of keywords matched to put in 
+	// Get minimum number of keywords matched to put in
 	fmt.Println("Enter minimum amount of keywords you would liked matched (default is half the number of keywords)")
 	minNumMatches, _ := reader.ReadString('\n')
 	minNumMatches = strings.TrimRight(minNumMatches, "\n")
+
 	// If nothing entered, match half the keywords
 	if minNumMatches == "" {
 		minMatches = len(strings.Split(keywords, ", ")) / 2
@@ -218,25 +217,21 @@ func getDocInfoIndeed(idx int, element *goquery.Selection) {
 	jobTitle := element.Find(".jobtitle").Text()
 	if jobTitle != "" {
 		jobTitle = strings.TrimSpace(jobTitle)
-		// fmt.Println(jobTitle)	
 	}
 	// Get the Company Name
 	company := element.Find(".company").Text()
 	if company != "" {
 		company = strings.TrimSpace(company)
-		// fmt.Println(company)
-	}	
+	}
 	// Get the Company Location
 	location := element.Find(".location").Text()
 	if location != "" {
 		location = strings.TrimSpace(location)
-		// fmt.Println(location)
 	}
 	// Get the salary information
 	salary := element.Find(".salarySnippet").Text()
 	if salary != "" {
 		salary = strings.TrimSpace(salary)
-		// fmt.Println(salary)
 	}
 	// Get Job link
 	var jobDescrText string
@@ -245,35 +240,31 @@ func getDocInfoIndeed(idx int, element *goquery.Selection) {
 
 	jobDescrURL, hasDescrURL := element.Find(".jobtitle").Find("a").Attr("href")
 	if hasDescrURL {
+		// Get Description URL and search description text
 		jobDescrURL = "https://www.indeed.com" + jobDescrURL
-		// fmt.Println(jobDescrURL)
 		jobDescrText, jobMatches, matches = searchJobDescriptionIndeed(jobDescrURL)
+
 		// Create the JobListing struct and add to the priority queue
 		if jobMatches > minMatches {
 			jl := &JobListing{
-				Company: company,
-				Title: jobTitle,
-				Location: location,
-				Salary: salary,
-				JobLink: jobDescrURL,
+				Company:     company,
+				Title:       jobTitle,
+				Location:    location,
+				Salary:      salary,
+				JobLink:     jobDescrURL,
 				Description: jobDescrText,
-				Keywords: matches,
-				NumMatches: jobMatches,
+				Keywords:    matches,
+				NumMatches:  jobMatches,
 			}
 
 			// Push onto the Priority Queue
 			pq.Push(jl)
-		}	
-	} 
-
-	// fmt.Println()
+		}
+	}
 }
 
 // Function to search job description for certain keywords
 func searchJobDescriptionIndeed(jobDescrURL string) (string, int, []string) {
-	//fmt.Println("JOBLINK:", jobDescrURL)
-	//fmt.Println("KEYWORDS:", keywords)
-
 	// Get HTML for Indeed Job Description
 	jobDescr, err := http.Get(jobDescrURL)
 	if err != nil {
@@ -292,7 +283,7 @@ func searchJobDescriptionIndeed(jobDescrURL string) (string, int, []string) {
 
 	// Search description using goquery
 	jobDescrText := jobDescrDoc.Find(".jobsearch-JobComponent-description").Text()
-	
+
 	// Put the job description in lowercase, and loop through each
 	// word and check if the description contains the word
 	keywordCount := 0
@@ -300,8 +291,7 @@ func searchJobDescriptionIndeed(jobDescrURL string) (string, int, []string) {
 	jobDescrText = strings.ToLower(jobDescrText)
 	for _, word := range keywordSplits {
 		if strings.Contains(jobDescrText, strings.ToLower(word)) {
-			// fmt.Println("Contains Keyword:", word)
-			keywordCount += 1
+			keywordCount++
 			wordMatches = append(wordMatches, word)
 		}
 	}
@@ -310,9 +300,6 @@ func searchJobDescriptionIndeed(jobDescrURL string) (string, int, []string) {
 	if numKeywords == 0 {
 		numKeywords = len(keywordSplits)
 	}
-
-	// Print amount of keywords found
-	// fmt.Println(keywordCount, "out of", len(keywordSplits), "keywords found")
 
 	return jobDescrText, keywordCount, wordMatches
 }
@@ -323,19 +310,16 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 	jobTitle := element.Find(".just_job_title").Text()
 	if jobTitle != "" {
 		jobTitle = strings.TrimSpace(jobTitle)
-		// fmt.Println(jobTitle)	
 	}
 	// Get the Company Name
 	company := element.Find(".t_org_link").Text()
 	if company != "" {
 		company = strings.TrimSpace(company)
-		// fmt.Println(company)
-	}	
+	}
 	// Get the Company Location
 	location := element.Find(".t_location_link").Text()
 	if location != "" {
 		location = strings.TrimSpace(location)
-		// fmt.Println(location)
 	}
 	// Get Job link
 	var jobDescrText string
@@ -353,19 +337,19 @@ func getDocInfoZR(idx int, element *goquery.Selection) {
 		// Create the JobListing struct and add to the priority queue
 		if jobMatches > minMatches {
 			jl := &JobListing{
-				Company: company,
-				Title: jobTitle,
-				Location: location,
-				JobLink: companyLink,
+				Company:     company,
+				Title:       jobTitle,
+				Location:    location,
+				JobLink:     companyLink,
 				Description: jobDescrText,
-				Keywords: matches,
-				NumMatches: jobMatches,
+				Keywords:    matches,
+				NumMatches:  jobMatches,
 			}
 
 			// Push onto the Priority Queue
 			pq.Push(jl)
-		}	
-	} 
+		}
+	}
 }
 
 // Function to search job description for certain keywords
@@ -388,16 +372,16 @@ func searchJobDescriptionZR(jobDescrURL string) (string, int, []string) {
 
 	// Search description using goquery
 	jobDescrText := jobDescrDoc.Find(".jobDescriptionSection").Text()
-	
+
 	// Put the job description in lowercase, and loop through each
 	// word and check if the description contains the word
 	keywordCount := 0
 	var wordMatches = make([]string, 0, len(keywordSplits))
 	jobDescrText = strings.ToLower(jobDescrText)
+
 	for _, word := range keywordSplits {
 		if strings.Contains(jobDescrText, strings.ToLower(word)) {
-			// fmt.Println("Contains Keyword:", word)
-			keywordCount += 1
+			keywordCount++
 			wordMatches = append(wordMatches, word)
 		}
 	}
@@ -430,8 +414,8 @@ func main() {
 
 	// Variable to see how many jobs there are
 	var jobCount int
-	var indeedCount int = 1
-	var zrCount int = 1
+	var indeedCount = 1
+	var zrCount = 1
 
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
@@ -464,8 +448,6 @@ func main() {
 				maxJobs := searchCount[3]
 				maxJobs = strings.ReplaceAll(maxJobs, ",", "")
 				indeedCount, _ = strconv.Atoi(maxJobs)
-				// Add Some breathing room so it doesn't search everything
-				indeedCount /= 2
 			} else {
 				indeedCount = 100
 			}
@@ -478,15 +460,14 @@ func main() {
 		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
 	}
 
-
 	// Get Jobs from Zip Recruiter
 	// About 20 jobs per page
 	zrJobsPerPage := 20
-	for page := 0; page < zrCount; page += 1 {
+	for page := 0; page < zrCount; page++ {
 		// Get Zip Recruiter URL
 		zrURL := makeZipRecruiterURL(jobTitle, salary, city, state, radius, jobType, experience, page)
 		// fmt.Println(zrURL)
-	
+
 		// HTTP Get request for URL
 		zrResp, err := http.Get(zrURL)
 		// Check for an error getting the URL
@@ -511,14 +492,12 @@ func main() {
 			maxJobs = strings.ReplaceAll(maxJobs, ",", "")
 			maxJobs = strings.ReplaceAll(maxJobs, "+", "")
 			zrCount, _ = strconv.Atoi(maxJobs)
-			// Add Some breathing room so it doesn't search everything
-			zrCount /= 2
 			zrCount /= zrJobsPerPage
 		}
 
 		// Print status of jobs searched
-		fmt.Println("ZipRecruiter Jobs Searched:", page * zrJobsPerPage, "out of", zrCount * zrJobsPerPage)
-	
+		fmt.Println("ZipRecruiter Jobs Searched:", page*zrJobsPerPage, "out of", zrCount*zrJobsPerPage)
+
 		// Find elements in the document
 		zrDoc.Find(".job_result").Each(getDocInfoZR)
 	}
@@ -535,7 +514,7 @@ func main() {
 
 	// Create a Header for the file
 	jobCount += indeedCount + zrCount
-	
+
 	fmt.Fprintln(file, "Parameters:", "\nTitle:", jobTitle, "\nSalary:", salary, "\nLocation:", city, state, "\nRadius:", radius, "miles\nJob Type:", jobType, "\nExperience:", experience, "\nJobs searched:", jobCount, "\nJob matches:", pq.Len(), "\nKeywords:", keywords, "\nJob Matches:")
 
 	// Get JobListings From Priority Queue
@@ -550,8 +529,8 @@ func main() {
 			fmt.Println("Salary:", job.Salary)
 			fmt.Println("Matches:", job.NumMatches, "out of", numKeywords, "keywords matched")
 			fmt.Println("Keywords:", strings.Join(job.Keywords, ", "))
-			fmt.Println()  
-			
+			fmt.Println()
+
 			// Write to file
 			fmt.Fprintln(file, "Title:", job.Title)
 			fmt.Fprintln(file, "Company:", job.Company)
@@ -564,5 +543,3 @@ func main() {
 		}
 	}
 }
-
-
