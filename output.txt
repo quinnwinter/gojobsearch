@@ -1,13 +1,13 @@
 Parameters: 
-Title: software engineer 
-Salary: $70,000 
+Title: new grad software engineer 
+Salary:  
 Location: seattle wa 
-Radius: 10 miles
+Radius: 15 miles
 Job Type: full time 
 Experience: entry level 
-Jobs searched: 835 
-Job matches: 220 
-Keywords: java, python, c++, php, go, html, css, javascript, linux, aws, docker, django, flask, git, entry, bachelor, computer science, bs, sql, mac, agile
+Jobs searched: 66 
+Job matches: 37 
+Keywords: java, python, go, golang, html, css, c++, javascript, linux, aws, docker, django, flask, git, entry, bachelor, computer science, new grad, university, bs, sql, mac, agile
  
 Job Matches:
 Title: Entry Level Software Engineer
@@ -15,671 +15,142 @@ Company: SR Education Group
 Location: Kirkland, WA
 Link: https://www.indeed.com/company/SR-Education-Group/jobs/Entry-Level-Software-Engineer-2c5444eb53f739e6?fccid=3356393c9d83d46c&vjs=3
 Salary: $80,000 - $100,000 a year
-Matches: 14 out of 21 keywords matched
+Matches: 14 out of 23 keywords matched
 Keywords: java, python, go, html, css, javascript, linux, aws, entry, bachelor, computer science, bs, sql, mac
 
-Title: Software Development Engineer I
-Company: Apptio
-Location: Bellevue, WA 98004 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=a3c2fd2de11148a3&fccid=764656ed7df30a1d&vjs=3
-Salary: $97,000 - $145,000 a year (Indeed est.)
-Matches: 11 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, linux, aws, git, computer science, sql, mac
-
-Title: Technical Writer
+Title: Software Development Engineer - Amazon Videos Customer Engag...
 Company: Amazon.com Services, Inc.
 Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=f0228289263d1835&fccid=fe2d21eef233e94a&vjs=3
+Link: https://www.indeed.com/rc/clk?jk=8aca51076b89c69b&fccid=fe2d21eef233e94a&vjs=3
 Salary: 
-Matches: 11 out of 21 keywords matched
-Keywords: java, python, c++, php, go, html, javascript, aws, git, computer science, bs
+Matches: 10 out of 23 keywords matched
+Keywords: java, python, go, c++, javascript, linux, bachelor, computer science, bs, mac
 
-Title: Software Dev Engineer, R4M
-Company: Amazon Retail LLC
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=eec80e9adcbd9b7a&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, c++, go, html, css, javascript, computer science, bs, mac
-
-Title: Member of Technical Staff
-Company: Adobe
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=b8e4b25b0b73f315&fccid=f89deb5a97c7738a&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, c++, go, html, css, javascript, linux, computer science, bs, mac
-
-Title: Software Engineer, Fullstack- Seattle
-Company: FlyHomes
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=6086f78876f55295&fccid=ed999f8dff164823&vjs=3
-Salary: $98,000 - $140,000 a year (Indeed est.)
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, go, html, css, javascript, django, git, computer science, bs
-
-Title: IMDb - Software Development Engineer
-Company: IMDb.com, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=cc84a1916b990b0d&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, go, html, css, javascript, linux, aws, bachelor, computer science, bs
-
-Title: Full Stack Java Developer
-Company: Cloudentity
-Location: Seattle, WA 98121 (Belltown area)
-Link: https://www.indeed.com/rc/clk?jk=eaf572256b82fac3&fccid=54814a798e8f0d8b&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, go, javascript, aws, docker, git, bs, sql, mac
-
-Title: Systems Engineer
-Company: Amazon Mechanical Turk, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=b2a1952881457188&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, go, html, css, javascript, linux, computer science, bs, mac
-
-Title: Intern - Software Engineer (Seattle) - 2019 Fall
+Title: Software Engineer - University Graduate (Entry Level)
 Company: Snowflake Computing
 Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=e4e3edecb1a1c2ee&fccid=de6a7f640562b0c1&vjs=3
+Link: https://www.indeed.com/rc/clk?jk=6a07b03b0157fb5c&fccid=de6a7f640562b0c1&vjs=3
 Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, c++, go, html, css, javascript, aws, computer science, sql
+Matches: 9 out of 23 keywords matched
+Keywords: java, go, c++, aws, bachelor, computer science, bs, sql, mac
 
-Title: Software Engineer, Platform and Framework
-Company: ExtraHop Networks, Inc.
+Title: 2019 Software Engineer Grad (BEL)
+Company: Pure Storage
+Location: Bellevue, WA
+Link: https://www.indeed.com/rc/clk?jk=a8a713936814e4bf&fccid=696179184f6eec49&vjs=3
+Salary: 
+Matches: 8 out of 23 keywords matched
+Keywords: java, python, go, c++, aws, bachelor, computer science, mac
+
+Title: Production Engineer, University Grad
+Company: Facebook
 Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=dec31c93b02a091c&fccid=5dd0073fb1381f82&vjs=3
+Link: https://www.indeed.com/rc/clk?jk=c7e643d8c9326048&fccid=1639254ea84748b5&vjs=3
 Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, linux, aws, computer science, bs, mac
-
-Title: Cloud Architect
-Company: CompuNet Inc
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=189f004f205eb436&fccid=2b8237032c28a87b&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, go, linux, aws, docker, git, bs, sql, mac
-
-Title: DevOps Engineer
-Company: Nintendo of America Inc.
-Location: Redmond, WA 98052
-Link: https://www.indeed.com/rc/clk?jk=d80b302a68deeea7&fccid=316a3c39a575da92&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, c++, go, linux, aws, git, bachelor, computer science, bs
-
-Title: Web Developer
-Company: Perficient
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=9bab9a884d05a038&fccid=7affa64765ffaf8f&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, php, go, html, css, javascript, git, computer science
-
-Title: Software Engineer
-Company: K2
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=1220fbd892e4ddbf&fccid=3bc93f0dd7545897&vjs=3
-Salary: $79,000 - $119,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, go, html, css, javascript, git, computer science, bs, sql
-
-Title: Data Engineer
-Company: Amazon Services LLC
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=7c274296ead570f8&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: python, linux, aws, git, bachelor, computer science, bs, sql, mac
-
-Title: Systems Engineering Associate
-Company: Amazon Web Services, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=224db5ec20f73112&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, linux, aws, bachelor, computer science, mac
-
-Title: Software Development Engineer, Ads
-Company: Twitch Interactive, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=022d74469c8f1df6&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, go, html, css, javascript, bachelor, computer science, bs
-
-Title: Engineering Manager, Simulations
-Company: Unity Technologies
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=1c90f5dd55b87b26&fccid=880e4714f2ad94a8&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, aws, docker, computer science, bs, mac
-
-Title: Front End Software Engineer
-Company: Google
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=f7e53f86daf79ca1&fccid=a5b4499d9e91a5c6&vjs=3
-Salary: $92,000 - $135,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, html, css, javascript, computer science, bs
-
-Title: Software Engineering Intern – Application Development (Summe...
-Company: ServiceNow
-Location: Kirkland, WA
-Link: https://www.indeed.com/rc/clk?jk=97ecfbe1916481ed&fccid=7442885bc0fa7c14&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, go, html, css, javascript, bachelor, computer science, sql
-
-Title: Machine Learning Engineer
-Company: AnswerIQ
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=e00f20f15f57b5b6&fccid=d50269abbd7da0ce&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, aws, docker, bachelor, computer science, mac
-
-Title: Software Engineer
-Company: Hospitality Online
-Location: Seattle, WA 98121 (Belltown area)
-Link: https://www.indeed.com/rc/clk?jk=4bc7e037e4684e79&fccid=04810907ec9c5424&vjs=3
-Salary: $62,000 - $93,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, go, html, css, javascript, linux, entry, mac
-
-Title: SAP Concur - CPQ Software Developer
-Company: SAP
-Location: Bellevue, WA 98004 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=13e16a7c07d95b1e&fccid=156c7820d1988640&vjs=3
-Salary: $85,000 - $128,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, html, css, javascript, computer science, bs, sql
-
-Title: Cyber Identity & Access Management Consultant - CA, Okta, Fo...
-Company: Deloitte
-Location: Seattle, WA 98104 (First Hill area)
-Link: https://www.indeed.com/rc/clk?jk=934a600abd50d890&fccid=9e215d88a6b33622&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, go, javascript, git, entry, computer science, bs, sql
-
-Title: Associate-Security and Privacy Risk Consulting
-Company: RSM US LLP
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=4da7e4ae463160fa&fccid=abc8e2a55e5bd013&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, php, go, linux, computer science, bs, sql
-
-Title: DevOps Engineer
-Company: Epic Games
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=392905e2d1e985c5&fccid=194eef4c168b8cc5&vjs=3
-Salary: $103,000 - $142,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, go, linux, aws, docker, bs, sql
-
-Title: Application Engineer 1
-Company: Seattle University
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=be15696efa15c90d&fccid=c1646e4b0652c842&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, c++, go, git, entry, bachelor, computer science, sql
-
-Title: Software Engineer
-Company: VMware
-Location: Bellevue, WA 98004 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=174539628bbeb020&fccid=c762a27145bd166e&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, c++, go, linux, aws, docker, computer science, bs
-
-Title: Software Engineer-Acquisition Marketing Platform
-Company: zulily
-Location: Seattle, WA 98121 (Belltown area)
-Link: https://www.indeed.com/rc/clk?jk=bc7f9f677790ed2a&fccid=1fea2a7d8e897821&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, go, bachelor, computer science, bs, sql, mac
-
-Title: Software Development Engineer - Services
-Company: Xevo
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=24ef8e33a061ef80&fccid=f9c83ca25d99ff89&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, go, aws, docker, entry, computer science, mac
+Matches: 8 out of 23 keywords matched
+Keywords: java, python, go, c++, computer science, university, bs, sql
 
 Title: Software Engineer - College Grad
 Company: Qualtrics
 Location: Seattle, WA
 Link: https://www.indeed.com/rc/clk?jk=b623754d83278e36&fccid=10db9f943841d5db&vjs=3
-Salary: $98,000 - $146,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, php, html, css, javascript, bachelor, computer science, sql
-
-Title: Software Engineer
-Company: Avalara
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=ad6455b2d1681dcd&fccid=ec30d82962c8b13b&vjs=3
 Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, git, bachelor, computer science, sql
+Matches: 7 out of 23 keywords matched
+Keywords: java, html, css, javascript, bachelor, computer science, sql
 
-Title: Software Development Engineer (Full stack)
-Company: Solutions Resource LLC
+Title: Full Time opportunities for Ph.D. students & recent graduate...
+Company: Microsoft
+Location: Redmond, WA
+Link: https://www.indeed.com/rc/clk?jk=48fb49b1e483f790&fccid=734cb5a01ee60f80&vjs=3
+Salary: 
+Matches: 7 out of 23 keywords matched
+Keywords: python, go, c++, aws, computer science, bs, mac
+
+Title: Entry Level Network Designer
+Company: BOEING
 Location: Bellevue, WA
-Link: https://www.indeed.com/company/SOLUTIONS-RESOURCE-LLC/jobs/Software-Development-Engineer-6a8607401c4b2631?fccid=6465c533ae143c17&vjs=3
-Salary: $80,000 - $120,000 a year
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, html, css, javascript, aws, bachelor
-
-Title: Systems Integration Development Engineer
-Company: Ratio
-Location: Seattle, WA 98104 (First Hill area)
-Link: https://www.indeed.com/rc/clk?jk=fbf63038e3e00c8e&fccid=dbdc7da050ec8674&vjs=3
+Link: https://www.indeed.com/rc/clk?jk=8e2714e8cde5f837&fccid=edae4285faf6c2f0&vjs=3
 Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, html, css, javascript, aws, git
+Matches: 7 out of 23 keywords matched
+Keywords: java, python, linux, entry, bachelor, computer science, sql
 
-Title: Software Engineer, VizQL
-Company: Tableau
-Location: Kirkland, WA
-Link: https://www.indeed.com/rc/clk?jk=af81a1ada805827c&fccid=f334737e3fd6818e&vjs=3
-Salary: $89,000 - $133,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, linux, aws, bs
-
-Title: Data Science Senior Analyst
-Company: Accenture
-Location: Seattle, WA 98104 (First Hill area)
-Link: https://www.indeed.com/rc/clk?jk=d3c59ce3bae1698c&fccid=a4e4e2eaf26690c9&vjs=3
+Title: Junior Software Engineer
+Company: Agilysys, Inc.
+Location: Bellevue, WA
+Link: https://www.indeed.com/rc/clk?jk=c3b8fe962f9f92f7&fccid=98c5388aec4fd835&vjs=3
 Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: python, go, aws, git, bachelor, computer science, mac
-
-Title: Software Engineer, Knowledge Platform
-Company: Square
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=91e22b08603b4104&fccid=09abad886b83c501&vjs=3
-Salary: $110,000 - $165,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, go, aws, computer science, bs, mac
-
-Title: Software Engineer
-Company: JAMY INTERACTIVE
-Location: Seattle, WA
-Link: https://www.indeed.com/company/JAMY-INTERACTIVE/jobs/Software-Engineer-f10bfc881a67bf77?fccid=6704a8f359d498be&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, linux, docker
-
-Title: Junior ServiceNow Solutions Consultant - Management Consulti...
-Company: Column Group
-Location: Seattle, WA 98177
-Link: https://www.indeed.com/rc/clk?jk=47c4dbcdcd660198&fccid=05e8ec4d4f8612e5&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, linux, bs, sql, mac
+Matches: 7 out of 23 keywords matched
+Keywords: java, python, go, javascript, linux, computer science, mac
 
 Title: Solution Consultant, Professional Services Organization
 Company: Dassault Systèmes
 Location: Bellevue, WA
 Link: https://www.indeed.com/rc/clk?jk=a7755fa900548e33&fccid=29d37d43c382c8fe&vjs=3
 Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, c++, html, javascript, bachelor, computer science, sql
+Matches: 7 out of 23 keywords matched
+Keywords: java, html, c++, javascript, bachelor, computer science, sql
 
-Title: Search Business Unit Staff Algorithm Engineer Seattle
-Company: Alibaba
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=ad9b139378af2b79&fccid=4e75c921d3645259&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, computer science, bs, mac
-
-Title: Platform Systems Engineer
-Company: Impinj
-Location: Seattle, WA 98103 (Green Lake - Wallingford area)
-Link: https://www.indeed.com/rc/clk?jk=293ad31d19f3638e&fccid=c3e8a5d99db6c2ae&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, git, bachelor, computer science
-
-Title: Software Engineer/Intermediate Software Engineer
-Company: Benaroya Research Institute
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=a45090ce2ba2f422&fccid=dec9c525c4cd891f&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, computer science, sql
-
-Title: Software Engineer - Cloud and Microservices
-Company: Splunk
-Location: Seattle, WA 98121 (Belltown area)
-Link: https://www.indeed.com/rc/clk?jk=9b3f6d8f2cc893bd&fccid=aef928e89977f7f0&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, docker, mac
-
-Title: Research Design Engineer (69428)
-Company: Advanced Micro Devices, Inc.
+Title: 2019 TechX Professional - Engineering
+Company: T-Mobile
 Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=e5f624354982a62a&fccid=b45c4b5a9c9a7448&vjs=3
+Link: https://www.indeed.com/rc/clk?jk=2a0fc761190e15a7&fccid=d124dbfd3785b597&vjs=3
 Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: python, c++, go, linux, computer science, bs, mac
+Matches: 7 out of 23 keywords matched
+Keywords: go, git, bachelor, computer science, university, bs, mac
 
-Title: Developer Intern
-Company: Fidelity Life Association
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=92f5c83ca15bdc44&fccid=b0a331d5b0460bd4&vjs=3
+Title: Engineering Resident, University Graduate (Fixed-Term Employ...
+Company: Google
+Location: Kirkland, WA 98033 (Highlands area)
+Link: https://www.indeed.com/rc/clk?jk=75f6635d639757b9&fccid=a5b4499d9e91a5c6&vjs=3
 Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, bachelor, computer science, sql
-
-Title: Technology Engineer
-Company: amdocs
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=cb3406464f339dc9&fccid=3b6bf500a6749588&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, linux, git, bachelor, computer science
-
-Title: Solution Architect - Software Development
-Company: Slalom Consulting
-Location: Seattle, WA 98104 (First Hill area)
-Link: https://www.indeed.com/rc/clk?jk=dc321f5720974984&fccid=a321096b9f1b3c50&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, javascript, linux, aws, sql
-
-Title: Principal Application Security Architect
-Company: Coupang
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=5fd74f57d7e02fe7&fccid=56e12959d04ef145&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, javascript, aws, bachelor, computer science
-
-Title: Junior Systems Administrator
-Company: Chef
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=6be86bc5e31d1629&fccid=fdc8ee119ad1e704&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, go, linux, aws, bachelor, computer science
-
-Title: Software Development Engineer II
-Company: Fred Hutchinson Cancer Research Center
-Location: Seattle, WA 98109 (Westlake area)
-Link: https://www.indeed.com/rc/clk?jk=064cd30f3013e0e7&fccid=a513e92edbf529af&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, javascript, bachelor, computer science, bs
-
-Title: Software Engineer
-Company: Oath Inc
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=d82b4176350488ab&fccid=ec7026b814653f27&vjs=3
-Salary: $101,000 - $151,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, git, bachelor, computer science, mac
-
-Title: Software Engineer (Windows Container Platform)
-Company: Docker
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=f59a8db7be0b8c6a&fccid=1cbe7d59a6dc275d&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: c++, go, linux, docker, git, computer science
-
-Title: Technical Lead - Web
-Company: AccelByte
-Location: Seattle, WA 98112 (Broadmoor area)
-Link: https://www.indeed.com/rc/clk?jk=a0d2d9c4579bd112&fccid=804717530986cc9b&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, php, go, javascript, bs
-
-Title: Software Developer Intern
-Company: ThriftBooks
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=724b5d7e4128cab7&fccid=263785202714b415&vjs=3
-Salary: $71,000 - $106,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, javascript, git, computer science, bs, sql
-
-Title: Software Developer Intern
-Company: Thrift Books Global
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=9d06cc301f7e9db6&fccid=263785202714b415&vjs=3
-Salary: $71,000 - $106,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, javascript, git, computer science, bs, sql
-
-Title: Junior Java Developer
-Company: SynergisticIT
-Location: Seattle, WA
-Link: https://www.indeed.com/company/SynergisticIT/jobs/Junior-Java-Developer-69fac5d0baea1402?fccid=09cebc604b615efc&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, c++, go, bachelor, computer science, bs
-
-Title: Associate Software Engineer
-Company: Daimler
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=622521fad362107c&fccid=b25343f021fb51d7&vjs=3
-Salary: $90,000 - $135,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, git, computer science, bs, mac
-
-Title: Software Engineer II - Core Identity
-Company: Uber
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=4df246663e2c7179&fccid=f766f8bfbc3effb7&vjs=3
-Salary: $122,000 - $164,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, aws, docker, mac
-
-Title: Software Development Engineer
-Company: Marchex
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=7ebd188f8d0307eb&fccid=4aa8fe3e72a441ec&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, javascript, aws, computer science, bs
-
-Title: NBC News Business Intelligence & Tech Ops Fall 2019 Internsh...
-Company: NBCUniversal
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=a0518c62723a5394&fccid=35d653c09c2712b6&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, go, git, bachelor, computer science, sql
-
-Title: Software Engineer, Front End
-Company: Palantir Technologies
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=982003a36c615829&fccid=c47ef3947291e221&vjs=3
-Salary: $83,000 - $122,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, css, javascript, git, computer science, bs
-
-Title: Software Engineer
-Company: Anko
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=b20fa3eced2868ba&fccid=e56ee5a9f6b1581f&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, javascript, aws, computer science, bs, sql
-
-Title: Blockchain Developer
-Company: ThirstySprout
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=28d82bae087b6bd4&fccid=778a888cbe048c70&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, sql
-
-Title: Digital Analyst, Digital Innovations
-Company: Analytics Pros
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=1d7b64bfcec2abb2&fccid=a675a7038edf48c9&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, git, computer science, sql
-
-Title: Development Support Engineer
-Company: CloudBees
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=ad4a42e04ec6cf2b&fccid=c590709004aaaf1e&vjs=3
-Salary: $95,000 - $142,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: go, linux, aws, docker, bachelor, computer science
-
-Title: Software Engineer
-Company: Karat
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=6e8d1b10310129e5&fccid=2cbb6eb59d67005f&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, javascript, linux, bs
-
-Title: Site Reliability Engineer
-Company: Tyler Technologies, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=82e9a8451287e15e&fccid=35fa439a19059a40&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: python, go, linux, aws, sql
-
-Title: Interdisciplinary
-Company: US Department of the Army
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=faec277a2ce8cd68&fccid=c3b8389ba1f05d96&vjs=3
-Salary: $66,386 - $103,441 a year
-Matches: 5 out of 21 keywords matched
-Keywords: go, html, entry, bachelor, bs
-
-Title: Software Engineer
-Company: Coinme, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=0b80d944c0743aea&fccid=00969daf69b03f3e&vjs=3
-Salary: $80,000 a year
-Matches: 5 out of 21 keywords matched
-Keywords: java, javascript, linux, aws, git
-
-Title: IT Senior Internal Auditor
-Company: Weyerhaeuser
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=a004cc42758a2937&fccid=3fcd4dd47c9b850d&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: go, bachelor, computer science, bs, sql
-
-Title: Principal Software Engineer - Ad Server
-Company: AdColony GmbH
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=fb2325314a136440&fccid=09a5fef8aec8adb0&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: aws, bs, sql, mac, agile
-
-
-Title: Graduate Software Development Engineer
-Company: Open Market
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=b1a0c3099aca2015&fccid=cfb22f64c37f5895&vjs=3
-Salary: $88,000 - $132,000 a year (Indeed est.)
-Matches: 5 out of 21 keywords matched
-Keywords: java, go, linux, git, bs
-
-Title: Sr. Data Analyst - Payments
-Company: Nordstrom
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=f8656f39d28e0e8c&fccid=68ce5c21322a81a4&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: python, go, computer science, bs, sql
-
-Title: Software Engineer, Backend (Multiple levels)
-Company: The Climate Corporation
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=728ab507985b9583&fccid=5527fa86119a4ea6&vjs=3
-Salary: $114,000 - $171,000 a year (Indeed est.)
-Matches: 5 out of 21 keywords matched
-Keywords: java, go, aws, git, bs
-
-Title: Machine Learning Engineer, Personalization - Intern
-Company: Zillow Group
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=d1f00e1f5770e16f&fccid=913e1b259c8d65e2&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: java, python, git, computer science, mac
-
-Title: Systems Engineer
-Company: Schlosser Geographic Systems
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=835ddecc77fdf84e&fccid=b812ed7390542bb5&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: linux, bachelor, computer science, bs, sql
-
-Title: Entry Level Test & Evaluation Engineer
-Company: BOEING
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=af186b0d07c0dd97&fccid=edae4285faf6c2f0&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: go, entry, bachelor, computer science, bs
-
-Title: Software Developer
-Company: Friendly Consultants
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=a9f4178b6f35c456&fccid=2f91175d445d18c1&vjs=3
-Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: java, html, css, bachelor, computer science
+Matches: 7 out of 23 keywords matched
+Keywords: java, python, go, c++, javascript, computer science, bs
 
 Title: RESEARCH SCIENTIST 1
 Company: University of Washington
 Location: Seattle, WA
 Link: https://www.indeed.com/rc/clk?jk=1279540009b86909&fccid=142783ac2edbe56b&vjs=3
 Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: go, bachelor, computer science, bs, mac
+Matches: 6 out of 23 keywords matched
+Keywords: go, bachelor, computer science, university, bs, mac
 
-Title: Business Systems Analyst - Seattle Pacific University
-Company: Seattle Pacific University
+Title: NBC News Business Intelligence & Tech Ops Fall 2019 Internsh...
+Company: NBCUniversal
 Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=1d7e09c3ce266113&fccid=cdac375a0855ac57&vjs=3
-Salary: $65,000 - $80,000 a year
-Matches: 5 out of 21 keywords matched
-Keywords: go, aws, computer science, bs, sql
-
-Title: Associate Connected Building Technician
-Company: MacDonald-Miller Facility Solutions
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=dafe610faf79f4b9&fccid=0b942d8d9a491bd7&vjs=3
+Link: https://www.indeed.com/rc/clk?jk=a0518c62723a5394&fccid=35d653c09c2712b6&vjs=3
 Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: go, bachelor, computer science, bs, mac
+Matches: 6 out of 23 keywords matched
+Keywords: python, go, git, bachelor, computer science, sql
 
-Title: Principal Software Development Engineer, Infrastructure
-Company: Smartsheet
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=57ca9bed4e3d0e4e&fccid=af76a8783f0afba1&vjs=3
+Title: Software Engineer - Recent/Upcoming Graduates
+Company: Performance
+Location: Bothell, WA 98021
+Link: https://www.indeed.com/rc/clk?jk=b4c4447b1d19b564&fccid=dd616958bd9ddc12&vjs=3
 Salary: 
-Matches: 5 out of 21 keywords matched
-Keywords: go, docker, computer science, bs, sql
+Matches: 6 out of 23 keywords matched
+Keywords: java, python, c++, bachelor, computer science, bs
+
+Title: Software Developer Intern
+Company: Thrift Books Global
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=9d06cc301f7e9db6&fccid=263785202714b415&vjs=3
+Salary: 
+Matches: 6 out of 23 keywords matched
+Keywords: java, javascript, git, computer science, bs, sql
+
+Title: Software Developer Intern
+Company: ThriftBooks
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=724b5d7e4128cab7&fccid=263785202714b415&vjs=3
+Salary: $71,000 - $106,000 a year (Indeed est.)
+Matches: 6 out of 23 keywords matched
+Keywords: java, javascript, git, computer science, bs, sql
+
+Title: Server Administrator 1
+Company: Seattle University
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=11bbdbff671f5466&fccid=c1646e4b0652c842&vjs=3
+Salary: 
+Matches: 6 out of 23 keywords matched
+Keywords: python, go, aws, entry, bachelor, university
 
