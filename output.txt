@@ -1,156 +1,228 @@
 Parameters: 
-Title: new grad software engineer 
-Salary:  
-Location: seattle wa 
-Radius: 15 miles
+Title: software engineer 
+Salary: $75,000 
+Location: san diego ca 
+Radius: 10 miles
 Job Type: full time 
 Experience: entry level 
-Jobs searched: 66 
+Jobs searched: 218 
 Job matches: 37 
-Keywords: java, python, go, golang, html, css, c++, javascript, linux, aws, docker, django, flask, git, entry, bachelor, computer science, new grad, university, bs, sql, mac, agile
+Keywords: java, python, c++, go, golang, html, css, javascript, php, linux, sql, mac, agile, docker, django, flask, git, entry, bachelor, bs, computer science, new grad, university
  
 Job Matches:
-Title: Entry Level Software Engineer
-Company: SR Education Group
-Location: Kirkland, WA
-Link: https://www.indeed.com/company/SR-Education-Group/jobs/Entry-Level-Software-Engineer-2c5444eb53f739e6?fccid=3356393c9d83d46c&vjs=3
+Title: Linux Software Engineer / Developer
+Company: Retail Inkjet Solutions, Inc. (RIS)
+Location: San Diego, CA
+Link: https://www.indeed.com/company/Retail-Inkjet-Solutions,-Inc.-(RIS)/jobs/Linux-Software-Engineer-67122bcd63989a31?fccid=38316020e693f730&vjs=3
 Salary: $80,000 - $100,000 a year
-Matches: 14 out of 23 keywords matched
-Keywords: java, python, go, html, css, javascript, linux, aws, entry, bachelor, computer science, bs, sql, mac
+Matches: 12 out of 23 keywords matched
+Keywords: python, go, html, css, php, linux, sql, mac, agile, git, bachelor, bs
 
-Title: Software Development Engineer - Amazon Videos Customer Engag...
-Company: Amazon.com Services, Inc.
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=8aca51076b89c69b&fccid=fe2d21eef233e94a&vjs=3
+Title: Software Engineer
+Company: Webroot Software
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=ea9835e3518ba5a3&fccid=8bc0045fa173ee0f&vjs=3
+Salary: 
+Matches: 11 out of 23 keywords matched
+Keywords: java, python, c++, go, html, javascript, linux, sql, mac, entry, computer science
+
+Title: Mid-level Front-end Developer (JavaScript, Angular, UI)
+Company: PRA Health Sciences
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=41b9f33ea4d3732d&fccid=59237124d676ae4d&vjs=3
 Salary: 
 Matches: 10 out of 23 keywords matched
-Keywords: java, python, go, c++, javascript, linux, bachelor, computer science, bs, mac
+Keywords: java, go, html, css, javascript, sql, agile, git, bs, computer science
 
-Title: Software Engineer - University Graduate (Entry Level)
-Company: Snowflake Computing
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=6a07b03b0157fb5c&fccid=de6a7f640562b0c1&vjs=3
+Title: Chipset Power Modeling Engineer
+Company: Qualcomm
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=ccbb7f2fcb4ea3a2&fccid=d40ebe11fc879426&vjs=3
+Salary: 
+Matches: 10 out of 23 keywords matched
+Keywords: java, python, c++, go, javascript, php, linux, sql, bachelor, computer science
+
+Title: Software Engineer
+Company: Pattern Insight
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=df58b25558c8a244&fccid=8d1f6c9087324806&vjs=3
 Salary: 
 Matches: 9 out of 23 keywords matched
-Keywords: java, go, c++, aws, bachelor, computer science, bs, sql, mac
+Keywords: java, python, c++, go, linux, sql, git, bs, computer science
 
-Title: 2019 Software Engineer Grad (BEL)
-Company: Pure Storage
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=a8a713936814e4bf&fccid=696179184f6eec49&vjs=3
-Salary: 
-Matches: 8 out of 23 keywords matched
-Keywords: java, python, go, c++, aws, bachelor, computer science, mac
-
-Title: Production Engineer, University Grad
-Company: Facebook
-Location: Seattle, WA 98101 (Downtown area)
-Link: https://www.indeed.com/rc/clk?jk=c7e643d8c9326048&fccid=1639254ea84748b5&vjs=3
-Salary: 
-Matches: 8 out of 23 keywords matched
-Keywords: java, python, go, c++, computer science, university, bs, sql
-
-Title: Software Engineer - College Grad
-Company: Qualtrics
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=b623754d83278e36&fccid=10db9f943841d5db&vjs=3
-Salary: 
-Matches: 7 out of 23 keywords matched
-Keywords: java, html, css, javascript, bachelor, computer science, sql
-
-Title: Full Time opportunities for Ph.D. students & recent graduate...
-Company: Microsoft
-Location: Redmond, WA
-Link: https://www.indeed.com/rc/clk?jk=48fb49b1e483f790&fccid=734cb5a01ee60f80&vjs=3
-Salary: 
-Matches: 7 out of 23 keywords matched
-Keywords: python, go, c++, aws, computer science, bs, mac
-
-Title: Entry Level Network Designer
-Company: BOEING
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=8e2714e8cde5f837&fccid=edae4285faf6c2f0&vjs=3
-Salary: 
-Matches: 7 out of 23 keywords matched
-Keywords: java, python, linux, entry, bachelor, computer science, sql
-
-Title: Junior Software Engineer
-Company: Agilysys, Inc.
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=c3b8fe962f9f92f7&fccid=98c5388aec4fd835&vjs=3
-Salary: 
-Matches: 7 out of 23 keywords matched
-Keywords: java, python, go, javascript, linux, computer science, mac
-
-Title: Solution Consultant, Professional Services Organization
+Title: BIOVIA Software Test Internship, April - October 2019
 Company: Dassault Systèmes
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=a7755fa900548e33&fccid=29d37d43c382c8fe&vjs=3
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=680269321afa5a5b&fccid=29d37d43c382c8fe&vjs=3
+Salary: 
+Matches: 9 out of 23 keywords matched
+Keywords: java, c++, go, html, linux, sql, bachelor, bs, computer science
+
+Title: Software Engineer II (TAF)
+Company: Epsilon Systems Inc
+Location: San Diego, CA 92123
+Link: https://www.indeed.com/rc/clk?jk=edb101b97948de71&fccid=f69a13eed4946150&vjs=3
+Salary: 
+Matches: 9 out of 23 keywords matched
+Keywords: java, python, go, mac, agile, git, bachelor, bs, computer science
+
+Title: Cyber Identity & Access Management Consultant - CA, Okta, Fo...
+Company: Deloitte
+Location: San Diego, CA 92101
+Link: https://www.indeed.com/rc/clk?jk=fbdfa9f8f48b4c23&fccid=9e215d88a6b33622&vjs=3
+Salary: 
+Matches: 8 out of 23 keywords matched
+Keywords: java, go, javascript, sql, git, entry, bs, computer science
+
+Title: Bioinformatician
+Company: GenomeDx Biosciences
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=0b0cc6f84d044543&fccid=1753740c066b6415&vjs=3
 Salary: 
 Matches: 7 out of 23 keywords matched
-Keywords: java, html, c++, javascript, bachelor, computer science, sql
+Keywords: go, linux, sql, mac, git, bachelor, computer science
 
-Title: 2019 TechX Professional - Engineering
-Company: T-Mobile
-Location: Bellevue, WA
-Link: https://www.indeed.com/rc/clk?jk=2a0fc761190e15a7&fccid=d124dbfd3785b597&vjs=3
+Title: System Software Development Engineer
+Company: Agilis Engineering, Inc.
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=2bc5a7c3db87b01d&fccid=ec805e5395d77a23&vjs=3
 Salary: 
 Matches: 7 out of 23 keywords matched
-Keywords: go, git, bachelor, computer science, university, bs, mac
+Keywords: python, go, sql, mac, entry, bachelor, computer science
 
-Title: Engineering Resident, University Graduate (Fixed-Term Employ...
-Company: Google
-Location: Kirkland, WA 98033 (Highlands area)
-Link: https://www.indeed.com/rc/clk?jk=75f6635d639757b9&fccid=a5b4499d9e91a5c6&vjs=3
+Title: Systems (Deployment) Engineer I
+Company: Tapestry Solutions
+Location: San Diego, CA 92111
+Link: https://www.indeed.com/rc/clk?jk=556b68547cdc5f39&fccid=db71b5b80dab7a76&vjs=3
 Salary: 
 Matches: 7 out of 23 keywords matched
-Keywords: java, python, go, c++, javascript, computer science, bs
+Keywords: java, python, linux, agile, docker, git, bachelor
 
-Title: RESEARCH SCIENTIST 1
-Company: University of Washington
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=1279540009b86909&fccid=142783ac2edbe56b&vjs=3
+Title: JR FULL STACK .NET DEVELOPER
+Company: Component Control
+Location: San Diego, CA
+Link: https://www.indeed.com/company/Component-Control/jobs/Junior-Full-Stack-Net-Developer-e125377d46028bb6?fccid=e6a9abb7918c6597&vjs=3
+Salary: $90,000 - $128,000 a year (Indeed est.)
+Matches: 7 out of 23 keywords matched
+Keywords: java, go, html, css, javascript, agile, bs
+
+Title: Associate Software Development Engineer Test
+Company: SmartDrive Systems
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=0827b524de01f59c&fccid=24315f435c0577f7&vjs=3
+Salary: 
+Matches: 7 out of 23 keywords matched
+Keywords: java, python, go, agile, git, bs, computer science
+
+Title: Computer Scientist
+Company: SPAWAR Systems Center Pacific
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=ac5f49e5c79b1d59&fccid=e9762f5a396245c1&vjs=3
+Salary: $65,000 - $125,000 a year
+Matches: 7 out of 23 keywords matched
+Keywords: java, python, c++, go, agile, bachelor, computer science
+
+Title: Software Test Engineer
+Company: ASML
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=d80308350ebfae86&fccid=57ed5f0210b0681a&vjs=3
+Salary: 
+Matches: 7 out of 23 keywords matched
+Keywords: python, c++, go, mac, bachelor, bs, computer science
+
+Title: Database Architect
+Company: Cyber Talent Group
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=4bdb38fe795af708&fccid=82a5e142256b81ff&vjs=3
+Salary: 
+Matches: 7 out of 23 keywords matched
+Keywords: java, go, linux, sql, agile, bs, computer science
+
+Title: Software Engineer
+Company: SHIELD AI
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=da1a2c6bd49601d5&fccid=0b5f38012a106aa9&vjs=3
 Salary: 
 Matches: 6 out of 23 keywords matched
-Keywords: go, bachelor, computer science, university, bs, mac
+Keywords: java, python, c++, go, docker, computer science
 
-Title: NBC News Business Intelligence & Tech Ops Fall 2019 Internsh...
-Company: NBCUniversal
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=a0518c62723a5394&fccid=35d653c09c2712b6&vjs=3
+Title: Machine Learning Software Engineer
+Company: Lytx
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=c4d0a40a0d565bbf&fccid=9dc9353c3df3e327&vjs=3
 Salary: 
 Matches: 6 out of 23 keywords matched
-Keywords: python, go, git, bachelor, computer science, sql
+Keywords: python, go, linux, mac, git, computer science
 
-Title: Software Engineer - Recent/Upcoming Graduates
-Company: Performance
-Location: Bothell, WA 98021
-Link: https://www.indeed.com/rc/clk?jk=b4c4447b1d19b564&fccid=dd616958bd9ddc12&vjs=3
+Title: Cloud Platform Reliability Engineer
+Company: CGI Group, Inc.
+Location: San Diego, CA 92140
+Link: https://www.indeed.com/rc/clk?jk=e42e6ecf54347221&fccid=d2841a5c0380b93d&vjs=3
 Salary: 
 Matches: 6 out of 23 keywords matched
-Keywords: java, python, c++, bachelor, computer science, bs
+Keywords: go, agile, docker, git, bs, computer science
 
-Title: Software Developer Intern
-Company: Thrift Books Global
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=9d06cc301f7e9db6&fccid=263785202714b415&vjs=3
+Title: Cloud Platform Reliability Engineer
+Company: CGI Veterans Jobs
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=ab7e85f0ce300a32&fccid=29d1068322b2cd21&vjs=3
 Salary: 
 Matches: 6 out of 23 keywords matched
-Keywords: java, javascript, git, computer science, bs, sql
+Keywords: go, agile, docker, git, bs, computer science
 
-Title: Software Developer Intern
-Company: ThriftBooks
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=724b5d7e4128cab7&fccid=263785202714b415&vjs=3
-Salary: $71,000 - $106,000 a year (Indeed est.)
-Matches: 6 out of 23 keywords matched
-Keywords: java, javascript, git, computer science, bs, sql
-
-Title: Server Administrator 1
-Company: Seattle University
-Location: Seattle, WA
-Link: https://www.indeed.com/rc/clk?jk=11bbdbff671f5466&fccid=c1646e4b0652c842&vjs=3
+Title: Senior Data Scientist
+Company: Viasat
+Location: San Diego, CA
+Link: https://www.indeed.com/company/ViaSat,-Inc./jobs/Senior-Data-Scientist-2fd0022c7c95022a?fccid=ba8ecb9838c536a3&vjs=3
 Salary: 
 Matches: 6 out of 23 keywords matched
-Keywords: python, go, aws, entry, bachelor, university
+Keywords: python, go, sql, mac, git, computer science
+
+Title: Cloud Computing Scientist / Amazon Web Services
+Company: NIWC Pacific
+Location: San Diego, CA
+Link: https://www.indeed.com/company/NIWC-Pacific/jobs/Cloud-Computing-Scientist-de48e092dce78823?fccid=1692dc10b92e5498&vjs=3
+Salary: $65,000 - $125,000 a year
+Matches: 6 out of 23 keywords matched
+Keywords: java, go, mac, docker, bs, computer science
+
+Title: Software Development Engineer
+Company: Hitachi Vantara
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=2b7ca091c468c0d8&fccid=9536dde6bb34eec9&vjs=3
+Salary: 
+Matches: 6 out of 23 keywords matched
+Keywords: java, c++, html, entry, bs, computer science
+
+Title: Associate Java Developer
+Company: LPL Financial
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=297a4e2ce8d76ca4&fccid=bba3b2578c9adb92&vjs=3
+Salary: 
+Matches: 6 out of 23 keywords matched
+Keywords: java, python, c++, go, bachelor, computer science
+
+Title: Software Programmer
+Company: Koam Engineering Systems
+Location: San Diego, CA 92110
+Link: https://www.indeed.com/rc/clk?jk=b2b806e672bd7eba&fccid=1f0d34ea67e57d02&vjs=3
+Salary: 
+Matches: 6 out of 23 keywords matched
+Keywords: c++, go, linux, agile, bs, computer science
+
+Title: Software Engineer
+Company: SOLUTE
+Location: San Diego, CA 92110
+Link: https://www.indeed.com/rc/clk?jk=878c7d7d739a09f6&fccid=349b48431835073f&vjs=3
+Salary: $70,000 - $90,000 a year
+Matches: 6 out of 23 keywords matched
+Keywords: java, go, agile, docker, bs, computer science
+
+Title: Jr. Software Developer
+Company: Component Control Com Inc.
+Location: San Diego, CA
+Link: https://www.indeed.com/rc/clk?jk=a3c8dd744bf15e52&fccid=171975366a6b23e2&vjs=3
+Salary: 
+Matches: 6 out of 23 keywords matched
+Keywords: java, html, css, javascript, agile, bs
 
