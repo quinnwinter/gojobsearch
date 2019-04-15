@@ -1,3 +1,4 @@
+// Author: Quinn Winter
 package main
 
 import (
@@ -346,7 +347,7 @@ func main() {
 	defer file.Close()
 
 	// Create a Header for the file
-	jobCount += indeedCount //+ zrCount
+	jobCount += indeedCount
 
 	fmt.Fprintln(file, "Parameters:", "\nTitle:", jobTitle, "\nSalary:", salary, "\nLocation:", city, state, "\nRadius:", radius, "miles\nJob Type:", jobType, "\nExperience:", experience, "\nJobs searched:", jobCount, "\nJob matches:", pq.Len(), "\nKeywords:", keywords, "\nJob Matches:")
 
