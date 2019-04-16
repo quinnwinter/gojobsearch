@@ -1,188 +1,149 @@
 Parameters: 
-Title: computer science 
-Salary: $150,000 
-Location: los angeles ca 
+Title: sosoftware engineer 
+Salary:  
+Location: denver co 
 Radius: 10 miles
 Job Type: full time 
 Experience: entry level 
 Jobs searched: 50 
-Job matches: 40 
-Keywords: c++, java, python, go, html
+Job matches: 25 
+Keywords: java, python, c++, go
  
 Job Matches:
-Title: Dave.com Senior Full Stack Software Engineer
-Company: Dave.com
-Location: Los Angeles, CA 90019
-Link: https://www.indeed.com/company/V3-Talent-Partners/jobs/Senior-Full-Stack-Software-Engineer-19f47ccc5e095ab2?fccid=66f7a265bf7989d3&vjs=3
-Salary: $135,000 - $185,000 a year
-Matches: 4 out of 5 keywords matched
-Keywords: c++, java, python, go
-
-Title: Deep Learning Scientist
-Company: Oben
-Location: Pasadena, CA
-Link: https://www.indeed.com/rc/clk?jk=b5ef286eb5ffcd83&fccid=00d295e030cd60cd&vjs=3
+Title: Junior Software Developer
+Company: DISH Network
+Location: Englewood, CO 80113
+Link: https://www.indeed.com/rc/clk?jk=8c1e6340e2383aef&fccid=3c371b712ace44cf&vjs=3
 Salary: 
-Matches: 4 out of 5 keywords matched
-Keywords: c++, java, python, go
+Matches: 3 out of 4 keywords matched
+Keywords: java, python, c++
 
-Title: Sr Software Engineer, People Recommendations
-Company: Reach, Inc
-Location: Los Angeles, CA 90017
-Link: https://www.indeed.com/company/Reach,-Inc/jobs/Senior-Software-Engineer-43c414050e631fc2?fccid=aea777b675342536&vjs=3
+Title: Software Development Engineer
+Company: DigitalGlobe
+Location: Westminster, CO
+Link: https://www.indeed.com/rc/clk?jk=bfe06af3684db53a&fccid=a924fdf034212563&vjs=3
 Salary: 
-Matches: 4 out of 5 keywords matched
-Keywords: c++, java, python, go
+Matches: 3 out of 4 keywords matched
+Keywords: java, python, c++
 
-Title: Fandango- Software Architect
-Company: NBCUniversal
-Location: Beverly Hills, CA
-Link: https://www.indeed.com/rc/clk?jk=2bfee8ab169218e0&fccid=35d653c09c2712b6&vjs=3
+Title: Software Development Intern
+Company: Radiant Solutions
+Location: Westminster, CO
+Link: https://www.indeed.com/rc/clk?jk=d0244ec05837dfad&fccid=9ab933a50b7d7a98&vjs=3
 Salary: 
-Matches: 3 out of 5 keywords matched
-Keywords: java, python, go
+Matches: 3 out of 4 keywords matched
+Keywords: java, python, c++
 
-Title: Solutions Architect
-Company: AtScale
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=d13ea765446f4c61&fccid=02837850fece8915&vjs=3
-Salary: $137,000 - $194,000 a year (Indeed est.)
-Matches: 3 out of 5 keywords matched
-Keywords: java, python, go
-
-Title: Vice President, Software Development
-Company: PSI Services
-Location: Glendale, CA
-Link: https://www.indeed.com/rc/clk?jk=6ae16136b10eb848&fccid=188d6c3e176aa869&vjs=3
+Title: Software Engineer, Full Stack
+Company: Virta Health
+Location: Denver, CO
+Link: https://www.indeed.com/rc/clk?jk=21067815ee20202a&fccid=d709b135fa09fa4e&vjs=3
 Salary: 
-Matches: 3 out of 5 keywords matched
-Keywords: c++, java, go
-
-Title: Flight Software Test Developer
-Company: CI Software
-Location: Pasadena, CA
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AB3gsQFsL3AuPpv6MeaHQyW7zy_GWDO2RZsw6usGF1piTWL0NBOvo02dSdGwlzJCfB3sF6TaHbNODDqbCOOrdWXxafzACc0wHJnKPfRqkIBmtx6BtBzlSMvRjeVaHE1RBy3HBZA6HRSzgYf9pGOdrToE3_4i5mbmgmN4ErqADJUL_om9jwaFI35WvU2mP2NzV_Dv-3pDxxwDvdbjiinC32qZfGC8ma8aELEJ8ZssCXRKqlQ6-y4ZUGt8iqVZtLlFnWAjvMZ8zgzKFXpRsMUCc7wR8o7cn5HCRU6elon7pZRIRcGPGhpizoh5wE_lEfLxzkPolHnjprr0vmFeZ2vqZTEv8mEP9httjq2fJ6IwwxL6Sjyd2GteT2P76mw1qvP5RaD1ZRbmw7jTtJuDgaq5efP9MS842lJfNgkQw-fFaXaWMpLsFekPlSfI59SS_0xEnV1bf0-NScQRcbByROBrWIyHeG2EMpUXgrHXSLVZOXRA==&vjs=3&p=5&fvj=1
-Salary: $65 - $85 an hour
-Matches: 3 out of 5 keywords matched
-Keywords: c++, python, go
-
-Title: Data Engineer
-Company: GOAT
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=1d8d250a78f1752d&fccid=b927576e1f417be2&vjs=3
-Salary: 
-Matches: 3 out of 5 keywords matched
-Keywords: java, python, go
-
-Title: Lead Software Engineer
-Company: Ticketmaster
-Location: Hollywood, CA 90028
-Link: https://www.indeed.com/rc/clk?jk=2b3053996f5c1d3d&fccid=31696df7c99497fd&vjs=3
-Salary: $123,000 - $184,000 a year (Indeed est.)
-Matches: 3 out of 5 keywords matched
-Keywords: java, python, go
-
-Title: VP of Software Engineering ($200K/year) - Remote Work
-Company: Crossover
-Location: Los Angeles, CA
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bp-pWyh_yd7-BMq_HjiKF8q-wDEEHI6K3EhZcTze0zEuOS-FELOn7dFNYgk6IjSOIXDfx5tnw4vWkL-OM4IxbhpOL9fzrzfErjzFzqVxJK4LRNxa5wUkPvCw6V0HoWpNjj3bNWiqROmD_8cuSfFURmFndxvgp7TdJMgw2phOzHfk2aWqoR2oeVg9IuvHwIQ1B9I-AczSlXrvwniZudQcLLsCQdlby342ylcC3SIdHFFarJmpO6lURQIx9Mz8kWw6H8RSN-jpJwTad3k7l34PaOQMyk-gLyix_sgxl-Xl-YQZocXvW96h5S2jgANDRXdCKelBG904_sIPTRUH1aJAgatWBCVlS6ziP6rAVrqCKwALPrNVXIEcbOEpY-qTYb6JYfD2fLGCYY3fukySluGXzm9XttPWLAmGUQ-6MhLNLDSfDbSaTlVNSw7L8dCzLeF7D-8Lw7qYDNZyistjVS77c6h-8QH_IwXxQ95Zg2-B-za9fhYwxVDoWylf_d9uyAoRhg1TqagJcXqsPFG0SQV3WUi-iocVSkWkY=&vjs=3&p=3&fvj=1
-Salary: $200,000 a year
-Matches: 3 out of 5 keywords matched
-Keywords: c++, java, go
-
-Title: Development Architect
-Company: SAP
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=3b14d37824b521b9&fccid=156c7820d1988640&vjs=3
-Salary: 
-Matches: 3 out of 5 keywords matched
-Keywords: java, python, go
-
-Title: Backend Software Engineer - Identity
-Company: Tinder
-Location: West Hollywood, CA
-Link: https://www.indeed.com/rc/clk?jk=932bdf3e667845b7&fccid=12c109dc261fc3cb&vjs=3
-Salary: 
-Matches: 2 out of 5 keywords matched
-Keywords: java, go
-
-Title: Digital Architect - Digital Banking
-Company: Kony Job Posts
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=d8ce2dfe1653a754&fccid=84b58677a3af9dbb&vjs=3
-Salary: $130,000 - $196,000 a year (Indeed est.)
-Matches: 2 out of 5 keywords matched
-Keywords: java, go
-
-Title: Data Scientist - LA
-Company: CruiTek
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=1a894ba7e5b43569&fccid=5a21e91d3e3a0062&vjs=3
-Salary: $160,000 a year
-Matches: 2 out of 5 keywords matched
-Keywords: python, go
-
-Title: Senior Gameplay Engineer
-Company: Jobot
-Location: Los Angeles, CA 90001
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BWXSTnNuXQ0JxUQEzWgkG93ukKvv3TD1-IIf9C_UktM9nFJg2-OAcY5KqqkMbxUTkmi8U4hptHDjWhtJRHvwgZV0Mf_qvVpG4kSDNJJny4Y2nRow4gJqsfjduZtqWqgbEg8CgQVxZUjHI0Sbk3kF25wwiI1hjhJuKDcKzBBnOyL_-duOebFQwqqWyct5Ww7x6wp5XAdsyknlS3O6Iu0wnvzF4KCU4p5KoMJa-2xVvZB_DKFADDom_fBR3dHh1Wi3MIXB9i3hselP-1O9YthovGSH5Cd_WCayEBF-6ImXxVuCl5MDNhahkE1GwbjiCcC1U2fYmXdyPybIvRHMB34Jcr4Rz9dw8B18EGBne0M9DKMrf6tXBbAk3w3cSZ2Z6otveeOeYKdRckyEHFM5cAgVqxrKstbh1WkDMPDVZ_Xkygq1hbYQWLR0-sEx20kliYpflkbGwTk7TLVaZ8ByS8kx8lgadrcvEg0k49c4u2ejIdnw==&vjs=3&p=6&fvj=0
-Salary: $150,000 - $175,000 a year
-Matches: 2 out of 5 keywords matched
-Keywords: c++, go
-
-Title: Solutions Architect
-Company: Ping Identity
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=29d4a210135a71a7&fccid=b62100e1dd8f0406&vjs=3
-Salary: 
-Matches: 2 out of 5 keywords matched
-Keywords: java, go
-
-Title: VP, Software Engineering
-Company: Verifi, Inc.
-Location: Los Angeles, CA 90048
-Link: https://www.indeed.com/rc/clk?jk=3d5dab3feb5991ac&fccid=9c9541ff470c5626&vjs=3
-Salary: 
-Matches: 2 out of 5 keywords matched
-Keywords: java, go
-
-Title: Director BI
-Company: LegalZoom
-Location: Glendale, CA 91203
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DuRXiKW9wgkBY_WUUmG2R0JLu0HM2n2bS7HhZ6j6pDDTQE2UYJMfqKXiq2Ted1tDPsEEByQipEWEfvfNeEBs75m3ATOy9sUvn8_gje9FN_9VfI4VczhXtJhH_-RiL4n1gFmblJ3t_ZAYOEeoYzzE_5SJbh81QHRCAkhfmnk6tXItU60YjLP0VLfoyf5TS_J-iidKgPOEgT1fHkWZsliNvfNtjNMniKE6lDi3MtTwu7PCxWX8HELEACjD7aEHIZ47sLokao-z3duP_ApMH35lt7fnw5LlhFZZsgXUjT8Iv5sUD9F4VT8DyhmkLzSvpyJty-FQ_vh36IN8_7rfdHVhqjS39uhftcShWcAWpjVERX8PZJTqwlxictlbaDh7rDvXGSei7rtopCPZT4AbD89jRswKUkHcQAeizLwhX8fK-8vsr6bBkpyfz9lTI3N5wVjdE5oBI0-TrAa4Gv99M5ewoQcoHV8RNHBZl8Jv_GQD0sG1PltYERCjyQRyw8FQhWVPHOwEIKuH-ChpSy9p7fgbAFzuRX4dGOZBUUPwe-LrA3vuCaDinahlCZU_ZrQWkcDvU=&vjs=3&p=5&fvj=0
-Salary: 
-Matches: 2 out of 5 keywords matched
-Keywords: python, go
-
-Title: Senior Software Engineer
-Company: Netflix
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=bc210f628856b4a6&fccid=66403b30a2c0d89c&vjs=3
-Salary: $134,000 - $180,000 a year (Indeed est.)
-Matches: 2 out of 5 keywords matched
+Matches: 2 out of 4 keywords matched
 Keywords: java, python
 
 Title: Software Engineer
-Company: Smarkets
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=62d3ee48b11b0e27&fccid=9ffcf3ea2673efee&vjs=3
+Company: Nexleaf Analytics
+Location: Denver, CO
+Link: https://www.indeed.com/rc/clk?jk=09e455ddd399c0c0&fccid=5dcb3b4c7d4dfcad&vjs=3
 Salary: 
-Matches: 2 out of 5 keywords matched
+Matches: 2 out of 4 keywords matched
+Keywords: java, python
+
+Title: Software Engineer
+Company: Ibotta
+Location: Denver, CO 80202 (Lodo area)
+Link: https://www.indeed.com/rc/clk?jk=1f76be3eb1612475&fccid=2e1276ca32b1a903&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, python
+
+Title: Software Engineer (up to 25% Profit Sharing)
+Company: CACI
+Location: Aurora, CO 80010 (Delmar Parkway area)
+Link: https://www.indeed.com/rc/clk?jk=7c5eba1d1887cee3&fccid=290a4498a64fc044&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, python
+
+Title: Software Engineer
+Company: Lifeloc Technologies Inc.
+Location: Wheat Ridge, CO
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DK0Lz4zbtPiZsugezU134VxJG2AsXd_-6IPBFepCrI8Fct0YKez13HD-kL4ImJj_yTyJSThOkPVNapd0FmuVmvBETrcRK5kSe489hvk1XTM_L06zuYJtt1b19RPnVfuEF12OJMH8ReGR3iAE5GSrbNCDRBQ-xQ-XGjEsqM_Y-ci-RhiBaQL1J70TPbBgB7vSLr5JjPnD_3MmcPQbITruQHvdoBXeiWADckxzFGxdT8BgU_iZzR7tfyYPz_Zyk38JAeMNo3bSJLjt7vwZdSBIuyrFh1eubeajkLvjEuCfsInoMUsKMTqJNdoAg8s_Es01QbNTjpb6PSRdAChFdK264CYYKW2wL-P3kqPl7bxQt2g_VYg-NOcw3q_O8O_QupaSlOT9Keq2EhYeBaiHJB4Ltyo5lRATYe_JTRYWKj7DdTZStUOk1mL0LQ&vjs=3&p=9&fvj=1
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, c++
+
+Title: Software Engineer - API Development
+Company: Zicasso, Inc.
+Location: Denver, CO
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWDIyoxFwhAnH01yLRcupADe_Ky10dnGA5ccDeymASrVVL_HwXKbmtXfRXuEEooqfpUCjPE4Itdv24WMnk3otresG3L8f-Hg8uK6lSbibqGr9vAkP3eSIMC3j8fOqFUGZz-iqPzaLGKz6u5evJGXVRy_qOn2hlnHwF8Ntrch7M_GHFspAQzjvg0JF3sRcRM2aKUXSfHKTAWZaUVwLJlwYOQFldlfiS_PeiKrDvUEUu_fFYCywabVOnMZMbtAME7dX_i26fMNGkKF5DRMCJrYvH9ZZCQ3oQ0xORQpsRsx-x1X1HLfguR7__xNF7ecI7EVy0MWs12Ak__88jL2yjEiR1-aCpNBiTBKkNHo0qWIAF2SuWS1gk2YShVAU8BzYgRdvN_2RLRGWl1wQb5d9qsPVNksPIQJGZ0cnjVGPvBuEahHkN8awBzRgeqSy9ZhoCNUwNAEwGdxibevOrY4LPzwmbpqRXZfzFqEo=&vjs=3&p=8&fvj=1
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, python
+
+Title: Software System Engineer
+Company: Odyssey Space Research
+Location: Denver, CO
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AV-Bg6ue55Kd3zrXEc0DEhZ7BHxPZA-BFDNmUtEViJ0lB08wMYjB11wJrfKpCn593Qs6Q_iiqHnQ7f4-z7EyoGdD9vl0RJHntVSfzjtfYczflQJIw-ETWT4VFmU7aMBDN1eC7NgQbbscEoBlFnAx4txY__ymPXW_0FIGVJMwsilDko09bcvSQNPD5iF0c49GxlZSPhIguXAsXMcnpcBHjchgUmIUuOYd5oKak7tEeFUKRTdjE2CtAwgNO9lYn5SfxRQAgzr6-bf0TqOnpKp8vbNBchpbgGA448Aoqgj-NgsH43XPvknf6AC_Nh0NFuMyUG8wf8O9BrN17Wgi27vxJhfEX2oQ1eedMTZ5CQss-Gl02ffsnC0YSgBRlqwjvxGyq-h0cmWg01WBR5gDeeoIGYsO09sFlIIdA1GKtz0S109yAeJXTJrJDELDEQYBpaWp5X1YW0RRg84g==&vjs=3&p=5&fvj=1
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: python, c++
+
+Title: Software Developer - Campus Recruiting
+Company: CGI
+Location: Denver, CO
+Link: https://www.indeed.com/rc/clk?jk=a913700f737837c5&fccid=d2841a5c0380b93d&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, c++
+
+Title: Full Stack Software Engineer
+Company: Cigna
+Location: Denver, CO 80210 (University area)
+Link: https://www.indeed.com/rc/clk?jk=30f691c884073feb&fccid=afbf8c270610a38a&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, python
+
+Title: Junior Software Engineer
+Company: Applied Research Associates, Inc
+Location: Littleton, CO 80120
+Link: https://www.indeed.com/rc/clk?jk=cfd5712d3800ac0c&fccid=600e6abd00b4b668&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, c++
+
+Title: Software Engineer
+Company: Partner Colorado Credit Union
+Location: Arvada, CO 80003
+Link: https://www.indeed.com/company/Partner-Colorado-Credit-Union/jobs/Software-Engineer-785840569ef3babb?fccid=8552d09a71c90520&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, c++
+
+Title: Embedded Software Engineer
+Company: Star Lab Corp.
+Location: Denver, CO
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0COTQJr15KuA8-s3cfSdZlVj5hOIvvKyeykWSldKrT2snGyqMCdBv2cf9WwTGp6CZyqfsMGMlyHtJo2y-MXWWQUNbpFEUtxA5CmW3Qi5471CGsLrGfDWZxfxHQlUd2vy8ZuTWVyrCj8PjDUyMMfX2ancQPOwwGjtKq7c2ZSVPzGxRnzXF20dUuRy_K7xAhjlNd2bRaxvBzp8fEY4mLUQa565IicDEk6rrQbHtSkdIgpOGyD98Lx7XphFHZtqps_tkVF00eOOY7C8pFfXPAHh-gKfU0RjWIxhcoqEGLXANNklABriewRPxDVjWno87zBIJOqNr1jKUOUeC2YxnjFxdnBI91AkP-IBY4n8X8HtkH1Nl-t7MwHGMPeyv4accSTJOd2IC6MNinkKTyWowNgZOoQWHl-taH6q3CUdgSLayUMKSBX1amTItvbjYQWYIKrTHnfVsU0ncTn7Q==&vjs=3&p=5&fvj=1
+Salary: $80,000 - $150,000 a year
+Matches: 2 out of 4 keywords matched
+Keywords: python, c++
+
+Title: Software Quality Assurance Engineer
+Company: Adobe
+Location: Denver, CO
+Link: https://www.indeed.com/rc/clk?jk=60fe3d375e69d6c2&fccid=f89deb5a97c7738a&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
+Keywords: java, python
+
+Title: Software Engineer
+Company: Boom Supersonic
+Location: Denver, CO
+Link: https://www.indeed.com/rc/clk?jk=549c0488c48f6937&fccid=2d8649c591ee9502&vjs=3
+Salary: 
+Matches: 2 out of 4 keywords matched
 Keywords: python, go
 
-Title: Director of Software Engineering, Web
-Company: Fender
-Location: Los Angeles, CA
-Link: https://www.indeed.com/rc/clk?jk=c1b0b3c9efe60afb&fccid=a75b8840a9ec8fb9&vjs=3
-Salary: $125,000 - $188,000 a year (Indeed est.)
-Matches: 2 out of 5 keywords matched
-Keywords: java, go
-
-Title: Data Scientist - Platform
-Company: Inspire
-Location: Los Angeles, CA 90015
-Link: https://www.indeed.com/rc/clk?jk=3bf5078047567d9e&fccid=0f9b540b37a1726e&vjs=3
-Salary: $121,000 - $179,000 a year (Indeed est.)
-Matches: 2 out of 5 keywords matched
-Keywords: python, go
 

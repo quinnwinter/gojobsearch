@@ -119,12 +119,12 @@ func getUserInput() (string, string, string, string, string, string, string) {
 	}
 
 	// Get desired salary
-	fmt.Println("Enter desired salary (optional, ex: 75000):")
+	fmt.Println("Enter desired salary (optional, ex: $75,000):")
 	salary, _ = reader.ReadString('\n')
 	salary = strings.TrimRight(salary, "\n")
 
 	// Get Radius
-	fmt.Println("Enter radius in miles (optional, default = 10, ex: 25):")
+	fmt.Println("Enter radius in miles (optional, default = 10):")
 	radius, _ = reader.ReadString('\n')
 	radius = strings.TrimRight(radius, "\n")
 
@@ -162,13 +162,13 @@ func getUserInput() (string, string, string, string, string, string, string) {
 	keywords, _ = reader.ReadString('\n')
 
 	// Get minimum number of keywords matched to put in
-	fmt.Println("Enter minimum amount of keywords you would liked matched (default is half the number of keywords)")
+	fmt.Println("Enter minimum amount of keywords you would liked matched (default is 1)")
 	minNumMatches, _ := reader.ReadString('\n')
 	minNumMatches = strings.TrimRight(minNumMatches, "\n")
 
 	// If nothing entered, match half the keywords
 	if minNumMatches == "" {
-		minMatches = len(strings.Split(keywords, ", ")) / 2
+		minMatches = 1
 	} else {
 		minMatches, _ = strconv.Atoi(minNumMatches)
 	}
@@ -287,7 +287,7 @@ func main() {
 
 	// Variable to see how many jobs there are
 	var jobCount int
-	var indeedCount = 50
+	var indeedCount = 1
 
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
