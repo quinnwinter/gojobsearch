@@ -287,7 +287,7 @@ func main() {
 
 	// Variable to see how many jobs there are
 	var jobCount int
-	var indeedCount = 1
+	var indeedCount = 50
 
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
@@ -330,7 +330,7 @@ func main() {
 		}
 
 		// Print status of jobs searched
-		fmt.Println("Indeed Jobs Searched:", start, "out of", indeedCount)
+		fmt.Println("Jobs Searched:", start, "out of", indeedCount)
 
 		// Find elements in the document
 		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)

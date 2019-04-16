@@ -1,5 +1,10 @@
 This program is a webscraper built in Go that will search job sites, and return the results based on certain user inputs and keywords.
 
+Two libraries need to be installed first using go get:
+
+> $ go get github.com/PuerkitoBio/goquery
+> $ go get github.com/gansidui/priority_queue
+
 To run the program from the command line:
 
 > $ go run job_scraper.go

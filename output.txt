@@ -1,1311 +1,188 @@
 Parameters: 
-Title: software engineer 
-Salary: $80,000 
-Location: denver co 
-Radius: 5 miles
+Title: computer science 
+Salary: $150,000 
+Location: los angeles ca 
+Radius: 10 miles
 Job Type: full time 
 Experience: entry level 
-Jobs searched: 1336 
-Job matches: 825 
-Keywords: java, python, c++, html, css, go, golang, javascript, docker, django, agile, linux, mac, bachelor, bs, computer science, university, new grad, entry, git, sql
+Jobs searched: 50 
+Job matches: 40 
+Keywords: c++, java, python, go, html
  
 Job Matches:
-Title: FLIGHT/EMBEDDED SOFTWARE ENGINEER-RS 1
-Company: ULA
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=7a677109ed76f2a6&fccid=f478d6f45eab0725&vjs=3
-Salary: $79,000 - $119,000 a year (Indeed est.)
-Matches: 14 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, agile, linux, mac, bachelor, bs, computer science, university, entry, git
+Title: Dave.com Senior Full Stack Software Engineer
+Company: Dave.com
+Location: Los Angeles, CA 90019
+Link: https://www.indeed.com/company/V3-Talent-Partners/jobs/Senior-Full-Stack-Software-Engineer-19f47ccc5e095ab2?fccid=66f7a265bf7989d3&vjs=3
+Salary: $135,000 - $185,000 a year
+Matches: 4 out of 5 keywords matched
+Keywords: c++, java, python, go
 
-Title: Jr. SW Dev (VIPER)
-Company: Comcast
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=f7ed90674539ce37&fccid=ea25315ee9da22e5&vjs=3
+Title: Deep Learning Scientist
+Company: Oben
+Location: Pasadena, CA
+Link: https://www.indeed.com/rc/clk?jk=b5ef286eb5ffcd83&fccid=00d295e030cd60cd&vjs=3
 Salary: 
-Matches: 13 out of 21 keywords matched
-Keywords: java, c++, html, css, go, javascript, docker, agile, linux, bs, computer science, git, sql
-
-
-Title: Senior Software Engineer - Marketing Application Platform
-Company: SendGrid
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=a6bb5b2e6313d2c9&fccid=ad96c6e7b4375b72&vjs=3
-Salary: $102,000 - $137,000 a year (Indeed est.)
-Matches: 12 out of 21 keywords matched
-Keywords: java, python, html, css, go, golang, javascript, docker, linux, bachelor, computer science, git
-
-Title: Cloud Software Engineer
-Company: SAGE Black
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=bd02351208fc32d0&fccid=4ffc7a560c8f584a&vjs=3
-Salary: $105,000 - $146,000 a year (Indeed est.)
-Matches: 12 out of 21 keywords matched
-Keywords: java, python, c++, go, agile, linux, mac, bachelor, bs, computer science, university, entry
-
-Title: Senior Software Engineer (Adaptive Systems Team)
-Company: Assured Information Security, Inc. (AIS)
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=d78feb0214a7377a&fccid=88b0422cbbbe17e2&vjs=3
-Salary: 
-Matches: 12 out of 21 keywords matched
-Keywords: java, python, c++, html, go, javascript, docker, agile, linux, bachelor, computer science, git
-
-Title: Angular Developer
-Company: SRS Acquiom
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=3971ced3e10d0cf5&fccid=c5e625263df7522d&vjs=3
-Salary: 
-Matches: 11 out of 21 keywords matched
-Keywords: java, python, html, css, go, javascript, agile, linux, bachelor, computer science, git
-
-Title: Software Engineer
-Company: Sage Black Consulting & Contracting LLC
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=2aa1ea4108b18855&fccid=269a28c165c7d78b&vjs=3
-Salary: $107,000 - $161,000 a year (Indeed est.)
-Matches: 11 out of 21 keywords matched
-Keywords: java, c++, html, css, javascript, agile, linux, bachelor, bs, computer science, university
-
-Title: Sr. Software Developer
-Company: Flexential
-Location: Denver, CO 80293 (LoDo area)
-Link: https://www.indeed.com/rc/clk?jk=fabba6c880ec3f63&fccid=093428069580c202&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, html, css, javascript, agile, bachelor, bs, computer science, git
-
-Title: Platform Devops Engineer - Kinesis, Kafka Required
-Company: Computer Enterprises, Inc. (CEI)
-Location: Denver, CO
-Link: https://www.indeed.com/company/Computer-Enterprises,-Inc.-(CEI)/jobs/Platform-Devop-Engineer-8313ea7a5b8037b9?fccid=dd924297d06685a4&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, go, docker, agile, linux, mac, bachelor, computer science, git
-
-Title: Senior .NET Developer - Technology Services
-Company: City and County of Denver
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=4b682d8aa9cd83d4&fccid=20f730f4f3d57604&vjs=3
-Salary: $79,509 - $127,214 a year
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, bs, computer science, git
-
-Title: WordPress Developer (Full Stack with WooCommerce)
-Company: MDPPS
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=770954db3e360b02&fccid=d296101fd9673641&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, docker, agile, bs, computer science, git
-
-Title: Senior Software Engineer
-Company: Connexta
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=42e79a6c119292b5&fccid=2afa446097484ee2&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, javascript, agile, linux, mac, bs, computer science, git
-
-Title: Senior Software Engineer
-Company: Inversoft
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=a93cb4edbc107ce7&fccid=f36364a710afd65d&vjs=3
-Salary: $96,000 - $129,000 a year (Indeed est.)
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, linux, mac, bs, computer science, git
-
-Title: Big Data Engineer
-Company: Cigna
-Location: Denver, CO 80210 (University area)
-Link: https://www.indeed.com/rc/clk?jk=9004eb5211f481f1&fccid=afbf8c270610a38a&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, python, c++, go, docker, agile, linux, mac, git, sql
-
-
-Title: Java Software Engineer
-Company: Businessolver
-Location: Denver, CO 80209 (Washington Park area)
-Link: https://www.indeed.com/rc/clk?jk=882e3ac9782bcf73&fccid=34970706f6e16c53&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, linux, bs, computer science, git
-
-Title: Senior Software Engineer
-Company: T-Mobile
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=070246e2c685c124&fccid=d124dbfd3785b597&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, bs, computer science, git
-
-Title: DevOps Engineer
-Company: Alterra Mountain Company
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=9fca8961cbe8bd00&fccid=cb45408a487b9e3b&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, html, css, javascript, agile, bachelor, bs, computer science, git, sql
-
-
-Title: Internet of Things (IoT) Senior Solution Developer - Senior...
-Company: Deloitte
-Location: Denver, CO 80203 (Capitol Hill area)
-Link: https://www.indeed.com/rc/clk?jk=5b523173158b67b0&fccid=9e215d88a6b33622&vjs=3
-Salary: 
-Matches: 10 out of 21 keywords matched
-Keywords: java, docker, agile, linux, mac, bachelor, computer science, university, entry, git
-
-Title: Sr. Software Engineer
-Company: Cloud Elements
-Location: Denver, CO 80205 (Northern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=07dda4cac4cafd32&fccid=a077e54e6701da35&vjs=3
-Salary: $92,000 - $124,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, html, css, go, javascript, docker, bs, computer science
-
-Title: Sr. Software Dev Engineer
-Company: Amazon.com Services, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=aca2c1ba8be4feb9&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, c++, html, css, go, javascript, bachelor, bs, computer science
-
-Title: Senior Dev Ops Engineer
-Company: CrownPeak
-Location: Denver, CO 80203 (Capitol Hill area)
-Link: https://www.indeed.com/rc/clk?jk=660851cc2032a34c&fccid=3828b4e016ac7375&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, go, javascript, django, agile, linux, git, sql
-
-
-Title: .NET Web Developer
-Company: Equus Software
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=a250d240fc3cff48&fccid=e896cbdf700e4158&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bs, computer science, sql
-
-
-Title: Senior Software Developer *Boulder/Broomfield area
-Company: CGG
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=eeba7d2c3f771538&fccid=2fe5bdb74ccda2ee&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, agile, linux, bs, computer science
-
-Title: Full Stack Developer
-Company: Ombud
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=32ee75d59c483cc3&fccid=983742c2df23f976&vjs=3
-Salary: $86,000 - $123,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, go, javascript, agile, mac, bachelor, bs, computer science, sql
-
-
-Title: Principal Developer - OIT ECS Program
-Company: State of Colorado Job Opportunities
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=438025195074912f&fccid=7cd7119315ca0934&vjs=3
-Salary: $6,716 - $8,885 a month
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bs, computer science, university
-
-Title: Software Engineer
-Company: Boom Supersonic
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=549c0488c48f6937&fccid=2d8649c591ee9502&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: python, html, go, docker, linux, mac, bachelor, computer science, git
-
-Title: Senior EPiServer Developer/Architect
-Company: Rightpoint
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=f392b76617026fce&fccid=2b49d010914e52cf&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, bachelor, bs, computer science, git
-
-Title: Consulting Engineer- Splunk Software
-Company: Global Technology Resources, Inc.
-Location: Denver, CO 80209 (Washington Park area)
-Link: https://www.indeed.com/rc/clk?jk=8a9158ed48bd75c7&fccid=b0ae12d82271cef4&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, html, go, javascript, linux, bachelor, bs, computer science
-
-Title: Test Automation Engineer
-Company: Travelers Haven
-Location: Denver, CO 80246 (Southeastern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=bac2ad5c42c37e7e&fccid=e7eaca13f8fdb7e6&vjs=3
-Salary: $72,000 - $107,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, go, javascript, linux, mac, bs, computer science, git, sql
-
-
-Title: Workflow Applications Engineer
-Company: Levels Beyond
-Location: Denver, CO 80205 (Northern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=c05267bb86dd4354&fccid=43addf276c8058ca&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, go, agile, linux, mac, bachelor, computer science, git
-
-Title: Mid-Senior Full Stack Ruby on Rails Engineer
-Company: BiggerPockets Inc.
-Location: Denver, CO 80205 (Northern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=9c3205cc467ef170&fccid=f41cb2e82021606e&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, bachelor, computer science, git, sql
-
-
-Title: Software Engineer - Web Applications
-Company: Zicasso, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWDIyoxFwhAnH01yLRcupADe_Ky10dnGA5ccDeymASrVVL_HwXKbmtcMJurQKsHTzfquS7D7hx8ZEZT7PA3Imd-oVPBp3WYBmLFI_xFJUJoDj6IHJdeZdjAEoplvD5Nbm58dwPbjhu5EUUE7qENkxAfPQImBqvItBuShs9d8s_zXZwxoPp5oNxMZbYpoDLGCMmuHiCpU0uNKVW5_xtdJ8ONeyiIotNyk9LcNxM_WdUsOCA2UsXTUBIX5qglE5nA_auda-BJBZ32LHxjSIprE7_scNypLcpBEc3eM6AZ9zh05ngMU2ulc1jcsjlVj1YqCn_VQDFpA45WgN-TsHIbfRGCcDN9luOk_b_nOBhTmnEfshtKaIY3DnjexGa-o9wxvDPx9J4UK_t_zXOLqdjL6tlFGUAgqiQrHEvqrcxMxmqq1uKn8F5p3F4ZACTvn1WlAkNO8D-RZhIbbdr3smjMrsGlK2K7-TglPU=&vjs=3&p=2&fvj=1
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, mac, bachelor, bs, git
-
-Title: Account Security Sales Engineer / Solutions Engineer
-Company: Twilio
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=21b319e19130f79f&fccid=2cd10564780b27e2&vjs=3
-Salary: $124,000 - $183,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, html, css, go, javascript, agile, bachelor, computer science
-
-Title: Robotics Engineer
-Company: Vita Inclinata Technologies
-Location: Denver, CO
-Link: https://www.indeed.com/company/Vita-Inclinata-Technologies/jobs/Robotic-Engineer-d98c556cd335702a?fccid=152cc5af596cd3a0&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: python, c++, go, agile, linux, mac, bachelor, bs, computer science
-
-Title: Software Developer, Lead
-Company: Booz Allen Hamilton
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=18ca5c3a9430c059&fccid=4e041af1d0af1bc8&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, c++, javascript, docker, agile, linux, bs, university, git
-
-Title: Software Engineer, API
-Company: ReCharge Payments
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=a81e26478c9774b4&fccid=a2bca0f1c81efe66&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, go, docker, agile, bachelor, bs, computer science, git
-
-Title: Senior Software Engineer, Back End
-Company: Beatport
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=7082285cac604b34&fccid=337b10fc3c94bd83&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, go, javascript, docker, django, agile, linux, git
-
-Title: Cloud Application Architect
-Company: Amazon Web Services, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=cbd13b29f9626ed0&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, agile, linux, bs, computer science
+Matches: 4 out of 5 keywords matched
+Keywords: c++, java, python, go
 
 Title: Sr Software Engineer, People Recommendations
 Company: Reach, Inc
-Location: Denver, CO
-Link: https://www.indeed.com/company/Reach,-Inc/jobs/Senior-Software-Engineer-f9acb1b1e767adfd?fccid=aea777b675342536&vjs=3
-Salary: $108,000 - $144,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, linux, bachelor, bs, computer science, git
-
-Title: Sr. Financial Systems Administrator
-Company: Ping Identity
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=48b762bd4a0b1578&fccid=b62100e1dd8f0406&vjs=3
+Location: Los Angeles, CA 90017
+Link: https://www.indeed.com/company/Reach,-Inc/jobs/Senior-Software-Engineer-43c414050e631fc2?fccid=aea777b675342536&vjs=3
 Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, computer science, git
+Matches: 4 out of 5 keywords matched
+Keywords: c++, java, python, go
 
-Title: Business Applications Developer
-Company: Cherwell Software
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=77a79d3442bbbf32&fccid=6b831671067323a8&vjs=3
+Title: Fandango- Software Architect
+Company: NBCUniversal
+Location: Beverly Hills, CA
+Link: https://www.indeed.com/rc/clk?jk=2bfee8ab169218e0&fccid=35d653c09c2712b6&vjs=3
 Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, computer science, git
+Matches: 3 out of 5 keywords matched
+Keywords: java, python, go
 
-Title: Software Development Team Lead
-Company: Ria Financial Services
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=d4fd114b7b3e8c53&fccid=91aafaea51d955a6&vjs=3
+Title: Solutions Architect
+Company: AtScale
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=d13ea765446f4c61&fccid=02837850fece8915&vjs=3
+Salary: $137,000 - $194,000 a year (Indeed est.)
+Matches: 3 out of 5 keywords matched
+Keywords: java, python, go
+
+Title: Vice President, Software Development
+Company: PSI Services
+Location: Glendale, CA
+Link: https://www.indeed.com/rc/clk?jk=6ae16136b10eb848&fccid=188d6c3e176aa869&vjs=3
 Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, computer science, git, sql
+Matches: 3 out of 5 keywords matched
+Keywords: c++, java, go
 
+Title: Flight Software Test Developer
+Company: CI Software
+Location: Pasadena, CA
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AB3gsQFsL3AuPpv6MeaHQyW7zy_GWDO2RZsw6usGF1piTWL0NBOvo02dSdGwlzJCfB3sF6TaHbNODDqbCOOrdWXxafzACc0wHJnKPfRqkIBmtx6BtBzlSMvRjeVaHE1RBy3HBZA6HRSzgYf9pGOdrToE3_4i5mbmgmN4ErqADJUL_om9jwaFI35WvU2mP2NzV_Dv-3pDxxwDvdbjiinC32qZfGC8ma8aELEJ8ZssCXRKqlQ6-y4ZUGt8iqVZtLlFnWAjvMZ8zgzKFXpRsMUCc7wR8o7cn5HCRU6elon7pZRIRcGPGhpizoh5wE_lEfLxzkPolHnjprr0vmFeZ2vqZTEv8mEP9httjq2fJ6IwwxL6Sjyd2GteT2P76mw1qvP5RaD1ZRbmw7jTtJuDgaq5efP9MS842lJfNgkQw-fFaXaWMpLsFekPlSfI59SS_0xEnV1bf0-NScQRcbByROBrWIyHeG2EMpUXgrHXSLVZOXRA==&vjs=3&p=5&fvj=1
+Salary: $65 - $85 an hour
+Matches: 3 out of 5 keywords matched
+Keywords: c++, python, go
 
-Title: Consulting Engineer- Splunk Software
-Company: Zivaro
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=23018f15068c73dd&fccid=89a4496d31387597&vjs=3
+Title: Data Engineer
+Company: GOAT
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=1d8d250a78f1752d&fccid=b927576e1f417be2&vjs=3
 Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, html, go, javascript, linux, bachelor, bs, computer science
-
-Title: Developer
-Company: Element3 Health
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=51449476161a76c2&fccid=8bb4703ab01ba5d5&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, bachelor, bs, computer science, git
-
-Title: Sr Software Engineer
-Company: Sapiens
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=e66267fe01764706&fccid=4af777510672922c&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, bs, computer science
-
-Title: Java Developer
-Company: Evercommerce
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=ebbfb220fa403540&fccid=9222b0c7c41358ed&vjs=3
-Salary: $83,000 - $120,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, computer science, sql
-
-
-Title: Internet of Things (IoT) Edge Computing Developer - Digital...
-Company: Accenture
-Location: Denver, CO 80203 (Capitol Hill area)
-Link: https://www.indeed.com/rc/clk?jk=875f5aaaddae2285&fccid=a4e4e2eaf26690c9&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, c++, go, javascript, agile, linux, bachelor, git
-
-Title: Full Stack .NET Developer
-Company: Perficient
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=2c8a267f57d6ae03&fccid=7affa64765ffaf8f&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, javascript, agile, bachelor, bs, computer science, git
-
-Title: Principal Software Engineer
-Company: Engage Mobilize
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=1034887bd646e28d&fccid=2f02ac4c14242d4a&vjs=3
-Salary: 
-Matches: 9 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, computer science, university, git
-
-Title: Senior Software Engineer
-Company: Ibotta
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=487911f125870ed9&fccid=2e1276ca32b1a903&vjs=3
-Salary: $116,000 - $156,000 a year (Indeed est.)
-Matches: 9 out of 21 keywords matched
-Keywords: java, python, javascript, agile, linux, mac, bachelor, computer science, git
-
-Title: JavaScript Developer
-Company: Verizon
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=88ac5622fa1d2286&fccid=f7029f63fe5c906e&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, go, javascript, agile, bs, computer science, git
-
-Title: Software Engineer - Greenplum Database - Denver
-Company: Pivotal Software
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=c34535746fc1a0e2&fccid=a9bcf9da7de2f94a&vjs=3
-Salary: $99,000 - $149,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, c++, go, golang, agile, mac, bs
-
-Title: Technical Lead
-Company: Customer Value Partners
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=28df2df58b4c1e96&fccid=b2d899f595c435be&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, bachelor, computer science, git
-
-Title: Cloud Infrastructure Developer
-Company: Josh
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=aad818d475712c69&fccid=727a9f8f6139b02d&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: python, go, docker, agile, linux, bs, computer science, git
-
-Title: Sr. ACI Engineer
-Company: World Wide Technology, Inc.
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=2a07c57cb247cd74&fccid=14b5a49956ef18fa&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, c++, go, agile, linux, bachelor, git
-
-Title: Senior DevOps Engineer - Denver
-Company: Veritone
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=4fbed515abc47af4&fccid=317a3c04ed06f798&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, go, javascript, linux, mac, bachelor, computer science, university
-
-Title: Site Reliability Engineer - Telephony
-Company: RingCentral
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=9862085ffb1d8f5b&fccid=1cbb498b08d4e46a&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: python, c++, go, linux, bachelor, bs, computer science, sql
-
-
-Title: Senior Software Engineer - React
-Company: RampUp, Inc
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=49acc8dacdf6891b&fccid=52e8ab4a1d078992&vjs=3
-Salary: $110,000 - $130,000 a year
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, javascript, bachelor, bs, computer science, git
-
-Title: Senior Software Engineer - Full-Stack
-Company: name.com
-Location: Denver, CO 80230 (Central East Denver area)
-Link: https://www.indeed.com/rc/clk?jk=e51c71ff3b30b5db&fccid=8c0e866cbb94b82d&vjs=3
-Salary: $88,000 - $125,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, c++, go, javascript, agile, linux, bs, computer science
-
-Title: SharePoint Developer
-Company: Xavient Information Systems
-Location: Denver, CO
-Link: https://www.indeed.com/company/Xavient-Information-Systems/jobs/Sharepoint-Developer-2cb82f4b58b1f82f?fccid=c398fbd1ef13c129&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bachelor, computer science
-
-Title: Software Engineer - Cloud Server Development
-Company: Cisco Careers
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=9ed20435fc398b88&fccid=dfc44f3b8c44a6db&vjs=3
-Salary: $85,000 - $127,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: python, c++, go, docker, agile, bachelor, computer science, git
-
-Title: Software Engineer, Engineering Productivity
-Company: DataRobot
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=e0bcd50b947ae3e8&fccid=ccacdb1cb7d4a077&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, go, javascript, django, linux, mac, git
-
-Title: Web Developer - Amazon Web Services
-Company: Vadata, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=ddd4f5b9cc96fe71&fccid=fe2d21eef233e94a&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, html, css, javascript, linux, bachelor, computer science
-
-Title: Site Reliability Engineer - Telephony
-Company: RingCentral, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=85eb38f7ab938b04&fccid=c6fcda9d082dac9e&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: python, c++, go, linux, bachelor, bs, computer science, sql
-
-
-Title: Senior Lead Software Developer
-Company: S&P Global
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=497de427ed994091&fccid=b716e44d2c6283e7&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, go, javascript, agile, bachelor, bs, computer science
-
-Title: Senior Software Engineer
-Company: Tanium
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=c742f2245495a57e&fccid=8b15e33f394c2062&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, go, golang, javascript, agile, bachelor, git
-
-Title: Software Test Engineer
-Company: Friendly Consultants, Inc.
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=44e9a766e5c6cf80&fccid=1a32068041bc0251&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, c++, html, css, javascript, agile, bachelor, computer science
-
-Title: Machine Learning Research Scientist
-Company: Travelport
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=9302db338a04a65f&fccid=423797cd29045c3e&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, c++, go, linux, mac, bs, computer science
-
-Title: Software Development Manager
-Company: EVO Payments
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=26b0be7ad1f59ee7&fccid=24e63a71e91c6eab&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bs, git
-
-Title: Front-End React Engineer
-Company: Trym, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/company/Trym,-Inc./jobs/Front-End-React-Engineer-e66362e26cd532da?fccid=d2f3a021614dbf13&vjs=3
-Salary: $75,000 - $110,000 a year
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, go, javascript, django, agile, computer science, git
-
-Title: Software Development Team Lead
-Company: RIA
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=2359466a4222e0f9&fccid=b4ee610996f17af7&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, computer science, git
-
-Title: DSP Engineer
-Company: Amplus Corporation
-Location: Denver, CO
-Link: https://www.indeed.com/company/Amplus-LLC/jobs/Dsp-Engineer-532c21583e1f7409?fccid=5281d50ed9006389&vjs=3
-Salary: $70,000 - $170,000 a year
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, c++, go, linux, bachelor, computer science, git
-
-Title: DevOps Engineer
-Company: Switchfly
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=c23af610d02210be&fccid=9a989ebfc097894a&vjs=3
-Salary: $110,000 - $152,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, docker, agile, linux, bachelor, computer science, git
-
-Title: Web Developer – Programmer-Analyst
-Company: Intergonic
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=eb6b6e826aa649d3&fccid=a58f89619da70f7d&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, linux, bs, sql
-
-
-Title: UI/UX Developer
-Company: P2 Energy Solutions
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=09c52e3f39ff0e91&fccid=95030a2702a6c85c&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, bs, computer science
+Matches: 3 out of 5 keywords matched
+Keywords: java, python, go
 
 Title: Lead Software Engineer
-Company: Aegon
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=de3babb5f2defc11&fccid=817dbf75ac000d11&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, css, javascript, agile, bachelor, bs, computer science
+Company: Ticketmaster
+Location: Hollywood, CA 90028
+Link: https://www.indeed.com/rc/clk?jk=2b3053996f5c1d3d&fccid=31696df7c99497fd&vjs=3
+Salary: $123,000 - $184,000 a year (Indeed est.)
+Matches: 3 out of 5 keywords matched
+Keywords: java, python, go
 
-Title: Solutions Engineer (Mid to Senior – Node Focus)
-Company: Spire Digital
-Location: Denver, CO 80203 (Capitol Hill area)
-Link: https://www.indeed.com/rc/clk?jk=26ebce1d03cf4208&fccid=b30ff10ca996dbb3&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, html, go, javascript, docker, agile, bs, git
+Title: VP of Software Engineering ($200K/year) - Remote Work
+Company: Crossover
+Location: Los Angeles, CA
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bp-pWyh_yd7-BMq_HjiKF8q-wDEEHI6K3EhZcTze0zEuOS-FELOn7dFNYgk6IjSOIXDfx5tnw4vWkL-OM4IxbhpOL9fzrzfErjzFzqVxJK4LRNxa5wUkPvCw6V0HoWpNjj3bNWiqROmD_8cuSfFURmFndxvgp7TdJMgw2phOzHfk2aWqoR2oeVg9IuvHwIQ1B9I-AczSlXrvwniZudQcLLsCQdlby342ylcC3SIdHFFarJmpO6lURQIx9Mz8kWw6H8RSN-jpJwTad3k7l34PaOQMyk-gLyix_sgxl-Xl-YQZocXvW96h5S2jgANDRXdCKelBG904_sIPTRUH1aJAgatWBCVlS6ziP6rAVrqCKwALPrNVXIEcbOEpY-qTYb6JYfD2fLGCYY3fukySluGXzm9XttPWLAmGUQ-6MhLNLDSfDbSaTlVNSw7L8dCzLeF7D-8Lw7qYDNZyistjVS77c6h-8QH_IwXxQ95Zg2-B-za9fhYwxVDoWylf_d9uyAoRhg1TqagJcXqsPFG0SQV3WUi-iocVSkWkY=&vjs=3&p=3&fvj=1
+Salary: $200,000 a year
+Matches: 3 out of 5 keywords matched
+Keywords: c++, java, go
 
-Title: Django Software Developer
-Company: Kimetrica LLC
-Location: Denver, CO
-Link: https://www.indeed.com/company/Kimetrica/jobs/Django-Software-Developer-9dc8cfe02496e823?fccid=0d34f42e05a61490&vjs=3
-Salary: $89,000 - $134,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: python, go, docker, django, agile, bachelor, entry, git
+Title: Development Architect
+Company: SAP
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=3b14d37824b521b9&fccid=156c7820d1988640&vjs=3
+Salary: 
+Matches: 3 out of 5 keywords matched
+Keywords: java, python, go
+
+Title: Backend Software Engineer - Identity
+Company: Tinder
+Location: West Hollywood, CA
+Link: https://www.indeed.com/rc/clk?jk=932bdf3e667845b7&fccid=12c109dc261fc3cb&vjs=3
+Salary: 
+Matches: 2 out of 5 keywords matched
+Keywords: java, go
+
+Title: Digital Architect - Digital Banking
+Company: Kony Job Posts
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=d8ce2dfe1653a754&fccid=84b58677a3af9dbb&vjs=3
+Salary: $130,000 - $196,000 a year (Indeed est.)
+Matches: 2 out of 5 keywords matched
+Keywords: java, go
+
+Title: Data Scientist - LA
+Company: CruiTek
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=1a894ba7e5b43569&fccid=5a21e91d3e3a0062&vjs=3
+Salary: $160,000 a year
+Matches: 2 out of 5 keywords matched
+Keywords: python, go
+
+Title: Senior Gameplay Engineer
+Company: Jobot
+Location: Los Angeles, CA 90001
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BWXSTnNuXQ0JxUQEzWgkG93ukKvv3TD1-IIf9C_UktM9nFJg2-OAcY5KqqkMbxUTkmi8U4hptHDjWhtJRHvwgZV0Mf_qvVpG4kSDNJJny4Y2nRow4gJqsfjduZtqWqgbEg8CgQVxZUjHI0Sbk3kF25wwiI1hjhJuKDcKzBBnOyL_-duOebFQwqqWyct5Ww7x6wp5XAdsyknlS3O6Iu0wnvzF4KCU4p5KoMJa-2xVvZB_DKFADDom_fBR3dHh1Wi3MIXB9i3hselP-1O9YthovGSH5Cd_WCayEBF-6ImXxVuCl5MDNhahkE1GwbjiCcC1U2fYmXdyPybIvRHMB34Jcr4Rz9dw8B18EGBne0M9DKMrf6tXBbAk3w3cSZ2Z6otveeOeYKdRckyEHFM5cAgVqxrKstbh1WkDMPDVZ_Xkygq1hbYQWLR0-sEx20kliYpflkbGwTk7TLVaZ8ByS8kx8lgadrcvEg0k49c4u2ejIdnw==&vjs=3&p=6&fvj=0
+Salary: $150,000 - $175,000 a year
+Matches: 2 out of 5 keywords matched
+Keywords: c++, go
+
+Title: Solutions Architect
+Company: Ping Identity
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=29d4a210135a71a7&fccid=b62100e1dd8f0406&vjs=3
+Salary: 
+Matches: 2 out of 5 keywords matched
+Keywords: java, go
+
+Title: VP, Software Engineering
+Company: Verifi, Inc.
+Location: Los Angeles, CA 90048
+Link: https://www.indeed.com/rc/clk?jk=3d5dab3feb5991ac&fccid=9c9541ff470c5626&vjs=3
+Salary: 
+Matches: 2 out of 5 keywords matched
+Keywords: java, go
+
+Title: Director BI
+Company: LegalZoom
+Location: Glendale, CA 91203
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DuRXiKW9wgkBY_WUUmG2R0JLu0HM2n2bS7HhZ6j6pDDTQE2UYJMfqKXiq2Ted1tDPsEEByQipEWEfvfNeEBs75m3ATOy9sUvn8_gje9FN_9VfI4VczhXtJhH_-RiL4n1gFmblJ3t_ZAYOEeoYzzE_5SJbh81QHRCAkhfmnk6tXItU60YjLP0VLfoyf5TS_J-iidKgPOEgT1fHkWZsliNvfNtjNMniKE6lDi3MtTwu7PCxWX8HELEACjD7aEHIZ47sLokao-z3duP_ApMH35lt7fnw5LlhFZZsgXUjT8Iv5sUD9F4VT8DyhmkLzSvpyJty-FQ_vh36IN8_7rfdHVhqjS39uhftcShWcAWpjVERX8PZJTqwlxictlbaDh7rDvXGSei7rtopCPZT4AbD89jRswKUkHcQAeizLwhX8fK-8vsr6bBkpyfz9lTI3N5wVjdE5oBI0-TrAa4Gv99M5ewoQcoHV8RNHBZl8Jv_GQD0sG1PltYERCjyQRyw8FQhWVPHOwEIKuH-ChpSy9p7fgbAFzuRX4dGOZBUUPwe-LrA3vuCaDinahlCZU_ZrQWkcDvU=&vjs=3&p=5&fvj=0
+Salary: 
+Matches: 2 out of 5 keywords matched
+Keywords: python, go
 
 Title: Senior Software Engineer
-Company: Workiva Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=f6c4356efb57f62d&fccid=6e1b86edb37e1c98&vjs=3
-Salary: $103,000 - $139,000 a year (Indeed est.)
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, html, go, javascript, docker, agile, bs
-
-Title: Software Engineer, Full Stack
-Company: Virta Health
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=21067815ee20202a&fccid=d709b135fa09fa4e&vjs=3
-Salary: 
-Matches: 8 out of 21 keywords matched
-Keywords: java, python, html, css, go, javascript, docker, git
-
-Title: Senior Data Scientist
-Company: MMS Holdings Inc.
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=f696125051abe638&fccid=d652aee539183dab&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, go, javascript, mac, bachelor, computer science
-
-Title: Senior Software Engineer
-Company: Magnetic Variation Services LLC, a Helmerich & Payne (H&P) company
-Location: Denver, CO 80265 (LoDo area)
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BEmrRfgDTUXgbrVi-bUa7Y4YUMTpZ_oAyWO_mjdK3tyJ6v6SdCmbveLgt3oUlyD_cQy7HKxeUd7gBMx1iL41Cy3dZkeAXDWPlOo4afO7kmdHyEiuUGWGcUjlCh_BDsxzKGOa2YkJm5nrMQ9HgOHXdHQ4hffjpqr5mE0Drpg3oEGCr5fHPp_GOkPB6_-Yrl_A-ODmPuIBOyPDM5w8fH01Wnj6FNWKVNLg3AGG6xocGAPtBTWAHWl8tGjRVfxHfsiDlUu66SsN2eMILNlcKtzRrsRmicW9fyz4EisEmmf_qKISEJD2TESZbINr7NqyWA2bUH-TCKFjjB9eoo9YWKeWLBbhntxWpZ8UwOHAtX7qzJ7URH3UqsFMk9-aWoTVCTeTfMgHuJDempB0__FBnDtRW2rNXn3JqrTc0dTm-duqg14o7UQhwIPvZJLLURlYCtImbbSkIi1RuDixjnoCZSF0B0jR1F6yLOIS8=&vjs=3&p=4&fvj=1
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, agile, bs, computer science, git
-
-Title: Senior Full Stack Java Engineer
-Company: DISH Network
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=6d72db3a8bf11da7&fccid=3c371b712ace44cf&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, docker, agile, bachelor, git
-
-Title: Senior Staff Software Engineer
-Company: PipelineRx
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=531e7cda02b2b7ce&fccid=e53ba2f8d1320048&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, agile, linux, mac, bs, computer science
-
-Title: Data Engineer
-Company: Location3
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=02be1e000dfa33a7&fccid=44d7b7a835a6410b&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: python, go, agile, mac, bachelor, computer science, git
-
-Title: Sr. Software Engineer: C++
-Company: Mersive
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=c7e59e6c32e06b39&fccid=77943d21a4f2c13c&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, c++, go, mac, bachelor, bs, computer science
-
-Title: Lead DevOps Engineer
-Company: OrthoFi
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=58ad9b16fac9848c&fccid=4db65b6c96268f67&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: go, docker, agile, linux, bs, git, sql
-
-
-Title: Full Stack Engineer (Back-End Focused)
-Company: Merrill Corporation
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=6934726ba6d6c2c1&fccid=186b908f5decc0bb&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile, computer science
-
-Title: Director, AI and NLP Data Scientist
-Company: KPMG
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=32de747b8cc466f3&fccid=2dd390c3a48a7ed0&vjs=3
-Salary: $77,000 - $114,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: python, go, linux, mac, computer science, university, git
-
-Title: Senior Software Developer
-Company: PlanOmatic
-Location: Denver, CO 80205 (Northern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=25a0921981b43643&fccid=b8cbb30cb7848858&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, css, go, javascript, bs, git, sql
-
-
-Title: Software Quality Assurance Engineer
-Company: Adobe
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=60fe3d375e69d6c2&fccid=f89deb5a97c7738a&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, go, javascript, agile, linux, mac
-
-Title: Solution Engineer - Utilities and Telecom
-Company: Esri
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=d611568fcd6d5da1&fccid=bebf9775d7d3bca8&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, html, javascript, bachelor, computer science
-
-Title: Systems Engineer IV
-Company: PiORION Solutions Inc
-Location: Denver, CO
-Link: https://www.indeed.com/company/PiORION-Solutions-Inc/jobs/System-Engineer-d7154cca6990201f?fccid=1f071f92bc1f043f&vjs=3
-Salary: $40 - $55 an hour
-Matches: 7 out of 21 keywords matched
-Keywords: go, linux, bachelor, bs, computer science, university, git
-
-Title: Junior Quality Engineer
-Company: Xactly Corporation
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=da401cec36077c60&fccid=71c5f67b36fd552b&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, docker, agile, bachelor, computer science, entry
-
-Title: Sr. Java Pivotal Cloud Foundry Engineer (BHJOB22048_580)
-Company: ITmPowered
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=05321c8865b047ee&fccid=e6c612e9fae5f923&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, agile, bachelor, computer science, git
-
-Title: Snr C++ Developer
-Company: talentarchitect.com
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=e56bd50fe0e6e698&fccid=800c3853e831fcbf&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, c++, go, mac, bachelor, bs, computer science
-
-Title: Software Engineer, Internal Services - Bluprint (NBCUniversa...
-Company: NBCUniversal
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=df3716abc3528be2&fccid=35d653c09c2712b6&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, html, css, javascript, agile, bs, git
+Company: Netflix
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=bc210f628856b4a6&fccid=66403b30a2c0d89c&vjs=3
+Salary: $134,000 - $180,000 a year (Indeed est.)
+Matches: 2 out of 5 keywords matched
+Keywords: java, python
 
 Title: Software Engineer
-Company: Nexleaf Analytics
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DOuC-Dk9kZmdyPskIBdqt7rKLodeGewp0-MreBq3CvshvNfbLvf785EYIzYTaNXVK09HAXuu67HRcXp-Egvi_mXiwRCBGCeBAZHgK9G3sZ0_3U0eP9oD_uOTbdEVc3LMw9rqTlSLhCfiTNXeDoSGkXgwJCn_f06Q5i3keB11Sho6Iln3HfyAZ8Uorkzs3ibggoeos_A49sVLuJiCZeOPqs6oERMD0LyHO3oBqApiXxo6FNeYvqE6HzXxZBdt7kr4r52t3m-UXryD_AksL4y6D_3R9Cj_CMB43MfrPfDJY_1jCQ9Q75n1QMhItzOwu3TmuaKgzhlKIMW8dAXqi3Y1ADsEVDRCW4qy-hY2ui3PhCzTt1bgNO7s-TkjF3Q2gTaKJV1NsG2LyAABHIBcARISdaYhGHq9N_sqbHlfAEw7GsQg==&vjs=3&p=1&fvj=0
+Company: Smarkets
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=62d3ee48b11b0e27&fccid=9ffcf3ea2673efee&vjs=3
 Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, go, javascript, linux, mac, bs
-
-Title: Sr. Full Stack Developer CO
-Company: atEvent
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=cd96b12184138830&fccid=57d9ba015f901273&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, javascript, agile, bs, computer science, git, sql
-
-
-Title: Business Intelligence Developer
-Company: Blue Moon Digital, Inc.
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/company/Blue-Moon-Digital,-Inc./jobs/Business-Intelligence-Developer-a3bfaa32c862dedb?fccid=defc55aa2a503b47&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: python, html, css, bachelor, bs, computer science, git
-
-Title: Software Engineer ( NodeJS, Angular and JavaScript)
-Company: PENSCO
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=78d3e752e355b53a&fccid=5cd49f0e57ddab87&vjs=3
-Salary: $74,000 - $111,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, docker, agile, linux, git
-
-Title: Quality Assurance Engineer (T&R)
-Company: Willis Towers Watson
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=b0ba04a0123bc7af&fccid=52f90de7b5346a08&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, css, go, javascript, agile, bachelor, sql
-
-
-Title: Senior Software Engineer
-Company: Alarm.com
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=df5fd86e09ba455c&fccid=18061989e771e071&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, go, javascript, agile, mac, bachelor, computer science
-
-Title: Senior Developer -- Full Stack + Unity
-Company: Alef Omega, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/company/Alef-Omega,-Inc./jobs/Senior-Developer-4b8186075a2acdfe?fccid=9fcdb9dfae45a123&vjs=3
-Salary: $93,000 - $132,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, html, css, go, javascript, bs
-
-Title: Java Scala developer
-Company: Cognizant
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=01b66196b618a4b0&fccid=2df6a1e69a70a1e7&vjs=3
-Salary: $92,000 - $132,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: java, html, css, go, agile, bs, git
-
-Title: Data Scientist
-Company: BP
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=734d39e29a3e08e3&fccid=03cacc905f5db444&vjs=3
-Salary: $94,000 - $138,000 a year (Indeed est.)
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, c++, go, agile, mac, bs
-
-Title: Front End Solutions Developer
-Company: CapTech Consulting
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=4bb50a0e868752a5&fccid=6ce11bcd7af32730&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, html, css, javascript, bachelor, bs, computer science
-
-Title: Platform Engineer - Sustaining Team
-Company: Tendril
-Location: Denver, CO 80216 (Northern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=15114686dc9b6f76&fccid=b4ff35bc5bb293f2&vjs=3
-Salary: 
-Matches: 7 out of 21 keywords matched
-Keywords: java, python, javascript, docker, bs, computer science, sql
-
-
-Title: Software System Engineer
-Company: Odyssey Space Research
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AV-Bg6ue55Kd3zrXEc0DEhZ7BHxPZA-BFDNmUtEViJ0lB08wMYjB11wJrfKpCn593Qs6Q_iiqHnQ7f4-z7EyoGdD9vl0RJHntVSfzjtfYczflQJIw-ETWT4VFmU7aMBDN1eC7NgQbbscEoBlFnAx4tIPQSwLg1hkxQSXHWf6WhGqxWxUYA6qc_xqHwxO6F5_zV8Gou1EAFDyRi7ChuKJWC748Fy2fThS5INf5ZT8zwT4fbspmtGyf7MeXocIGEotmdRYrAf-8SLYv5yU8N3lchw370jMF9seA3BZ4xYl2LvuVKD-pPj11fteQV5pNJQcmT6IQ6aCmw3FB4DD-cFFQi2oKlIiQk3QuFJwVwqqLihCkuWrbXj100xWhIOf0ZcLNeAXQ-jTC46OtRyiZxUYHHcOTmRrigoBJIym_jmukB55Hs8quiWS88z_UF4YOyvmSxdch2qrbzu1abANdCgGCS7qdrGEefXOM=&vjs=3&p=4&fvj=1
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, c++, go, linux, bs, computer science
-
-Title: Embedded Software Engineer
-Company: Star Lab Corp.
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0COTQJr15KuA8-s3cfSdZlVj5hOIvvKyeykWSldKrT2snGyqMCdBv2cf9WwTGp6CZyqfsMGMlyHtJo2y-MXWWQUNbpFEUtxA5CmW3Qi5471CGsLrGfDWZxfxHQlUd2vy8ZuTWVyrCj8PjDUyMMfX2an_zHdlTWjj6P27HtuDtKxSEC2JG-DSbQRL9KAnDlV_ajd5FGzRH46EgWGB3oy4L-HY7B8b9CE_asuTEcBWdiU9I_jKvQBwd-XjuvOQ7hn8pA4mgdERx0BUEGnwkvPsVkl5LlCJBb9M6NgVmcp9vA9aPDHL9rNmRAmi1i60Ps_bZuiu67oUluYXyMNe8kcoIEjiTjbFzUE9IuNr9tXIx5FgPyE1JiIChcSBK-3x1QLYKMsig4kG-N-P0LW_odWekM08ZBlejFv94iYkGMZsTNUyZ2mZSyoGbCO8eIS6SP5geLVE5_GPAfDv2ohRTVXWBoqCRv8zurClaN1kkmT0jaPZw==&vjs=3&p=8&fvj=1
-Salary: $80,000 - $150,000 a year
-Matches: 6 out of 21 keywords matched
-Keywords: python, c++, agile, linux, bs, git
-
-Title: Digital Signal Processing Engineer TS/SCI
-Company: ED Wallach Search Group
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=297f3d2885fb7c7d&fccid=d274e1dce7158c48&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, c++, go, linux, computer science, git
-
-Title: Sales Manager, Customer Success / Renewals Team
-Company: Autodesk
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=ad20cb451c7eaf78&fccid=7136762d065a5ad7&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: css, go, bachelor, bs, university, git
-
-Title: Civil Engineer (Geotechnical), GS-0810-11 (Direct Hire-GEB)
-Company: US Department of the Interior
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=f1f9c6d4677edab2&fccid=a49370fbe395bbd8&vjs=3
-Salary: $88,442 - $104,363 a year
-Matches: 6 out of 21 keywords matched
-Keywords: go, bachelor, bs, computer science, university, entry
-
-Title: Customer Success Manager
-Company: Iterable
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=28282c374995d4b5&fccid=2d391ae803500ab0&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, bachelor
-
-Title: Sr. Front-End Developer
-Company: RE/MAX
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=27207c50e93f0255&fccid=8c5e75d52bdc1416&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: html, css, go, agile, bs, git
-
-Title: Managing Consultant – Healthcare IT
-Company: PA Consulting Group
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=c07aec8308cf9059&fccid=cf94a2aa6eb7d672&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: go, agile, bachelor, bs, computer science, git
-
-Title: Software Engineer
-Company: All Points Logistics
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=3b995184ad60b0c0&fccid=d8df7115c681dfca&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, c++, go, linux, bs, computer science
-
-Title: Software Engineer
-Company: Adcellerant
-Location: Denver, CO 80216 (Northern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=6b81b1f20963dbcf&fccid=5d97fce90cf86fd2&vjs=3
-Salary: $89,000 - $133,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, javascript, agile, git
-
-Title: Full Stack Software Engineer
-Company: talentReef, Inc. | talentReef
-Location: Denver, CO 80206 (Central East Denver area)
-Link: https://www.indeed.com/rc/clk?jk=75792992fdc05105&fccid=3af72e1caa503cb2&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, agile
-
-Title: Cloud Ops Engineer
-Company: Shutterstock
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=d505fdb8ba65150b&fccid=bee6858907df8871&vjs=3
-Salary: $92,000 - $129,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: python, go, docker, linux, bs, git
-
-Title: Technical Evangelist
-Company: Vidado
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=ecd3b94d6f9a09a4&fccid=af638ad9b5f1b04f&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, mac, bs, computer science
-
-Title: Technical Lead Engineer - Customer Management
-Company: OnDeck
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=6d0abba3e76f611d&fccid=48638adc95945cc6&vjs=3
-Salary: $97,000 - $143,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, agile, bs, computer science, git
-
-Title: Platform Engineer
-Company: On-Demand Talent Management
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=28bc9a4424a9fd6b&fccid=0b75129480130845&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: go, docker, agile, bachelor, bs, computer science
-
-Title: Senior Software developer
-Company: S&P GLOBAL MARKET INTELLIGENCE
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=72dcb4244af56de2&fccid=2c2386465bad2305&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, javascript, agile, bachelor, computer science
-
-Title: Senior .NET Software Engineer
-Company: FRONTSTEPS
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=e3057a048abc089d&fccid=40bc398e7fa097fb&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: go, docker, agile, bachelor, bs, git
-
-Title: Enterprise Sales Engineer (Denver, CO)
-Company: Okta
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=4d3cfd30eceb4697&fccid=4049a78a6232aa5c&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, html, javascript, bachelor, computer science
-
-Title: Solution Architect
-Company: Vlocity
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=e8670b6e56510d2a&fccid=fdc4843b36e91fd7&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: go, agile, mac, bachelor, computer science, git
-
-Title: Senior Systems Software Developer
-Company: Goodman Manufacturing Company
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=522953e1566083b2&fccid=946656ba950b3b89&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, javascript, bachelor, bs, computer science
-
-Title: Data Architecture and Analysis Lead
-Company: Janus Henderson
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=674a364c6a3045b4&fccid=a6d93d6aecd27f30&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: go, mac, bachelor, bs, computer science, git
-
-Title: Data Engineer
-Company: Datalere
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=f809a9b314a98b9f&fccid=19202fba07735a32&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, agile, bachelor, computer science
-
-Title: Data Scientist
-Company: ICR
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=95ada76c12f974ef&fccid=f443114cfea84035&vjs=3
-Salary: $105,000 - $154,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: python, c++, go, mac, bachelor, computer science
-
-Title: Software Engineer, Front-end (Denver)
-Company: Brightwheel
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=0463c89fd75e52b1&fccid=02b926b6f9ec40fd&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, sql
-
-
-Title: Software Engineer
-Company: Koverse
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=d6898d810cdb3866&fccid=d4558acf651055d6&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, mac, bs, computer science, git
-
-Title: Application Architects
-Company: Western Union
-Location: Denver, CO 80219 (Southwestern Denver area)
-Link: https://www.indeed.com/rc/clk?jk=a7b8f8ad8a3b8fc6&fccid=a9a275f507bb2412&vjs=3
-Salary: $100,000 - $141,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, javascript, agile, bachelor, computer science
-
-Title: Senior Distributed Software Developer
-Company: Wolfe, LLC
-Location: Denver, CO
-Link: https://www.indeed.com/company/Wolfe,-LLC/jobs/Senior-Distributed-Software-Developer-a5e5f75d0adf01fa?fccid=63df2153af622576&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, docker, bachelor, bs
-
-Title: Senior Software Engineer
-Company: betterworks
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=a5731bb16d7e8b58&fccid=7f0218b11da83056&vjs=3
-Salary: $103,000 - $138,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, css, go, javascript, django
-
-Title: Senior Software Developer - Denver
-Company: DispatchHealth
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=44e82bc4c0f61fae&fccid=e878d032323d129e&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, javascript, agile, mac, bs, computer science
-
-Title: Sr. Software Engineer
-Company: Benefitfocus
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=b659a12ace4a1d82&fccid=ff72a9574709dc94&vjs=3
-Salary: $96,000 - $129,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, go, javascript, bs, git
-
-Title: Digital Signal Processing (DSP) Software Engineer
-Company: IOMAXIS
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=5d7aeee70a470b72&fccid=bd916138c6247c6b&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, c++, go, linux, mac, git
-
-Title: Technical Support Engineer (Denver, CO)
-Company: Imagine Communications
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=6111c31d365cf350&fccid=403d4e7d25aedf69&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, go, javascript, docker, linux
-
-Title: UI/UX Software Developer
-Company: Empiric Health
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=af7253c8cea53f00&fccid=03dedf5403c8c28b&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, javascript, agile, bachelor
-
-Title: C# - Programmer / Developer
-Company: TurnCommerce
-Location: Denver, CO 80218 (Central East Denver area)
-Link: https://www.indeed.com/rc/clk?jk=6e91b286de5f6987&fccid=2e04c38f36a915ef&vjs=3
-Salary: $2,000 a week
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, bs
-
-Title: Senior Software Engineer- Java
-Company: Betsol
-Location: Denver, CO
-Link: https://www.indeed.com/company/Betsol/jobs/Senior-Software-Engineer-18c2344e6e1dce85?fccid=717a29b74cb0539b&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, javascript, docker, linux, git
-
-Title: Full Stack Scala Engineer
-Company: Fractal Industries
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=d9139c1eb0f6ea0c&fccid=21e3d13217a9af99&vjs=3
-Salary: $90,000 - $129,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, go, javascript, mac
-
-Title: Java Developer (No C2C only W2)
-Company: Skill Buddy Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/company/Skill-Buddy-Inc./jobs/Java-Developer-b94ece15794e1960?fccid=dac26fe971d94f8b&vjs=3
-Salary: $86,000 - $124,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, javascript, linux, bachelor, computer science
-
-Title: Systems Engineer - Financial Services (Insurance)
-Company: SAS Institute
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=e2863a5c83a1e6ff&fccid=068cc3667458485a&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, go, mac, bachelor, bs, computer science
-
-Title: Professional Services Consultant
-Company: Splunk
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=f023eb0aea0b76d8&fccid=aef928e89977f7f0&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, mac, bs, computer science
-
-Title: Sr. Software Test Engineer
-Company: Visa
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=9235b7c64bd91aa1&fccid=a3f737e511d9fc8c&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, linux, bachelor, computer science, git
-
-Title: SQL Data Integration Specialist
-Company: Physicians Health Partners, LLC
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=f9f393c2b18969a0&fccid=93f3ee0d382cae6a&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, c++, go, javascript, bachelor, computer science
-
-Title: Civil Engineer
-Company: US Department of the Army
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=b1799d1bdc74d095&fccid=c3b8389ba1f05d96&vjs=3
-Salary: $104,821 - $148,794 a year
-Matches: 6 out of 21 keywords matched
-Keywords: html, go, bachelor, bs, computer science, university
-
-Title: Corporate Sales Engineer
-Company: Snowflake Computing
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=6ef140ba84ef52e4&fccid=de6a7f640562b0c1&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, c++, go, computer science, university
-
-Title: Linux Systems Engineer
-Company: ICF
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=dd5cb18f50e43e76&fccid=cc35f9c14f8799a9&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: css, go, linux, mac, bs, git
-
-Title: Senior/Lead/Principal Full Stack Software Engineer, Syntheti...
-Company: New Relic
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=b7f2588fb9927459&fccid=ade8cd847c0482cd&vjs=3
-Salary: $103,000 - $147,000 a year (Indeed est.)
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, javascript, bs, git
-
-Title: Recording Engineer
-Company: Continuum Global Solutions
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=13143792bcc0124f&fccid=5b198d05aaea1d84&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: go, mac, bachelor, bs, computer science, git
-
-Title: Windows DevOps Engineer
-Company: Palantir Technologies
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=86c45c7321122de3&fccid=c47ef3947291e221&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: python, go, docker, linux, bs, computer science
-
-Title: Senior Google Cloud Data Architect
-Company: Cloudreach
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=25dd3b9eddc46191&fccid=c4b9045533fdc061&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, python, go, agile, mac, university
-
-Title: Identity and Access Management Technical Consultant
-Company: Strategic Security Solutions (S3)
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=5eb89d5d56067b55&fccid=0e3061aa6fb7171f&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, linux, bachelor, bs, computer science
-
-Title: QA Test Engineer
-Company: American AgCredit
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=4869e9a44b1957ca&fccid=c36be74e41d307a5&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, html, css, javascript, bs, computer science
-
-Title: Software Developer, Senior (Denver)
-Company: SCRAM Systems
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=5536cc654b666ed0&fccid=f46646d874363755&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, css, javascript, agile, bs, computer science
-
-Title: JAVA Software Engineer I-II
-Company: Federal Reserve Bank of Kansas City
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=df8b39d3932b081b&fccid=dc15205838da8ed6&vjs=3
-Salary: 
-Matches: 6 out of 21 keywords matched
-Keywords: java, go, agile, bachelor, computer science, university
+Matches: 2 out of 5 keywords matched
+Keywords: python, go
+
+Title: Director of Software Engineering, Web
+Company: Fender
+Location: Los Angeles, CA
+Link: https://www.indeed.com/rc/clk?jk=c1b0b3c9efe60afb&fccid=a75b8840a9ec8fb9&vjs=3
+Salary: $125,000 - $188,000 a year (Indeed est.)
+Matches: 2 out of 5 keywords matched
+Keywords: java, go
+
+Title: Data Scientist - Platform
+Company: Inspire
+Location: Los Angeles, CA 90015
+Link: https://www.indeed.com/rc/clk?jk=3bf5078047567d9e&fccid=0f9b540b37a1726e&vjs=3
+Salary: $121,000 - $179,000 a year (Indeed est.)
+Matches: 2 out of 5 keywords matched
+Keywords: python, go
 
