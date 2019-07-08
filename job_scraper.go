@@ -9,6 +9,7 @@ import (
 	"os"
 	"strconv"
 	"strings"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gansidui/priority_queue"
@@ -289,6 +290,8 @@ func main() {
 	var jobCount int
 	var indeedCount = 1
 
+	startTime := time.Now()
+
 	// To go the the next page in an indeed search page, increase
 	// the start by 10
 	for start := 0; start < indeedCount; start += 10 {
@@ -323,17 +326,17 @@ func main() {
 			} else {
 				indeedCount = 100
 			}
-			// Limit to 5000 jobs
-			if indeedCount > 5000 {
-				indeedCount = 5000
-			}
+			// Limit to 1000 jobs
+			// if indeedCount > 1000 {
+			// 	indeedCount = 1000
+			// }
 		}
 
 		// Print status of jobs searched
 		fmt.Println("Jobs Searched:", start, "out of", indeedCount)
 
 		// Find elements in the document
-		indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
+		go indeedDoc.Find(".jobsearch-SerpJobCard").Each(getDocInfoIndeed)
 	}
 
 	// Get a list of the jobs, and only return the highest match job
@@ -376,4 +379,6 @@ func main() {
 			fmt.Fprintln(file)
 		}
 	}
+
+	fmt.Printf("Total time: %s \n", time.Since(startTime))
 }

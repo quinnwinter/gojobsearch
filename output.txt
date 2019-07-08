@@ -1,149 +1,1177 @@
 Parameters: 
-Title: sosoftware engineer 
+Title: software engineer 
 Salary:  
-Location: denver co 
-Radius: 10 miles
+Location: seattle wa 
+Radius: 5 miles
 Job Type: full time 
 Experience: entry level 
-Jobs searched: 50 
-Job matches: 25 
-Keywords: java, python, c++, go
+Jobs searched: 1000 
+Job matches: 700 
+Keywords: java, python, c++, html, css, javascript
  
 Job Matches:
-Title: Junior Software Developer
-Company: DISH Network
-Location: Englewood, CO 80113
-Link: https://www.indeed.com/rc/clk?jk=8c1e6340e2383aef&fccid=3c371b712ace44cf&vjs=3
+Title: Full Stack Software Engineer
+Company: Apple
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=7dc86616ba3b9990&fccid=c1099851e9794854&vjs=3
 Salary: 
-Matches: 3 out of 4 keywords matched
-Keywords: java, python, c++
+Matches: 6 out of 6 keywords matched
+Keywords: java, python, c++, html, css, javascript
 
-Title: Software Development Engineer
-Company: DigitalGlobe
-Location: Westminster, CO
-Link: https://www.indeed.com/rc/clk?jk=bfe06af3684db53a&fccid=a924fdf034212563&vjs=3
-Salary: 
-Matches: 3 out of 4 keywords matched
-Keywords: java, python, c++
 
-Title: Software Development Intern
-Company: Radiant Solutions
-Location: Westminster, CO
-Link: https://www.indeed.com/rc/clk?jk=d0244ec05837dfad&fccid=9ab933a50b7d7a98&vjs=3
+Title: Software Engineer: Platform Applications 1
+Company: Vizio Inc.
+Location: Seattle, WA 98109 (Westlake area)
+Link: https://www.indeed.com/rc/clk?jk=880d8cff71c7854d&fccid=92e63b32d73ded6e&vjs=3
 Salary: 
-Matches: 3 out of 4 keywords matched
-Keywords: java, python, c++
+Matches: 5 out of 6 keywords matched
+Keywords: java, python, c++, html, css
 
-Title: Software Engineer, Full Stack
-Company: Virta Health
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=21067815ee20202a&fccid=d709b135fa09fa4e&vjs=3
+Title: Front End Engineer, EKS
+Company: Amazon.com Services, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=295bcac9b216bf00&fccid=fe2d21eef233e94a&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, python
+Matches: 5 out of 6 keywords matched
+Keywords: java, python, c++, html, css
+
+Title: Application Engineer
+Company: Zillow Group
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=4f03ee1e35eeccd0&fccid=913e1b259c8d65e2&vjs=3
+Salary: 
+Matches: 5 out of 6 keywords matched
+Keywords: java, python, c++, html, css
+
+Title: Front End Software Engineer
+Company: Google
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=f7e53f86daf79ca1&fccid=a5b4499d9e91a5c6&vjs=3
+Salary: 
+Matches: 5 out of 6 keywords matched
+Keywords: java, python, c++, html, css
+
+Title: Software Engineer, Product (Full Stack)
+Company: Facebook
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=e4d38628fa49b786&fccid=1639254ea84748b5&vjs=3
+Salary: Similar jobs pay $77,000 - $111,000 a year
+Matches: 5 out of 6 keywords matched
+Keywords: java, c++, html, css, javascript
+
+
+Title: Front-end Engineer - AWS Pinpoint (Serverless, Global Digita...
+Company: Amazon Web Services, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=37b06a7872013b06&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 5 out of 6 keywords matched
+Keywords: java, python, c++, html, css
 
 Title: Software Engineer
-Company: Nexleaf Analytics
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=09e455ddd399c0c0&fccid=5dcb3b4c7d4dfcad&vjs=3
+Company: GE Healthcare
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=01eb2dcb22e7fb06&fccid=65b5f2aba4dbd31f&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, python
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Software Developer/Engineer, Revenue Management
+Company: Tyler Technologies, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=5ad2ca70209c84b3&fccid=35fa439a19059a40&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, c++, html, css
+
+Title: iOS Engineer
+Company: Twitch
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=45433e74c31b80d6&fccid=e21f6affbb4bb0b2&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, c++, html, css
+
+Title: Web Designers/Programmers Developers
+Company: Seattle Shopping Guide
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=9db160bf5ae6a1d9&fccid=03c7f7e037bf46b8&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, c++, html, css
+
+Title: Software Developer
+Company: Rad Power Bikes
+Location: Seattle, WA 98107 (Ballard area)
+Link: https://www.indeed.com/rc/clk?jk=514c6877d3cbf90d&fccid=2b732511b96d1e64&vjs=3
+Salary: $74,000 - $111,000 a year (Indeed est.)
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Software Engineer, UI
+Company: ExtraHop Networks, Inc.
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=5edd08fe8060b39f&fccid=5dd0073fb1381f82&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
 
 Title: Software Engineer
-Company: Ibotta
-Location: Denver, CO 80202 (Lodo area)
-Link: https://www.indeed.com/rc/clk?jk=1f76be3eb1612475&fccid=2e1276ca32b1a903&vjs=3
-Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, python
-
-Title: Software Engineer (up to 25% Profit Sharing)
-Company: CACI
-Location: Aurora, CO 80010 (Delmar Parkway area)
-Link: https://www.indeed.com/rc/clk?jk=7c5eba1d1887cee3&fccid=290a4498a64fc044&vjs=3
-Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, python
+Company: Security Industry Specialists, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=ed27b83281e40b8a&fccid=a4237fa7843498b1&vjs=3
+Salary: $95,000 a year
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
 
 Title: Software Engineer
-Company: Lifeloc Technologies Inc.
-Location: Wheat Ridge, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DK0Lz4zbtPiZsugezU134VxJG2AsXd_-6IPBFepCrI8Fct0YKez13HD-kL4ImJj_yTyJSThOkPVNapd0FmuVmvBETrcRK5kSe489hvk1XTM_L06zuYJtt1b19RPnVfuEF12OJMH8ReGR3iAE5GSrbNCDRBQ-xQ-XGjEsqM_Y-ci-RhiBaQL1J70TPbBgB7vSLr5JjPnD_3MmcPQbITruQHvdoBXeiWADckxzFGxdT8BgU_iZzR7tfyYPz_Zyk38JAeMNo3bSJLjt7vwZdSBIuyrFh1eubeajkLvjEuCfsInoMUsKMTqJNdoAg8s_Es01QbNTjpb6PSRdAChFdK264CYYKW2wL-P3kqPl7bxQt2g_VYg-NOcw3q_O8O_QupaSlOT9Keq2EhYeBaiHJB4Ltyo5lRATYe_JTRYWKj7DdTZStUOk1mL0LQ&vjs=3&p=9&fvj=1
+Company: Syrinx
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=55e80a6d3bfa55c4&fccid=da8079cc6582f65e&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, c++
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
 
-Title: Software Engineer - API Development
-Company: Zicasso, Inc.
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AWDIyoxFwhAnH01yLRcupADe_Ky10dnGA5ccDeymASrVVL_HwXKbmtXfRXuEEooqfpUCjPE4Itdv24WMnk3otresG3L8f-Hg8uK6lSbibqGr9vAkP3eSIMC3j8fOqFUGZz-iqPzaLGKz6u5evJGXVRy_qOn2hlnHwF8Ntrch7M_GHFspAQzjvg0JF3sRcRM2aKUXSfHKTAWZaUVwLJlwYOQFldlfiS_PeiKrDvUEUu_fFYCywabVOnMZMbtAME7dX_i26fMNGkKF5DRMCJrYvH9ZZCQ3oQ0xORQpsRsx-x1X1HLfguR7__xNF7ecI7EVy0MWs12Ak__88jL2yjEiR1-aCpNBiTBKkNHo0qWIAF2SuWS1gk2YShVAU8BzYgRdvN_2RLRGWl1wQb5d9qsPVNksPIQJGZ0cnjVGPvBuEahHkN8awBzRgeqSy9ZhoCNUwNAEwGdxibevOrY4LPzwmbpqRXZfzFqEo=&vjs=3&p=8&fvj=1
-Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, python
+Title: Software Developer- Front End
+Company: Critigen
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=ea156ac114259241&fccid=efe6ad69690fc99a&vjs=3
+Salary: $88,000 - $130,000 a year (Indeed est.)
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
 
-Title: Software System Engineer
-Company: Odyssey Space Research
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AV-Bg6ue55Kd3zrXEc0DEhZ7BHxPZA-BFDNmUtEViJ0lB08wMYjB11wJrfKpCn593Qs6Q_iiqHnQ7f4-z7EyoGdD9vl0RJHntVSfzjtfYczflQJIw-ETWT4VFmU7aMBDN1eC7NgQbbscEoBlFnAx4txY__ymPXW_0FIGVJMwsilDko09bcvSQNPD5iF0c49GxlZSPhIguXAsXMcnpcBHjchgUmIUuOYd5oKak7tEeFUKRTdjE2CtAwgNO9lYn5SfxRQAgzr6-bf0TqOnpKp8vbNBchpbgGA448Aoqgj-NgsH43XPvknf6AC_Nh0NFuMyUG8wf8O9BrN17Wgi27vxJhfEX2oQ1eedMTZ5CQss-Gl02ffsnC0YSgBRlqwjvxGyq-h0cmWg01WBR5gDeeoIGYsO09sFlIIdA1GKtz0S109yAeJXTJrJDELDEQYBpaWp5X1YW0RRg84g==&vjs=3&p=5&fvj=1
+Title: Senior Software Engineer
+Company: Tableau
+Location: Seattle, WA 98107 (Ballard area)
+Link: https://www.indeed.com/rc/clk?jk=a4a0d3e562c1d8f8&fccid=f334737e3fd6818e&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: python, c++
+Matches: 4 out of 6 keywords matched
+Keywords: java, c++, html, css
 
-Title: Software Developer - Campus Recruiting
-Company: CGI
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=a913700f737837c5&fccid=d2841a5c0380b93d&vjs=3
+Title: Software Engineer II, Fullstack
+Company: Providence Health & Services
+Location: Seattle, WA 98194 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=7de40c4efede87ee&fccid=b983e0b562a36362&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, c++
+Matches: 4 out of 6 keywords matched
+Keywords: java, html, css, javascript
+
+
+Title: Front-End Engineer
+Company: Amazon Services LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=530e771d32bd3f35&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, c++, html, css
+
+Title: Software Engineer
+Company: General Electric
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=1aab2e8349ab7453&fccid=c5c99ec01e2125aa&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Front End Engineer (FT)
+Company: Novel Effect
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=3452962eeaad2c01&fccid=b99a49d670484c58&vjs=3
+Salary: $93,000 - $138,000 a year (Indeed est.)
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Front-End Engineer
+Company: Amazon Mechanical Turk, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=304e64d1d28abaff&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: UI Developer
+Company: Holland America Line Inc
+Location: Seattle, WA 98119 (Queen Anne area)
+Link: https://www.indeed.com/rc/clk?jk=300a8ff6a53d93a2&fccid=fa188178345ae8f8&vjs=3
+Salary: Similar jobs pay $81,000 - $120,000 a year
+Matches: 4 out of 6 keywords matched
+Keywords: java, html, css, javascript
+
+
+Title: Developer (Front-End) - Cargo Signal™
+Company: Expeditors
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=b46fd5d40fdbda68&fccid=82402e8737017edf&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
 
 Title: Full Stack Software Engineer
-Company: Cigna
-Location: Denver, CO 80210 (University area)
-Link: https://www.indeed.com/rc/clk?jk=30f691c884073feb&fccid=afbf8c270610a38a&vjs=3
-Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, python
+Company: Tango Card
+Location: Seattle, WA 98116 (Admiral area)
+Link: https://www.indeed.com/rc/clk?jk=61c79f0da399d0e5&fccid=54e9865f5256c653&vjs=3
+Salary: Similar jobs pay $93,000 - $133,000 a year
+Matches: 4 out of 6 keywords matched
+Keywords: java, html, css, javascript
 
-Title: Junior Software Engineer
-Company: Applied Research Associates, Inc
-Location: Littleton, CO 80120
-Link: https://www.indeed.com/rc/clk?jk=cfd5712d3800ac0c&fccid=600e6abd00b4b668&vjs=3
+
+Title: Full Stack Engineer
+Company: Jonas Software
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=a61781abb63f7e02&fccid=20bb86b33a3c7256&vjs=3
+Salary: Similar jobs pay $106,000 - $151,000 a year
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Front End Software Engineer
+Company: BrandVerity
+Location: Seattle, WA 98102 (Capitol Hill area)
+Link: https://www.indeed.com/rc/clk?jk=e64e97a9eb668026&fccid=7873267333475cbf&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, c++
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Webex Teams iOS Engineer
+Company: Cisco Careers
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=dd1c40705baa0ad4&fccid=dfc44f3b8c44a6db&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, c++, javascript
+
+
+Title: INFRASTRUCTURE SOFTWARE TOOLS ENGINEER
+Company: University of Washington
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=aa8cffd701fa735a&fccid=142783ac2edbe56b&vjs=3
+Salary: 
+Matches: 4 out of 6 keywords matched
+Keywords: java, python, html, css
+
+Title: Software Development Engineer - IMDb
+Company: IMDb.com, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=bcbf0b2d35b093d6&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Developer II Java
+Company: Globant
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=4ac31835b427ac2b&fccid=34ea81fd9e91a411&vjs=3
+Salary: $102,000 - $137,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: software development engineer, Starbucks Technology - Seattl...
+Company: Starbucks
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=a6870ed9f96a903d&fccid=a88e611ddef97571&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Security Software Engineer
+Company: ViaSat
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=e1d7e73ffa273e32&fccid=8b219f1987ef65ea&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Development Engineer II
+Company: Expedia Group
+Location: Seattle, WA 98119 (Queen Anne area)
+Link: https://www.indeed.com/rc/clk?jk=c24169740bcd2448&fccid=160efb82f2462f14&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
 
 Title: Software Engineer
-Company: Partner Colorado Credit Union
-Location: Arvada, CO 80003
-Link: https://www.indeed.com/company/Partner-Colorado-Credit-Union/jobs/Software-Engineer-785840569ef3babb?fccid=8552d09a71c90520&vjs=3
+Company: The Seattle Times
+Location: Seattle, WA 98109 (Westlake area)
+Link: https://www.indeed.com/rc/clk?jk=b8e160e5404ac2e3&fccid=72ffc47c743d49eb&vjs=3
+Salary: $88,000 - $132,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, css
+
+Title: Software Design Engineer
+Company: Amplio Network
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/company/Literacy-Bridge/jobs/Software-Design-Engineer-3150d5b7cf822ba1?fccid=4af0a2c1fa44bbfe&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: java, c++
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: UX-Obsessed Java Developer
+Company: Brikit
+Location: Seattle, WA
+Link: https://www.indeed.com/company/Brikit/jobs/Ux-Obsessed-Java-Developer-a15ba4cfdf429b60?fccid=ecb23d4278d150a5&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Analyst
+Company: Ecotope, Inc.
+Location: Seattle, WA 98105 (Ravenna - U District area)
+Link: https://www.indeed.com/company/Ecotope,-Inc./jobs/Analyst-badd2d614d6b9e97?fccid=84b2bf9f0fdfde62&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Bioinformatics Analyst I
+Company: Fred Hutchinson Cancer Research Center
+Location: Seattle, WA 98109 (Westlake area)
+Link: https://www.indeed.com/rc/clk?jk=5863e967c2a0b9a8&fccid=a513e92edbf529af&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Sr. Applications Developer
+Company: City of Seattle
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=6df20f900421defe&fccid=7ab02d0382dcd5b4&vjs=3
+Salary: $83,102 - $124,695 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: JavaScript Engineer
+Company: Avalara
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=174bb1f350dbacaa&fccid=ec30d82962c8b13b&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer
+Company: Twitter
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=7308a7803140ea73&fccid=7a3824693ee1074b&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, c++, html
+
+Title: Software Engineer 2 - Rapid Development Team
+Company: f5
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=bc41d764cf1b2bf9&fccid=b74955bbcc3f8c96&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Engineer
+Company: Palantir Technologies
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=280f3b0564d0311d&fccid=c47ef3947291e221&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Web Software Engineer - Angular - Bizible
+Company: Adobe
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=b3d275bf7f0c1a55&fccid=f89deb5a97c7738a&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer
+Company: Earth Resources Technology, Inc
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=3df0fb4c5f9fd6f9&fccid=dcaff20290660bac&vjs=3
+Salary: $86,000 - $129,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Engineer, Software Networking (Edge Team)
+Company: Uber
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=351c10f50a85d1e2&fccid=f766f8bfbc3effb7&vjs=3
+Salary: $107,000 - $160,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Front End Developer
+Company: ICF
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=e929adc1568831b5&fccid=cc35f9c14f8799a9&vjs=3
+Salary: Similar jobs pay $81,000 - $119,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Development Engineer (Full-Stack), Payments
+Company: Tune
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=344752d07595c1a1&fccid=6de06e6ed1a741ba&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Data Engineer
+Company: employHER
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=71a5686a19ca1a54&fccid=33d928677f16e0e7&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Labs Engineer
+Company: New Relic
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=cd880ff8117ee0da&fccid=ade8cd847c0482cd&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Development Engineer III (Back-End)
+Company: Subsplash
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=0e1787232547c817&fccid=e6caa4ed69beddf2&vjs=3
+Salary: Similar jobs pay $104,000 - $139,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Developer 3 (JoinOCI-NLSDST)
+Company: Oracle
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=95e8bf1839b9d0fb&fccid=cd22d01053af7669&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Engineer (Front-End)
+Company: Skilljar
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=51be1a164f8c1372&fccid=ea681813daef8787&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer - Publishing
+Company: iStreamPlanet
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=0d5b51d51301f48c&fccid=fb555cd5131bb482&vjs=3
+Salary: Similar jobs pay $88,000 - $131,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Engineer - Cloud and Microservices
+Company: Splunk
+Location: Seattle, WA 98121 (Belltown area)
+Link: https://www.indeed.com/rc/clk?jk=9622d82add2a815e&fccid=aef928e89977f7f0&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Engineer
+Company: Extensis
+Location: Seattle, WA 98199 (Magnolia area)
+Link: https://www.indeed.com/rc/clk?jk=133039be043caa9a&fccid=4647a6735ad71b28&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, c++, css
+
+Title: Full Stack Developer
+Company: EPAM Systems
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=981c2ecb5cfbfdc1&fccid=532afac41b2663f7&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Development Engineer
+Company: Groupon
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=af4966a43bf9fe3a&fccid=863ad2cc91c92c82&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer
+Company: WeWork
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=098f7b78f64ece01&fccid=e76dadb9a0d8a2cf&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer
+Company: IRIS-DMC
+Location: Seattle, WA
+Link: https://www.indeed.com/company/IRIS/jobs/Software-Engineer-cfc3e144b0a40e1d?fccid=43af8801802de9ee&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Data Engineer
+Company: Accenture
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=a4cedca27897f8f5&fccid=a4e4e2eaf26690c9&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Software Developer in Test
+Company: Disney Parks, Experiences and Products
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=e1da5929e85914be&fccid=6908893b5c7af08c&vjs=3
+Salary: $81,000 - $121,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, javascript
+
+
+Title: Java & Web Software Engineer
+Company: Comcast
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=05be96d6f7e8f59f&fccid=ea25315ee9da22e5&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer II - Full Stack Development
+Company: Allen Institute
+Location: Seattle, WA 98109 (Westlake area)
+Link: https://www.indeed.com/rc/clk?jk=0555c539051b4bcb&fccid=6b1f64ade51f4574&vjs=3
+Salary: $90,000 - $129,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Development Engineer
+Company: Amazon US Services LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=8d59bae689132e01&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Java Developer
+Company: Okaya inc
+Location: Seattle, WA
+Link: https://www.indeed.com/company/Okaya-Inc/jobs/Java-Developer-3e5fa43c96983df6?fccid=786dddb0cb16adea&vjs=3
+Salary: Similar jobs pay $85,000 - $122,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer (User Engagement)
+Company: Redfin
+Location: Seattle, WA 98121 (Belltown area)
+Link: https://www.indeed.com/rc/clk?jk=32f8542d05731f6f&fccid=ccaacd9cca9fffe8&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer- UI
+Company: Zulily
+Location: Seattle, WA 98121 (Belltown area)
+Link: https://www.indeed.com/rc/clk?jk=be0177df10ef4021&fccid=1fea2a7d8e897821&vjs=3
+Salary: $86,000 - $130,000 a year (Indeed est.)
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Development Engineer, Amazon Fresh/Prime Now
+Company: Prime Now LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=909d2d17c7477df5&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Development Engineer, Sampling
+Company: Amazon Retail LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=c5eb7408034fb2af&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Client Support Engineer
+Company: Curalate
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=ff0ec68cf56be517&fccid=dbdaae1a9df32a80&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Product Engineer
+Company: XNOR.ai
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=40c2a328670bfd19&fccid=a7a5a54210ecd80f&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Senior Software Developer - Experimentation
+Company: Hulu
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=b6ec8a692dc296a7&fccid=6824fc1f087bd63e&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer Applied Data Science
+Company: Businessolver
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=be737884cacf0fe9&fccid=34970706f6e16c53&vjs=3
+Salary: Similar jobs pay $82,000 - $121,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, html, css
+
+Title: Software Engineer, Backend (Seattle)
+Company: Cockroach Labs
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=4a70f1c0a7f83219&fccid=65821e044148c3ad&vjs=3
+Salary: 
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Java Developer (Full Stack #772046) - AWS Seattle, WA
+Company: Amazon Web Services
+Location: Seattle, WA
+Link: https://www.indeed.com/company/Amazon.com/jobs/Java-Developer-9d9731cb7b7396ce?fccid=fe2d21eef233e94a&vjs=3
+Salary: Similar jobs pay $112,000 - $161,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
 
 Title: Embedded Software Engineer
-Company: Star Lab Corp.
-Location: Denver, CO
-Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0COTQJr15KuA8-s3cfSdZlVj5hOIvvKyeykWSldKrT2snGyqMCdBv2cf9WwTGp6CZyqfsMGMlyHtJo2y-MXWWQUNbpFEUtxA5CmW3Qi5471CGsLrGfDWZxfxHQlUd2vy8ZuTWVyrCj8PjDUyMMfX2ancQPOwwGjtKq7c2ZSVPzGxRnzXF20dUuRy_K7xAhjlNd2bRaxvBzp8fEY4mLUQa565IicDEk6rrQbHtSkdIgpOGyD98Lx7XphFHZtqps_tkVF00eOOY7C8pFfXPAHh-gKfU0RjWIxhcoqEGLXANNklABriewRPxDVjWno87zBIJOqNr1jKUOUeC2YxnjFxdnBI91AkP-IBY4n8X8HtkH1Nl-t7MwHGMPeyv4accSTJOd2IC6MNinkKTyWowNgZOoQWHl-taH6q3CUdgSLayUMKSBX1amTItvbjYQWYIKrTHnfVsU0ncTn7Q==&vjs=3&p=5&fvj=1
-Salary: $80,000 - $150,000 a year
-Matches: 2 out of 4 keywords matched
-Keywords: python, c++
+Company: Airbiquity Inc
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=b89caaf6108d20fc&fccid=7295210b23e69f7f&vjs=3
+Salary: Similar jobs pay $93,000 - $140,000 a year
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
 
-Title: Software Quality Assurance Engineer
-Company: Adobe
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=60fe3d375e69d6c2&fccid=f89deb5a97c7738a&vjs=3
+Title: Software Development Engineer, Advertising
+Company: Amazon Advertising LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=cbccefa81f8fdfba&fccid=fe2d21eef233e94a&vjs=3
 Salary: 
-Matches: 2 out of 4 keywords matched
+Matches: 3 out of 6 keywords matched
+Keywords: java, python, c++
+
+Title: Senior Software Developer
+Company: Leaseable
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=4ea11efb0cae096d&fccid=cff38d33d45dbb95&vjs=3
+Salary: $106,000 - $142,000 a year (Indeed est.)
+Matches: 2 out of 6 keywords matched
 Keywords: java, python
 
-Title: Software Engineer
-Company: Boom Supersonic
-Location: Denver, CO
-Link: https://www.indeed.com/rc/clk?jk=549c0488c48f6937&fccid=2d8649c591ee9502&vjs=3
-Salary: 
-Matches: 2 out of 4 keywords matched
-Keywords: python, go
+Title: Senior Software Engineer Seattle, WA
+Company: Inmarsat
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=53a9cb7ce161762c&fccid=0445e3efabfb3072&vjs=3
+Salary: Similar jobs pay $97,000 - $131,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
 
+Title: Technologist, Software Development
+Company: Liberty Mutual Insurance
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=f501eedbd6b8950a&fccid=bba15db4d8763697&vjs=3
+Salary: $123,000 - $161,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, html
+
+Title: Software Engineer (Full Stack) @ Fast Growing Food Startup
+Company: Lish
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D2Bx77UOekZpZQRDumCknjyEwvrswVOLQ3kwKSfLyJ9axSpUZwL_ScT13AgOoe4mSUngAHlVIvS8YkBxlQ_q6TonNu5XR9_f3qOzG8dfjY8WEpRQX3LkUSlGvNPPUzHrTYM-SA4GpTAX5zH2sgdNVNg2lfbnJuepjneAQ6g9zY0d5bmJmX_klgHgwxOxda5ytRmRnFsYXj1THuizJdhke_bgxHFcYKb8As_IjcgrvWftm7ThfETRDzai1cRANDATCvNYnKHRt08Qkfwpky4R3hemuFt8hDM8g3mmwLpc1zPrj9vaSnKb4zyDxZrpp3GGpzyLAy3ejjYo3uHhsTX9zD8ksxOIR6BUTeHnd9o5uOrnHQm2oSxVmj3beOpAYwIRLhG5s72Sf7oTvQAs3_EaOZauMB2OKgHtOT7GbYo6FDUSHH2w5E5Q6cCXnoN41CVM_EnGTlK2wEBRsjxXV7fASlkxEdxUAs-GlVD3FJ8aFIqg==&p=15&fvj=1&vjs=3
+Salary: $75,000 - $100,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: html, css
+
+Title: Entry Level Cloud Infrastructure Developer
+Company: Moz
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=9833cc8f2c64e96e&fccid=de3602e7105e2273&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer (Full Stack)
+Company: Code.org
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=608d6bf20602def3&fccid=d47a68ca50b8a670&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, javascript
+
+
+Title: Software Development Engineer
+Company: Rubicon Project
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=fb1b92b44a6a773c&fccid=e7adb4ba332b8039&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer, Engineering Insights
+Company: Qualtrics
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=049993e03a620dc7&fccid=10db9f943841d5db&vjs=3
+Salary: Similar jobs pay $99,000 - $149,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: QA Automated Testing Consultant
+Company: Deloitte
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=95109010606f84a3&fccid=9e215d88a6b33622&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, html
+
+Title: Engineer
+Company: SARJ
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=63ce3d7c9d9fd3ca&fccid=cbd471cad05c61e4&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: html, css
+
+Title: Visual Brand Designer
+Company: Karat
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=4c1d9ab2ab7277e2&fccid=2cbb6eb59d67005f&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: html, css
+
+Title: Software Development Engineer
+Company: MB Diversity
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=7e453df2ebbb7538&fccid=fe20a9909f443869&vjs=3
+Salary: Similar jobs pay $90,000 - $135,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Embedded Real Time Software Developer 2-4
+Company: All Points Logistics
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=b4be067e272082de&fccid=d8df7115c681dfca&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Software Engineer I- Platform
+Company: Meredith Corporation
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=f886479744f84959&fccid=1f420427b06ff1e7&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Mid-Level Software Engineer (Seattle)
+Company: Zume Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=55fe7351747519b0&fccid=a908e0bf9963fb01&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: html, css
+
+Title: Principal Software Development Engineer
+Company: Nordstrom
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=950108cf3a746807&fccid=68ce5c21322a81a4&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, javascript
+
+
+Title: DevOps Engineer
+Company: Washington Federal
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=e0d30d97817707dc&fccid=7aa0b119c73ee7e6&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: SDET II
+Company: Big Fish Games - Aristocrat
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=5b9242192a811e95&fccid=f2077b759e1339a7&vjs=3
+Salary: Similar jobs pay $86,000 - $128,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Application Developer/Engineer
+Company: Moss Adams
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=e74804bf36aad9c1&fccid=25d4103caba1cb8f&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, html
+
+Title: Data Services Software Engineer
+Company: Cisco Systems, Inc.
+Location: Seattle, WA 98121 (Belltown area)
+Link: https://www.indeed.com/company/RCI-for-Cisco-Systems,-Inc.-(Hosted)/jobs/Data-Service-Software-Engineer-a2e52e505998c51f?fccid=2c2bc7c37d3c0651&vjs=3
+Salary: Similar jobs pay $115,000 - $172,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Development Engineer, Test - Java
+Company: Airbiquity Inc.
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/company/Airbiquity,-Inc./jobs/Software-Development-Engineer-ab27a1505dabbc54?fccid=eee76474e382f5dd&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Development Engineer - Big Data
+Company: zulily
+Location: Seattle, WA 98121 (Belltown area)
+Link: https://www.indeed.com/rc/clk?jk=1b047428e03cdff4&fccid=1fea2a7d8e897821&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Allen AI Startup: WellSaid Labs - Senior Full Stack Engineer
+Company: The Allen Institute for Artificial Intelligence
+Location: Seattle, WA 98103 (Green Lake - Wallingford area)
+Link: https://www.indeed.com/rc/clk?jk=baf85716b7b3c02d&fccid=6c9f4bfc97542d3e&vjs=3
+Salary: Similar jobs pay $112,000 - $160,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: html, css
+
+Title: AI and Analytics Research Software Engineer
+Company: Cray
+Location: Seattle, WA 98164 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=638cfbc6e9e89297&fccid=e16c3f891931e766&vjs=3
+Salary: $92,000 - $139,000 a year (Indeed est.)
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Senior Software Engineer
+Company: The French Agency
+Location: Seattle, WA
+Link: https://www.indeed.com/company/The-French-Agency/jobs/Senior-Software-Engineer-f78f7890785a4fb3?fccid=7be758cd3043a33d&vjs=3
+Salary: $140,000 - $150,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer (Cloud Platform)
+Company: Motorola Solutions
+Location: Seattle, WA 98121 (Belltown area)
+Link: https://www.indeed.com/rc/clk?jk=e129e61aad1f2277&fccid=22ec6ef3cc441ac2&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Full Stack Software Engineer
+Company: JP Morgan Chase
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=2a13b2dcfb5116d7&fccid=c46d0116f6e69eae&vjs=3
+Salary: $114,000 - $163,000 a year (Indeed est.)
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Software Engineer
+Company: Amazon.com
+Location: Seattle, WA 98108 (Georgetown area)
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CLDeRneq0iH00R69znwhETIJi0tja2NYVXlCvEKPEOnHDVyxxqBstMcip8WtEcWMqJiNAekIRfwLkvhj11a2JQXqg0WNK-i8ALJwGV1_2wxIvpX3_2tUiHWBu84vfX2iAu_pzzl4jQwA4h_dCCDFyXGbfpKY2T3LEqI_W0t6RAdsIZr5_7-K_ijftsqgc62eq6J37BUOa5azQ2I_Zb2RAvx4i_GMhasp2HDLIdut90FrrpR72MVcf1xVqxTjGS9s04Lqnhntqz2qM3z3BWzQuG67psrTh8Xl37d7FpWtTJZKyvExF7x7gQWsQw0pz0w97ZhUupvUVdItj7Hub-l6Aj3ibI63nKAAcKdPIIXyogG7RRRYse3cXOuep1TwnZ3QvXHub2a-AskCTmt3bKvcEdzkFQI1xbsvbAeMRPXkVZ6vcKLPGe2SUR1ekZqaUKpiAo9fwtX3MIaw==&p=10&fvj=1&vjs=3
+Salary: $150,000 - $180,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Software Development Engineer (Fullstack)
+Company: 4C Insights
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=53711a8a32cc396c&fccid=7f8f32670248a0ed&vjs=3
+Salary: Similar jobs pay $108,000 - $154,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Associate, Big Data Software Engineer
+Company: KPMG
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=76b0d536f8f4034f&fccid=2dd390c3a48a7ed0&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Development Engineer
+Company: ArcLight Wireless, Inc.
+Location: Seattle, WA
+Link: https://www.indeed.com/company/ArcLight-Wireless,-Inc./jobs/Software-Development-Engineer-4682df75933979a6?fccid=0139bd3b3a7a2237&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Development Engineer in Test
+Company: Impinj
+Location: Seattle, WA 98103 (Green Lake - Wallingford area)
+Link: https://www.indeed.com/rc/clk?jk=fc12dd0da2b1d852&fccid=c3e8a5d99db6c2ae&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Software Development Engineer - InterSystems
+Company: MCG Health, LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=d5a7c414d8c33c7a&fccid=6d320d1e78e814a0&vjs=3
+Salary: Similar jobs pay $87,000 - $131,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Digital Analyst
+Company: Adswerve Inc
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=b14239bd8806015d&fccid=8d7d07b90876ff88&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, html
+
+Title: Monitoring Engineer
+Company: Russell Investments
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=c8a83e08b9757e03&fccid=a3dee5186de87956&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Back-End Software Engineer II (Java, Spring Boot, Python & A...
+Company: Accolade, Inc.
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=5161bcaab516894a&fccid=15530f740b369340&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Development Engineer
+Company: PillPack, LLC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=fe9fde3e254e6a24&fccid=fe2d21eef233e94a&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Software Engineer 2 - Machine Learning
+Company: QVC
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=7685d788345175b4&fccid=8a4535c948d32e2a&vjs=3
+Salary: $109,000 - $146,000 a year (Indeed est.)
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Application Security Software Engineer/Developer
+Company: Service Made Simple
+Location: Seattle, WA
+Link: https://www.indeed.com/company/Service-Made-Simple/jobs/Application-Security-Software-Engineer-Developer-5400a8ab555dd55d?fccid=79484658aaf4cc76&vjs=3
+Salary: $125,000 - $150,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: 基础设施事业部 天基 Staff software Engineer-云监控
+Company: Alibaba
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=db534a2fddd274f6&fccid=4e75c921d3645259&vjs=3
+Salary: $127,000 - $190,000 a year (Indeed est.)
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: C++ Software Engineer
+Company: SpaceCurve
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=68670458d9ba13f3&fccid=642127b94898142b&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Cloud Engineer
+Company: Staples
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=cb64af53779417ec&fccid=2c749d549b16ad16&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer - University Graduate (Entry Level)
+Company: Snowflake Computing
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=73f19610466c9a6e&fccid=de6a7f640562b0c1&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Software Engineer
+Company: Socrata
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=ca4e293fbeea1a8d&fccid=1b2f37de819662ec&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, c++
+
+Title: Software QA Engineer
+Company: Invitae
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=998405bb992133ae&fccid=03925754e1730576&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer, Data
+Company: Foursquare
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=85a979eb808da144&fccid=f65aedcd2de292bf&vjs=3
+Salary: Similar jobs pay $113,000 - $170,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Developer
+Company: Schlosser Geographic Systems
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=e20afa5f9a08d2e9&fccid=b812ed7390542bb5&vjs=3
+Salary: Similar jobs pay $75,000 - $112,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, javascript
+
+
+Title: BI Software Engineer
+Company: NBCUniversal
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=6dee4daf41840cb7&fccid=35d653c09c2712b6&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer, Knowledge Platform
+Company: Square
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=bf63700feb218e7b&fccid=09abad886b83c501&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Data Engineer & Implementation Engineer, Software Engineer
+Company: Recruiting Point
+Location: Seattle, WA 98101 (Downtown area)
+Link: https://www.indeed.com/rc/clk?jk=d47e373724f228b2&fccid=a17da28eab68f591&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer for Climate Modeling
+Company: Vulcan Inc.
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=3661241c69becafe&fccid=f90c5a6ba69ebf2f&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Software Development Engineer, Accounting Platform
+Company: Remitly
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=0b44d1fc00167cc8&fccid=76d96f0d43e39574&vjs=3
+Salary: Similar jobs pay $106,000 - $159,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer - Machine Learning
+Company: Convoy
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=059decfe7584d4dd&fccid=4514e98bb41669d2&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Web Developer
+Company: Synergy Blue
+Location: Seattle, WA
+Link: https://www.indeed.com/company/Synergy-Blue/jobs/Web-Developer-8fbd405b6a8d3fb4?fccid=1437b5e6af17877f&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, html
+
+Title: Software Engineer, Desktop Platform
+Company: Dropbox
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=ab22457b58348863&fccid=8510f9bc3a085f8e&vjs=3
+Salary: Similar jobs pay $108,000 - $161,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Senior Software Engineer - SingleFile
+Company: Pioneer Square Labs
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=6edf90ebdd2233b4&fccid=949a879c22012c1b&vjs=3
+Salary: Similar jobs pay $112,000 - $151,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Full Stack Software Engineer
+Company: Mystery
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/rc/clk?jk=14b644fff6fe98c6&fccid=5f0770db79f7cfe0&vjs=3
+Salary: $84,000 - $120,000 a year (Indeed est.)
+Matches: 2 out of 6 keywords matched
+Keywords: java, javascript
+
+
+Title: Report Developer I
+Company: C.H. Robinson
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=9afd25771e9d22fd&fccid=090a7d416d718609&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Development Engineer II -Data Science
+Company: LivePerson - Global Product & Technology
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=59f998782e872f1a&fccid=0f50160682a8ab27&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, python
+
+Title: Software Engineer, Perception - Computer Vision / ML - Seatt...
+Company: Waymo
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=6ea1690b897d1edf&fccid=73ceef0a2153d2b8&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Customer Engineering Software Engineer - Carrier Support Gro...
+Company: Qualcomm
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=5f11df118b9103fd&fccid=d40ebe11fc879426&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: NetSuite Software Engineer
+Company: ExakTime
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=d2033503b3253636&fccid=2cc1aad125306d5d&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: java, javascript
+
+
+Title: Firmware Engineer
+Company: Pensar Development
+Location: Seattle, WA 98103 (Green Lake - Wallingford area)
+Link: https://www.indeed.com/rc/clk?jk=31721e27d754c39a&fccid=8f92383335678ba6&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
+
+Title: Back-End Engineer - App Team
+Company: Dolly
+Location: Seattle, WA
+Link: https://www.indeed.com/rc/clk?jk=4f3c3c755cf070f6&fccid=557e039ba862e657&vjs=3
+Salary: Similar jobs pay $90,000 - $136,000 a year
+Matches: 2 out of 6 keywords matched
+Keywords: java, javascript
+
+
+Title: Software Engineer (3D graphics, MR/VR/AR)
+Company: Proprio
+Location: Seattle, WA 98104
+Link: https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BIOQY-fdmVliyo0wOAc0_2h1pJCOa0IjEULTq3lnZoUbQ1wwl8vT5gxsNik0Y7o-oGu26vRp-phKzZHb4wOrMp7qhUvCFluerCTpAFeb89PMHYQhB4FS_GeedAfPsmMdC3sgtT9elutRwITMgF3JOVcR0DA6uVHWVgWFM8M2mBt4Or9z_FfFZLCWPiYhGxiLSuPZk9Gx4FtyVYba46tcVJ65b_YGk1L1hMZm_uDlffwxYzxgYYItK99EJwAycNEOsd2pA9ILof4ooGfb5rFJmjQXCy6CjCJc8QOJZkYUpQsujHz2B8Rqb-htFrxqSrp6nKOlQjN5j8Fv9ReV7k5aGcaCWA22dIi3RZgPpIpvqOKIcuNMO3zxbLPMo5nYygbI7mNWsgkuZQ2O9VQz52cB34gaTf8tl6sTm4be52zp2XTbuHhnqodiWijqc3Dl1crLvcSicha7mnHJoDIRy1SuOUz47Iay7aiOg=&p=10&fvj=1&vjs=3
+Salary: 
+Matches: 2 out of 6 keywords matched
+Keywords: python, c++
 
